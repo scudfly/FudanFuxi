@@ -1,6 +1,21 @@
-<mat-card appearance="outlined">
-  <mat-card-content>Simple card</mat-card-content>
-</mat-card>
+<div class="body">
+  <div class="subject-wapper" *ngIf="!currentSubject">
+    <button mat-flat-button color="primary" class="subject-button" (click)="selectSubject('英语4')">英语4</button>
+    <button mat-flat-button color="primary" class="subject-button">离散数学</button>
+    <button mat-flat-button color="primary" class="subject-button">计算机组成与体系结构</button>
+    <button mat-flat-button color="primary" class="subject-button">中国近现代史纲要</button>
+    <button mat-flat-button color="primary" class="subject-button">数据结构</button>
+  </div>
+  <div class="mode-wapper" *ngIf="currentSubject && !currentMode">
+    <button mat-flat-button color="primary" class="mode-button" (click)="selectMode('复习')">复习</button>
+    <button mat-flat-button color="primary" class="mode-button">测试</button>
+  </div>
+  <div class="part-wapper" *ngIf="currentMode">
+    <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectMode('复习')">{{part.PartName}}</button>
+  </div>
+</div>
+
+
 
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 <!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->

@@ -1,0 +1,410 @@
+{
+    "Name": "英语4",
+    "Content": [
+        {
+            "PartName": "单词",
+            "TopicList": [
+                {
+                    "TopicName": "Atmosphere",
+                    "TopicValue": "n.大气；空气"
+                },
+                {
+                    "TopicName": "Conclusion",
+                    "TopicValue": "n.结论"
+                },
+                {
+                    "TopicName": "Conference",
+                    "TopicValue": "n.会议"
+                },
+                {
+                    "TopicName": "Deadly",
+                    "TopicValue": "adj.致命的"
+                },
+                {
+                    "TopicName": "Emit",
+                    "TopicValue": "v.散发，射出"
+                },
+                {
+                    "TopicName": "Hazard",
+                    "TopicValue": "n.危险"
+                },
+                {
+                    "TopicName": "Humorous",
+                    "TopicValue": "a.幽默的"
+                },
+                {
+                    "TopicName": "Pollute",
+                    "TopicValue": "v.污染"
+                },
+                {
+                    "TopicName": "Proceed",
+                    "TopicValue": "v.（停顿后）继续前进"
+                },
+                {
+                    "TopicName": "Signal",
+                    "TopicValue": "n.信号；暗号"
+                },
+                {
+                    "TopicName": "Survive",
+                    "TopicValue": "v.活下来；幸存"
+                },
+                {
+                    "TopicName": "Technology",
+                    "TopicValue": "n.技术"
+                },
+                {
+                    "TopicName": "Banner",
+                    "TopicValue": "n.旗，旗帜"
+                },
+                {
+                    "TopicName": "Chew",
+                    "TopicValue": "v.咀嚼；咬"
+                },
+                {
+                    "TopicName": "Exclaim",
+                    "TopicValue": "v.惊叫，叫喊说"
+                },
+                {
+                    "TopicName": "Mask",
+                    "TopicValue": "v.遮盖；掩盖"
+                },
+                {
+                    "TopicName": "Mysterious",
+                    "TopicValue": "a.神秘的"
+                },
+                {
+                    "TopicName": "Retreat",
+                    "TopicValue": "v.退缩；退却，撤退"
+                },
+                {
+                    "TopicName": "Sometime",
+                    "TopicValue": "adv.某个时候"
+                },
+                {
+                    "TopicName": "Stun",
+                    "TopicValue": "v.使震惊；使目瞪口呆"
+                },
+                {
+                    "TopicName": "Tide",
+                    "TopicValue": "n.潮汐"
+                },
+                {
+                    "TopicName": "Vanish",
+                    "TopicValue": "v.消失"
+                },
+                {
+                    "TopicName": "Argument",
+                    "TopicValue": "n.争论；辩论"
+                },
+                {
+                    "TopicName": "Bare",
+                    "TopicValue": "a.不铺地毯的；赤裸的；光秃的"
+                },
+                {
+                    "TopicName": "Contract",
+                    "TopicValue": "v.收缩"
+                },
+                {
+                    "TopicName": "Crawl",
+                    "TopicValue": "v.爬行"
+                },
+                {
+                    "TopicName": "Emerge",
+                    "TopicValue": "v.出现"
+                },
+                {
+                    "TopicName": "Faint",
+                    "TopicValue": "a.微弱的；不明显的"
+                },
+                {
+                    "TopicName": "Heated",
+                    "TopicValue": "a.热烈的；激烈的"
+                },
+                {
+                    "TopicName": "Image",
+                    "TopicValue": "n.雕像"
+                },
+                {
+                    "TopicName": "Impulse",
+                    "TopicValue": "n.冲动"
+                },
+                {
+                    "TopicName": "Likely",
+                    "TopicValue": "a.可能的"
+                },
+                {
+                    "TopicName": "Motion",
+                    "TopicValue": "v.打手势"
+                },
+                {
+                    "TopicName": "Reaction",
+                    "TopicValue": "n.反应"
+                },
+                {
+                    "TopicName": "Shortly",
+                    "TopicValue": "ad.不久；马上"
+                },
+                {
+                    "TopicName": "Appoint",
+                    "TopicValue": "v.任命"
+                },
+                {
+                    "TopicName": "Conflict",
+                    "TopicValue": "n.冲突"
+                },
+                {
+                    "TopicName": "Conservation",
+                    "TopicValue": "n.保护；保存"
+                },
+                {
+                    "TopicName": "Constitution",
+                    "TopicValue": "n.宪法；章程"
+                },
+                {
+                    "TopicName": "Create",
+                    "TopicValue": "v.创造"
+                },
+                {
+                    "TopicName": "Declaration",
+                    "TopicValue": "n.宣言"
+                },
+                {
+                    "TopicName": "Hesitate",
+                    "TopicValue": "v.犹豫；迟疑不决"
+                },
+                {
+                    "TopicName": "Humble",
+                    "TopicValue": "a.地位低下的"
+                },
+                {
+                    "TopicName": "Independence",
+                    "TopicValue": "n.独立"
+                },
+                {
+                    "TopicName": "Influence",
+                    "TopicValue": "n.影响"
+                },
+                {
+                    "TopicName": "Obtain",
+                    "TopicValue": "v.获得"
+                },
+                {
+                    "TopicName": "Reject",
+                    "TopicValue": "v.拒绝"
+                },
+                {
+                    "TopicName": "Superior",
+                    "TopicValue": "a.较好的；优的"
+                },
+                {
+                    "TopicName": "Threaten",
+                    "TopicValue": "v.威胁"
+                },
+                {
+                    "TopicName": "Advertise",
+                    "TopicValue": "v.为...做广告"
+                },
+                {
+                    "TopicName": "Apply",
+                    "TopicValue": "v.申请"
+                },
+                {
+                    "TopicName": "Constitute",
+                    "TopicValue": "v.组成，构成"
+                },
+                {
+                    "TopicName": "Depress",
+                    "TopicValue": "v.使沮丧"
+                },
+                {
+                    "TopicName": "Interview",
+                    "TopicValue": "v.面试；接见；会见"
+                },
+                {
+                    "TopicName": "Leisure",
+                    "TopicValue": "n.闲暇；悠闲"
+                },
+                {
+                    "TopicName": "Obviously",
+                    "TopicValue": "ad.明显地，显然"
+                },
+                {
+                    "TopicName": "Prospect",
+                    "TopicValue": "n.期望中的事；展望；前景"
+                },
+                {
+                    "TopicName": "Protest",
+                    "TopicValue": "v.抗议；反对"
+                },
+                {
+                    "TopicName": "Slim",
+                    "TopicValue": "a.微小的；苗条的"
+                },
+                {
+                    "TopicName": "Suburb",
+                    "TopicValue": "n.郊区"
+                },
+                {
+                    "TopicName": "Ultimate",
+                    "TopicValue": "a.最后的；终极的；最终的"
+                },
+                {
+                    "TopicName": "Vital",
+                    "TopicValue": "a.必不可少的，极其重要的"
+                },
+                {
+                    "TopicName": "Ambition",
+                    "TopicValue": "n.野心；抱负"
+                },
+                {
+                    "TopicName": "Approach",
+                    "TopicValue": "n.(处理问题的)方式，方法"
+                },
+                {
+                    "TopicName": "Bewilder",
+                    "TopicValue": "v.把...弄糊涂；使迷惑"
+                },
+                {
+                    "TopicName": "Correspond",
+                    "TopicValue": "v.通信"
+                },
+                {
+                    "TopicName": "Curiosity",
+                    "TopicValue": "n.好奇心"
+                },
+                {
+                    "TopicName": "Display",
+                    "TopicValue": "v.展示"
+                },
+                {
+                    "TopicName": "Exclusively",
+                    "TopicValue": "ad.专门地，排除其他地"
+                },
+                {
+                    "TopicName": "Frustrate",
+                    "TopicValue": "v.使沮丧；挫败"
+                },
+                {
+                    "TopicName": "Immune",
+                    "TopicValue": "a.有免疫力的；不受影响的"
+                },
+                {
+                    "TopicName": "Impress",
+                    "TopicValue": "v.给...深刻的印象"
+                },
+                {
+                    "TopicName": "Modest",
+                    "TopicValue": "a.谦虚的"
+                },
+                {
+                    "TopicName": "Personality",
+                    "TopicValue": "n.个性"
+                },
+                {
+                    "TopicName": "Principle",
+                    "TopicValue": "n.原理；原则"
+                },
+                {
+                    "TopicName": "Alternative",
+                    "TopicValue": "a.二者选一的 n.选择"
+                },
+                {
+                    "TopicName": "Collapse",
+                    "TopicValue": "v.倒塌；奔溃；彻底失败"
+                },
+                {
+                    "TopicName": "Compete",
+                    "TopicValue": "v.竞争，对抗"
+                },
+                {
+                    "TopicName": "Consume",
+                    "TopicValue": "v.吃，喝，消费，耗尽"
+                },
+                {
+                    "TopicName": "Convert",
+                    "TopicValue": "v.(使)转变；(使)变成"
+                },
+                {
+                    "TopicName": "Essential",
+                    "TopicValue": "a.必不可少的；非常重要的"
+                },
+                {
+                    "TopicName": "Estimate",
+                    "TopicValue": "v.估计；估算"
+                },
+                {
+                    "TopicName": "Perspective",
+                    "TopicValue": "n.视角；观点"
+                },
+                {
+                    "TopicName": "Pressure",
+                    "TopicValue": "n.压力；精神负担"
+                },
+                {
+                    "TopicName": "Splash",
+                    "TopicValue": "v.溅落，拍打"
+                },
+                {
+                    "TopicName": "Structure",
+                    "TopicValue": "n.机构，组织，结构"
+                },
+                {
+                    "TopicName": "Transparent",
+                    "TopicValue": "a.透明的"
+                },
+                {
+                    "TopicName": "Widespread",
+                    "TopicValue": "a.分布广的；流传广的"
+                },
+                {
+                    "TopicName": "Anticipate",
+                    "TopicValue": "v.预期"
+                },
+                {
+                    "TopicName": "Compound",
+                    "TopicValue": "a.复合的"
+                },
+                {
+                    "TopicName": "Conclude",
+                    "TopicValue": "v.得出结论"
+                },
+                {
+                    "TopicName": "Confident",
+                    "TopicValue": "a.自信的"
+                },
+                {
+                    "TopicName": "Emergency",
+                    "TopicValue": "n.紧急情况；急症"
+                },
+                {
+                    "TopicName": "Encounter",
+                    "TopicValue": "v.遭到；意外地遇见"
+                },
+                {
+                    "TopicName": "Relax",
+                    "TopicValue": "v.放松"
+                },
+                {
+                    "TopicName": "Resolve",
+                    "TopicValue": "v.解决"
+                },
+                {
+                    "TopicName": "Responsibility",
+                    "TopicValue": "n.责任，责任心"
+                },
+                {
+                    "TopicName": "Sole",
+                    "TopicValue": "a.单独的；唯一的"
+                },
+                {
+                    "TopicName": "Surgery",
+                    "TopicValue": "n.外科；外科手术"
+                },
+                {
+                    "TopicName": "Sweat",
+                    "TopicValue": "v.流汗"
+                }        
+            ]
+        }
+    ]
+}
