@@ -46,5 +46,26 @@
         }
     }
 
+    .topic-wapper {
+
+        .topic-card {
+            width: 200px;
+            height: 300px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+        }
+
+        ::ng-deep .mat-card-header,::ng-deep .mat-card-content,::ng-deep .mat-card-actions {
+            display: flex;
+            justify-content: center;
+        }
+
+        ::ng-deep .mat-card-content {
+            height: 60px;
+            margin: 20px 0;
+        }
+    }
+
 
 }

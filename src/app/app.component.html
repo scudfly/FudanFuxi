@@ -10,8 +10,21 @@
     <button mat-flat-button color="primary" class="mode-button" (click)="selectMode('复习')">复习</button>
     <button mat-flat-button color="primary" class="mode-button">测试</button>
   </div>
-  <div class="part-wapper" *ngIf="currentMode">
-    <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectMode('复习')">{{part.PartName}}</button>
+  <div class="part-wapper" *ngIf="currentMode && currentList.length == 0">
+    <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectPart(part.PartName)">{{part.PartName}}</button>
+  </div>
+  <div class="topic-wapper" *ngIf="currentList.length > 0">
+    <mat-card class="topic-card">
+      <mat-card-header>
+        <mat-card-title>{{currentTopic.TopicName}}</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        {{currentTopic.TopicValue}}
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button (click)="nextTopic()">下一个</button>
+      </mat-card-actions>
+    </mat-card>
   </div>
 </div>
 

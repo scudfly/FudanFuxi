@@ -13,6 +13,9 @@ export class AppComponent {
   public currentMode: string = "";
 
   public currentData: any;
+  public currentList: any[] = [];
+  public currentOrder: number[] = [];
+  public currentIndex: number = 0;
 
   constructor(private http: HttpClient) {
     this.http.get('assets/data/english4.json').subscribe(response => {
@@ -26,5 +29,26 @@ export class AppComponent {
 
   selectMode(mode: string) {
     this.currentMode = mode;
+  }
+
+  selectPart(partName: string) {
+    let part = this.currentData.Content.find((element: { PartName: string; }) => {
+      return element.PartName == partName;
+    });
+
+    if (part) {
+      this.currentList = part.TopicList;
+
+      this.currentOrder = Array.from({ length: this.currentList.length }, (_, index) => index + 1);
+      this.currentIndex = 0;
+    }
+  }
+
+  get currentTopic(): any {
+    return this.currentList[this.currentIndex];
+  }
+
+  nextTopic(): void {
+    this.currentIndex++;
   }
 }
