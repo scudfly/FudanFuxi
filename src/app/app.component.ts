@@ -9,8 +9,30 @@ import { HttpClient } from '@angular/common/http';
 export class AppComponent {
   title = 'fudanfuxi';
 
-  public currentSubject: string = "";
-  public currentMode: string = "";
+  public subjectList: any[] = [
+    {
+      name: "英语4",
+      file: "english4"
+    },
+    {
+      name: "离散数学",
+      file: ""
+    },
+    {
+      name: "计算机组成与体系结构",
+      file: ""
+    },
+    {
+      name: "中国近现代史纲要",
+      file: ""
+    },
+    {
+      name: "数据结构",
+      file: ""
+    }
+  ];
+
+  // public currentMode: string = "";
 
   public currentData: any;
   public currentList: any[] = [];
@@ -18,20 +40,26 @@ export class AppComponent {
   public currentIndex: number = 0;
 
   constructor(private http: HttpClient) {
-    this.http.get('assets/data/english4.json').subscribe(response => {
+
+  }
+
+  selectSubject(file: string) {
+
+    if (!file) {
+      return;
+    }
+
+    this.http.get(`assets/data/${file}.json`).subscribe(response => {
       this.currentData = response;
     });
   }
 
-  selectSubject(subject: string) {
-    this.currentSubject = subject;
-  }
-
-  selectMode(mode: string) {
-    this.currentMode = mode;
-  }
+  // selectMode(mode: string) {
+  //   this.currentMode = mode;
+  // }
 
   selectPart(partName: string) {
+
     let part = this.currentData.Content.find((element: { PartName: string; }) => {
       return element.PartName == partName;
     });
@@ -63,5 +91,16 @@ export class AppComponent {
     if ((this.currentIndex + 1) >= this.currentList.length ) {
       this.currentIndex = 0;
     }
+  }
+
+  backhome(): void {
+
+    if (this.currentList.length != 0) {
+      this.currentList = [];
+      return;
+    }
+
+    this.currentData = null;
+
   }
 }

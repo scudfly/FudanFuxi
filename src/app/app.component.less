@@ -1,3 +1,5 @@
+@bgColor: #0e7d81;
+
 .body {
     display: flex;
     justify-content: center;
@@ -54,12 +56,20 @@
             margin: 0 50px;
             display: flex;
             flex-direction: column;
-            justify-content: space-around;
+            justify-content: space-between;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            background-color: @bgColor;
         }
 
-        ::ng-deep .mat-card-header,::ng-deep .mat-card-content,::ng-deep .mat-card-actions {
+        ::ng-deep .mat-card-header,::ng-deep .mat-card-content {
             display: flex;
             justify-content: center;
+        }
+
+        ::ng-deep .mat-card-actions {
+            display: flex;
+            justify-content: space-around;
         }
 
         ::ng-deep .mat-card-header {
@@ -88,6 +98,12 @@
             .word-level {
                 font-size: 12px;
                 margin: 5px;
+                height: 16px;
+                border-width: 0px;
+                background-color: #8f3830;
+                display: flex;
+                align-items: center;
+                padding: 1px;
             }
         }
 
@@ -102,4 +118,8 @@
     }
 
 
+}
+
+::ng-deep .mat-flat-button.mat-primary {
+    background-color: @bgColor;
 }
