@@ -82,10 +82,6 @@ export class AppComponent {
     return this.currentList[this.currentOrder[this.currentIndex]];
   }
 
-  replacePlace(input: string): string {
-    return input.replace(/ /g, '&nbsp;');
-  }
-
   nextTopic(): void {
     this.currentIndex++;
     if ((this.currentIndex + 1) >= this.currentList.length ) {
