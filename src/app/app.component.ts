@@ -39,16 +39,29 @@ export class AppComponent {
     if (part) {
       this.currentList = part.TopicList;
 
-      this.currentOrder = Array.from({ length: this.currentList.length }, (_, index) => index + 1);
+      this.currentOrder = this.getShuffleArray(this.currentList.length);
       this.currentIndex = 0;
     }
   }
 
+  getShuffleArray(length: number): number[] {
+    let newArray = Array.from({ length: length }, (_, index) => index);
+    return newArray.sort(() => Math.random() - 0.5);
+  }
+  
+
   get currentTopic(): any {
-    return this.currentList[this.currentIndex];
+    return this.currentList[this.currentOrder[this.currentIndex]];
+  }
+
+  replacePlace(input: string): string {
+    return input.replace(/ /g, '&nbsp;');
   }
 
   nextTopic(): void {
     this.currentIndex++;
+    if ((this.currentIndex + 1) >= this.currentList.length ) {
+      this.currentIndex = 0;
+    }
   }
 }

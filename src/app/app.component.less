@@ -49,8 +49,9 @@
     .topic-wapper {
 
         .topic-card {
-            width: 200px;
-            height: 300px;
+            width: 300px;
+            min-height: 400px;
+            margin: 0 50px;
             display: flex;
             flex-direction: column;
             justify-content: space-around;
@@ -61,9 +62,42 @@
             justify-content: center;
         }
 
+        ::ng-deep .mat-card-header {
+            .mat-card-header-text {
+                margin: 0;
+            }
+        }
+
         ::ng-deep .mat-card-content {
-            height: 60px;
             margin: 20px 0;
+            display: flex;
+            flex-direction: column;
+
+            .explain-wapper {
+                margin: 5px 0;
+                line-height: 26px;
+            }
+        }
+
+        ::ng-deep .mat-card-title {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            line-height: 26px;
+
+            .word-level {
+                font-size: 12px;
+                margin: 5px;
+            }
+        }
+
+        ::ng-deep .mat-card-subtitle {
+            display: flex;
+            justify-content: center;
+
+            .word-audio {
+                margin: 0 5px;
+            }
         }
     }
 
