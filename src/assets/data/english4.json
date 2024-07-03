@@ -287,88 +287,244 @@
                     "TopicValue3": ["n. zero; nothing at all 微不足道的事物（或人）; 小人物; 无; 零"]
                 },
                 {
-                    "TopicName": "ankle",
+                    "TopicName": "mysterious",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[ˈæŋkl]",
-                    "TopicValue3": ["n. 踝，踝关节"]
+                    "TopicValue2": "[mɪˈstɪriəs]",
+                    "TopicValue3": ["a. stange 神秘的", "mystery [ˈmɪstəri] n.秘密，谜; 神秘，神秘的事物; 推理小说，推理剧; 常作 mysteries 秘技，秘诀"]
                 },
                 {
-                    "TopicName": "bare",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ber]",
-                    "TopicValue3": ["a. ①赤裸的 ②光秃的，无遮盖的 ③刚刚够的，勉强的", "vt. 露出，暴露"]
+                    "TopicName": "folklore",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈfoʊklɔːr]",
+                    "TopicValue3": ["n. 民间传说; 民俗学; 民间创作"]
                 },
                 {
-                    "TopicName": "cancer",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkænsər]",
-                    "TopicValue3": ["n. 癌"]
+                    "TopicName": "reappear",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˌriːəˈpɪr]",
+                    "TopicValue3": ["vi. appear again after an absence 再（出）现"]
                 },
                 {
-                    "TopicName": "coach",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[koʊtʃ]",
-                    "TopicValue3": ["n. ①长途公共汽车 ②（铁路）旅客车厢 ③教练，指导", "vt. 训练，指导，辅导"]
+                    "TopicName": "anew",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[əˈnuː]",
+                    "TopicValue3": ["ad. in a new or different way; again 重新；再"]
                 },
                 {
-                    "TopicName": "discipline",
+                    "TopicName": "sometime",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[ˈdɪsəplɪn]",
-                    "TopicValue3": ["n. ①纪律 ②（智力、道德的）训练，训导 ③惩罚、处分 ④学科", "vt. ①训练，训导 ②惩罚，处罚"]
+                    "TopicValue2": "[ˈsʌmˌtaɪm]",
+                    "TopicValue3": ["ad. at some uncertain or unstated time 某个时候"]
                 },
                 {
-                    "TopicName": "foundation",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[faʊnˈdeɪʃn]",
-                    "TopicValue3": ["n. ①[pl.]地基 ②基础，基本原理，根据 ③基金（会） ④建立，设立，创办"]
+                    "TopicName": "fort",
+                    "TopicValue1": "六级",
+                    "TopicValue2": "[fɔːrt]",
+                    "TopicValue3": ["n. building(s) specially made or strengthened for the military defence or an area 要塞；堡垒；城堡"]
                 },
                 {
-                    "TopicName": "influence",
+                    "TopicName": "tide",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɪnfluəns]",
-                    "TopicValue3": ["n. ①影响，影响力 ②产生影响的人（或事物） ③势力，权势", "vt. 影响"]
+                    "TopicValue2": "[taɪd]",
+                    "TopicValue3": ["n. 潮汐"]
                 },
                 {
-                    "TopicName": "maid",
+                    "TopicName": "vanish",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[meɪd]",
-                    "TopicValue3": ["n. 女仆，侍女"]
+                    "TopicValue2": "[ˈvænɪʃ]",
+                    "TopicValue3": ["vi. disappear 消失，突然不见; 灭绝，不存在"]
                 },
                 {
-                    "TopicName": "medal",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈmedl]",
-                    "TopicValue3": ["n. 奖牌，奖章，勋章"]
+                    "TopicName": "ill-fitting",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈɪlˈfɪtɪŋ]",
+                    "TopicValue3": ["a. 不合身的"]
                 },
                 {
-                    "TopicName": "porter",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈpɔːrtər]",
-                    "TopicValue3": ["n. ①搬运工人 ②看门人，大楼管理员"]
+                    "TopicName": "dusty",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈdʌsti]",
+                    "TopicValue3": ["a. covered with dust 满是灰尘的"]
                 },
                 {
-                    "TopicName": "railroad",
+                    "TopicName": "mask",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[ˈreɪlroʊd]",
-                    "TopicValue3": ["n. 铁路"]
+                    "TopicValue2": "[mæsk]",
+                    "TopicValue3": ["vt. hide 遮盖；掩盖"]
                 },
                 {
-                    "TopicName": "retire",
+                    "TopicName": "chew",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[rɪˈtaɪər]",
-                    "TopicValue3": ["vi. ①退休，退役 ②退下，退出，撤退 ③就寝", "vt. 擦，摩擦", "|| rub it in [口]反复提及令人不快的事"]
+                    "TopicValue2": "[tʃuː]",
+                    "TopicValue3": ["vt. 咀嚼；咬"]
                 },
                 {
-                    "TopicName": "senior",
+                    "TopicName": "root",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[ˈsiːniər]",
-                    "TopicValue3": ["a. ①资格较老的，地位（或登记）较高的 ②较年长的", "n. ①较年长者 ②（美国中学或大学的）毕业班学生"]
+                    "TopicValue2": "[ruːt]",
+                    "TopicValue3": ["v. (cause to) be fixed and unmoving （使）生根；（使）固定"]
                 },
                 {
-                    "TopicName": "treatment",
+                    "TopicName": "runaway",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈrʌnəˌwe]",
+                    "TopicValue3": ["n. person that has left home or escaped 逃跑者，出逃者"]
+                },
+                {
+                    "TopicName": "brightly",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈbraɪtlɪ]",
+                    "TopicValue3": ["ad. in a bright manner, cheerfully 欢快地，高兴地"]
+                },
+                {
+                    "TopicName": "swig",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[swɪɡ]",
+                    "TopicValue3": ["n. long and large drink 痛饮"]
+                },
+                {
+                    "TopicName": "retreat",
                     "TopicValue1": "四级",
-                    "TopicValue2": "[ˈtriːtmənt]",
-                    "TopicValue3": ["n. ①治疗，疗法 ②对待，待遇，处理"]
+                    "TopicValue2": "[rɪˈtriːt]",
+                    "TopicValue3": ["vi. go back; withdraw 退缩；退却，撤退"]
+                },
+                {
+                    "TopicName": "chatter",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈtʃætɚ]",
+                    "TopicValue3": ["vi. talk fast and noisily about sth. umimportant 喋喋不休"]
+                },
+                {
+                    "TopicName": "painfully",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈpeɪnfəli]",
+                    "TopicValue3": ["ad. in great discomfort 痛苦地", "painful [ˈpeɪnfl] a. 令人疼痛的; 令人痛苦的; 不愉快的"]
+                },
+                {
+                    "TopicName": "jail",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[dʒeɪl]",
+                    "TopicValue3": ["n. prison 监狱"]
+                },
+                {
+                    "TopicName": "guy",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ɡaɪ]",
+                    "TopicValue3": ["n. (sl.) man; fellwo 人；家伙"]
+                },
+                {
+                    "TopicName": "yeah",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈjɛə, ˈjæə, jɛ-]",
+                    "TopicValue3": ["ad. yes"]
+                },
+                {
+                    "TopicName": "parole",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[pəˈroʊl]",
+                    "TopicValue3": ["n. conditional release from prison 假释"]
+                },
+                {
+                    "TopicName": "oak",
+                    "TopicValue1": "六级",
+                    "TopicValue2": "[oʊk]",
+                    "TopicValue3": ["n. 橡树"]
+                },
+                {
+                    "TopicName": "exclaim",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ɪkˈskleɪm]",
+                    "TopicValue3": ["vt. cry out suddenly because of surprise, anger, pain, etc. 惊叫，大声说出"]
+                },
+                {
+                    "TopicName": "unformed",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˌʌnˈfɔrmd]",
+                    "TopicValue3": ["a. immature 发育未全的；未成熟的"]
+                },
+                {
+                    "TopicName": "snapshot",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈsnæpʃɑːt]",
+                    "TopicValue3": ["n. 快照"]
+                },
+                {
+                    "TopicName": "tighten",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈtaɪtn]",
+                    "TopicValue3": ["v. make or become tighter or firmer （使）变紧；（使）绷紧"]
+                },
+                {
+                    "TopicName": "fortify",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈfɔːrtɪfaɪ]",
+                    "TopicValue3": ["vt. make strong 增强；给...以勇气"]
+                },
+                {
+                    "TopicName": "stun",
+                    "TopicValue1": "六级",
+                    "TopicValue2": "",
+                    "TopicValue3": ["vt. shock or surprise (sb.) 使震惊；使目瞪口呆"]
+                },
+                {
+                    "TopicName": "banner",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈbænər]",
+                    "TopicValue3": ["n. flag 旗，旗帜"]
+                },
+                {
+                    "TopicName": "billow",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈbɪloʊ]",
+                    "TopicValue3": ["vi. wave （波浪）翻腾；波浪般起伏"]
+                },
+                {
+                    "TopicName": "con",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[kɑn]",
+                    "TopicValue3": ["n. convict, prisoner 囚犯"]
+                },
+                {
+                    "TopicName": "",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "",
+                    "TopicValue3": [""]
+                },
+                {
+                    "TopicName": "",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "",
+                    "TopicValue3": [""]
+                },
+                {
+                    "TopicName": "",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "",
+                    "TopicValue3": [""]
+                },
+                {
+                    "TopicName": "",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "",
+                    "TopicValue3": [""]
+                },
+                {
+                    "TopicName": "",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "",
+                    "TopicValue3": [""]
+                },
+                {
+                    "TopicName": "",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "",
+                    "TopicValue3": [""]
+                },
+                {
+                    "TopicName": "",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "",
+                    "TopicValue3": [""]
                 }
             ]
         },
@@ -436,28 +592,46 @@
                     "TopicValue3": ["delay the advance or development of", "耽搁；阻碍"]
                 },
                 {
-                    "TopicName": "die of",
+                    "TopicName": "dream of",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["死于...；因...而死"]
+                    "TopicValue3": ["wish for ardently", "向往，渴望"]
                 },
                 {
-                    "TopicName": "live on",
+                    "TopicName": "pull into",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["靠...生活，以...为食物"]
+                    "TopicValue3": ["enter， arrive at", "（车等）驶入；到达"]
                 },
                 {
-                    "TopicName": "look up",
+                    "TopicName": "come through",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["①好转 ②（在词典等中）查找 ③看望，拜访"]
+                    "TopicValue3": ["arrive as expected", "如所预料地到来"]
                 },
                 {
-                    "TopicName": "look up to",
+                    "TopicName": "take back",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["尊敬，钦佩"]
+                    "TopicValue3": ["agree to receive sb. whom one has dismissed", "允许...回来，接受"]
+                },
+                {
+                    "TopicName": "be caught up in",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["be very interested in", "对...入迷"]
+                },
+                {
+                    "TopicName": "take over",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["occupy", "占用；接管"]
+                },
+                {
+                    "TopicName": "make one's way",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["move along", "去，前往"]
                 }
             ]
         },
@@ -465,40 +639,76 @@
             "PartName": "汉译英",
             "TopicList": [
                 {
-                    "TopicName": "他希望在下届奥运会中能创造出100米短跑世界纪录，然后光荣地退役。",
+                    "TopicName": "工厂和汽车发出的一氧化碳这类气体严重污染了大气。",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["He hopes he can set a world record in the 100-meter race in the next Olympic Games and then retire with honor."]
+                    "TopicValue3": ["Gases such as carbon monoxide, emitted by factories and automobiles, have seriously polluted the atmosphere."]
                 },
                 {
-                    "TopicName": "他不幸患上了肺癌，更糟的是他没有足够的钱去治疗。",
+                    "TopicName": "那位工业管理工程师的来信说明他对该项计划是否可行有怀疑。",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["Unfortunately he developed lung cancer. To make matters worse he didn't have enough money for treatment."]
+                    "TopicValue3": ["The industrial engineer's letter indicates that he doubts the feasibility of the plan."]
                 },
                 {
-                    "TopicName": "我相信这些科学家对政府的很多决策有很大的影响力。",
+                    "TopicName": "美国许多父母在孩子出生之前就为他们的教育留出一笔专款。",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["I believe these scientists have considerable influence over many government decisions."]
+                    "TopicValue3": ["Many parents in the United States set aside a fund for their children's education before they are born."]
                 },
                 {
-                    "TopicName": "他因闯红灯而出了车祸，不幸致残。",
+                    "TopicName": "几天前，有3位医生和两名护士组成的医疗队出发到山区去了。",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["He was crippled in a car accident, which was caused by his running a red light."]
+                    "TopicValue3": ["The medical team, composed of three doctors and two nurses, set off for the mountain(ous) area a few days ago."]
                 },
                 {
-                    "TopicName": "那个搬运工在搬运货物时不小心扭伤了腿，医生建议他每天对腿做一次按摩以辅助治疗。",
+                    "TopicName": "这个村庄是以矗立在它前面的那座高山命名的。",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["That porter carelessly twisted his legs while carrying goods and the doctor suggested that he give himself a massage every day by rubbing his legs to assist the treatment."]
+                    "TopicValue3": ["The village is named after the high mountain that stands in front of it."]
                 },
                 {
-                    "TopicName": "她们的教练虽然非常严厉却受到她们的尊敬。",
+                    "TopicName": "南方和北方之间于1861年爆发的那场战争在历史上称为“美国内战”。",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["Although very strict, their coach is looked up to by them."]
+                    "TopicValue3": ["The war that broke out between the North and the South in 1861 is known in history as the American Civil War."]
+                },
+                {
+                    "TopicName": "教授走进教室时，我们正兴致勃勃地讨论中东的形势。",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["We were caught up in a discussion about the situation in the Middle East when the professor walked into the classroom."]
+                },
+                {
+                    "TopicName": "午夜后某个时候，敌人被追撤退了。",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Sometime after midnight, the enemy was/ were forced to retreat."]
+                },
+                {
+                    "TopicName": "就是在那间斗室里，他们勤奋地工作着，憧憬着美好的未来。",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It was in that small room that they worked diligently and dreamed of better days to come."]
+                },
+                {
+                    "TopicName": "老太太听到铃响，便从椅子上站起来，向门口走去。",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["When she heard the bell ringing, the old lady rose from her chair and made her way to the door."]
+                },
+                {
+                    "TopicName": "经过一天的战斗，我们的士兵占领了敌人的一些重要阵地。",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["After a day's fight, our soldiers succeeded in taking over some important enemy positions."]
+                },
+                {
+                    "TopicName": "我上汽车不久就注意到一个外貌很怪的男人。他穿着一件不合身的上衣，一动不动地坐在位子上。",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Soon after I boarded the bus, I noticed a strange-looking man. He wore an ill-fitting coat, and sat rooted in his seat."]
                 }
             ]
         },
@@ -506,10 +716,16 @@
             "PartName": "英译汉",
             "TopicList": [
                 {
-                    "TopicName": "Her mother decided she would do everything she could to help Wilma to walk again. The doctors had said that she would not be able to walk. She took her every week on a long bus trip to a hospital to receive treatment. It didn't help, but the doctors said she needed to give Wilma a massage every day by rubbing her legs. She taught the brothers and sisters how to do it, and they also rubbed her legs four times a day.",
+                    "TopicName": "There was great excitement on the planet of Venus this week. For the first time Venusian scientists managed to land a satellite on the planet Earth, and it has been sending back signals as well as photographs ever since. The satellite was directed into an area known as Manhattan (named after the great Venusian astronomer Prof. Manhattan, who first discovered it with his telescope 20,000 light years ago).Because of excellent weather conditions and extremely strong signals, Venusian scientists were able to get valuable information as to the feasibility of a manned flying saucer landing on earth. A press conference was held at the Venus Institute of Technology.",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["她母亲拿定主意要尽一切可能帮助威尔玛重新站起来行走。虽然医生说过她不可能走路了,但她每个星期都带着她乘长途汽车去医院接受治疗。可这也没什么用,但医生说她需要每天给威尔玛按摩，帮她揉双腿。于是她就教威尔玛的兄弟姐妹如何按摩，这样他们也可以每天给她按摩四次腿。"]
+                    "TopicValue3": ["本周金星上群情激动异常。金星上的科学家首次把一颗卫星成功地送上了地球，此后卫星便不断地发回信号和照片。卫星对准发射的地区叫曼哈顿（是以金星上伟大的天文学家曼哈顿教授命名的，在两万光年之前该教授用望远镜首次发现了这个地区）。由于天气条件极为有利，信号极为清晰，金星科学家们从而获得了有关载人飞碟能否在地球上着陆的宝贵资料。于是，有关方面在金星理工学院举行了一次记者招待会。"]
+                },
+                {
+                    "TopicName": "Then Brunswick was 10 miles, and then five. Then, suddenly, all of the young people were up out of their seats, screaming and shouting and crying, doing small dances of joy. All except Vingo. Vingo sat there stunned, looking at the oak tree. It was covered with yellow handkerchiefs-20 of them, 30 of them, maybe hundreds, a tree that stood like a banner of welcome billowing in the wind. As the young people shouted, the old con slowly rose from his seat and made his way to the front of the bus to go home.",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["离布伦斯威克只有10英里了，只有五英里了。突然，所有的年轻人都从座位上站了起来，尖叫着，呼喊着，大声嚷嚷着，跳起了欢乐的舞蹈。只有文戈除外。文戈坐在那儿望着橡树惊呆了。树上挂满了黄手绢————二十条，三十条，或许有几百条，一棵树立在那儿就像欢迎的旗帜在迎风招展。在年轻人的欢呼声中，这位前犯人慢吞吞地从座位上站起来，向车子前面走去，准备回家。"]
                 }
             ]
         }
