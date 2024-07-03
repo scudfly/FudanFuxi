@@ -84,7 +84,7 @@ export class AppComponent {
 
   nextTopic(): void {
     this.currentIndex++;
-    if ((this.currentIndex + 1) >= this.currentList.length ) {
+    if ((this.currentIndex + 1) > this.currentList.length ) {
       this.currentIndex = 0;
     }
   }
