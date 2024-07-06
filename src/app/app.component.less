@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    min-height: 100%;
 
     .subject-wapper {
         display: flex;
@@ -62,7 +62,7 @@
             background-color: @bgColor;
         }
 
-        ::ng-deep .mat-card-header,::ng-deep .mat-card-content {
+        ::ng-deep .mat-card-header {
             display: flex;
             justify-content: center;
         }
@@ -79,13 +79,27 @@
         }
 
         ::ng-deep .mat-card-content {
-            margin: 20px 0;
+            margin-bottom: 20px;
             display: flex;
             flex-direction: column;
+            flex: 1;
+            justify-content: center;
 
-            .explain-wapper {
-                margin: 5px 0;
-                line-height: 26px;
+            .topicNameList-wapper, .content-wapper {
+                .explain-wapper {
+                    margin: 5px 0;
+                    line-height: 26px;
+    
+                    &::before {
+                        content: "  ";
+                        display: inline-block;
+                        width: 20px;
+                    }
+                }
+            }
+
+            .topicNameList-wapper {
+                margin-bottom: 20px;
             }
         }
 

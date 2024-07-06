@@ -12,13 +12,20 @@
   </div>
   <div class="topic-wapper" *ngIf="currentList.length > 0">
     <mat-card class="topic-card">
-      <mat-card-header>
+      <mat-card-header *ngIf="currentTopic.TopicName">
         <mat-card-title>{{currentTopic.TopicName}}<span class="word-level" *ngIf="currentTopic.TopicValue1">{{currentTopic.TopicValue1}}</span></mat-card-title>
         <mat-card-subtitle *ngIf="currentTopic.TopicValue2">{{currentTopic.TopicValue2}}</mat-card-subtitle>
       </mat-card-header>
       <mat-card-content>
-        <div class="explain-wapper" *ngFor="let explain of currentTopic.TopicValue3">
-          {{explain}}
+        <div class="topicNameList-wapper" *ngIf="currentTopic.TopicNameList && currentTopic.TopicNameList.length > 0">
+          <div class="explain-wapper" *ngFor="let topicName of currentTopic.TopicNameList">
+            {{topicName}}
+          </div>
+        </div>
+        <div class="content-wapper">
+          <div class="explain-wapper" *ngFor="let explain of currentTopic.TopicValue3">
+            {{explain}}
+          </div>
         </div>
       </mat-card-content>
       <mat-card-actions>
