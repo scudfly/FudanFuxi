@@ -1011,8 +1011,301 @@
                     "TopicValue1": "四级",
                     "TopicValue2": "[ˈedʒukeɪt]",
                     "TopicValue3": ["vt. train; teach how to read, write, think, etc. 教育"]
+                },
+                {
+                    "TopicName": "apply",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[əˈplaɪ]",
+                    "TopicValue3": ["vi. write to ask for (a job, membership, etc.),esp. officially 申请"]
+                },
+                {
+                    "TopicName": "interview",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈɪntərvjuː]",
+                    "TopicValue3": ["n. 面试；接见；会见"]
+                },
+                {
+                    "TopicName": "advertise",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈædvərtaɪz]",
+                    "TopicValue3": ["vt. make known to people by printing a notice in a newspaper, etc. or by broad-casting on television, etc. 为…做广告", "advertisement [ˌædvərˈtaɪzmənt] n. 广告（活动），启事"]
+                },
+                {
+                    "TopicName": "local",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈloʊkl]",
+                    "TopicValue3": ["n. outer area of a town or city, where people live 郊区"]
+                },
+                {
+                    "TopicName": "slim",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[slɪm]",
+                    "TopicValue3": ["a. small,slight; slender 微小的；苗条的"]
+                },
+                {
+                    "TopicName": "awkward",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈɔːkwərd]",
+                    "TopicValue3": ["a. causing difficulty, embar-rassment or inconvenience 造成困难、尴尬或不便的；令人尴尬的"]
+                },
+                {
+                    "TopicName": "depress",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[dɪˈpres]",
+                    "TopicValue3": ["vt. make sad 使沮丧", "depression [dɪˈpreʃn] n. 抑郁(症); 消沉; 萧条(期); 洼地; 低气压"]
+                },
+                {
+                    "TopicName": "suburb",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈsʌbɜːrb]",
+                    "TopicValue3": ["n. outer area of a town or city, where people live 郊区"]
+                },
+                {
+                    "TopicName": "brick",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[brɪk]",
+                    "TopicValue3": ["n. 砖"]
+                },
+                {
+                    "TopicName": "gravel",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈɡrævəl]",
+                    "TopicValue3": ["n. 砾石"]
+                },
+                {
+                    "TopicName": "evergreen",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈevərgrin]",
+                    "TopicValue3": ["a. with green leaves through-out the year 常绿的"]
+                },
+                {
+                    "TopicName": "shrub",
+                    "TopicValue1": "六级",
+                    "TopicValue2": "[ʃrʌb]",
+                    "TopicValue3": ["n. low bush with several woody stems 灌木"]
+                },
+                {
+                    "TopicName": "fume",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[fjuːm]",
+                    "TopicValue3": ["n. strong-smelling smoke, gas or vapour （浓烈难闻的）烟，气，汽"]
+                },
+                {
+                    "TopicName": "sandy-coloured",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "['sændik'ʌləd]",
+                    "TopicValue3": ["a. yellowish-red 沙色的，黄中带红的"]
+                },
+                {
+                    "TopicName": "moustache",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈmʌstæʃ]",
+                    "TopicValue3": ["n. hair growing on the upper lip 小胡子"]
+                },
+                {
+                    "TopicName": "forehead",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈfɔːrəd]",
+                    "TopicValue3": ["n. part of the face above the eye-brows and below the hair 额，前额"]
+                },
+                {
+                    "TopicName": "disapproval",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˌdɪsəˈpruvəl]",
+                    "TopicValue3": ["n. unfavorable opinion or feeling; dislike 不赞成；不满"]
+                },
+                {
+                    "TopicName": "colonel",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈkɜːrnl]",
+                    "TopicValue3": ["n. 上校"]
+                },
+                {
+                    "TopicName": "private",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈpraɪvɪt]",
+                    "TopicValue3": ["n. soldier of the lowest rank 列兵；士兵"]
+                },
+                {
+                    "TopicName": "bootlace",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈbutˌles]",
+                    "TopicValue3": ["n. shoelace for a high shoe or boot 靴带"]
+                },
+                {
+                    "TopicName": "undo",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ʌnˈduː]",
+                    "TopicValue3": ["vt. untie,unfasten 解开；松开"]
+                },
+                {
+                    "TopicName": "ah",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ɑ]",
+                    "TopicValue3": ["interj. (a cry of surprise, pity, pain, joy, dislike, etc.) 啊"]
+                },
+                {
+                    "TopicName": "grunt",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ɡrʌnt]",
+                    "TopicValue3": ["vt. 咕哝着说出"]
+                },
+                {
+                    "TopicName": "stale",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[steɪl]",
+                    "TopicValue3": ["a. not fresh 不新鲜的"]
+                },
+                {
+                    "TopicName": "cabbage",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈkæbɪdʒ]",
+                    "TopicValue3": ["n. 卷心菜"]
+                },
+                {
+                    "TopicName": "crumb",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[krʌm]",
+                    "TopicValue3": ["n. very small, broken piece of bread or cake 面包屑；糕饼屑"]
+                },
+                {
+                    "TopicName": "certificate",
+                    "TopicValue1": "六级",
+                    "TopicValue2": "[sərˈtɪfɪkeɪt]",
+                    "TopicValue3": ["n. 证（明）书"]
+                },
+                {
+                    "TopicName": "bloodshot",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈblʌdʃɑt]",
+                    "TopicValue3": ["a. (眼睛）充血的"]
+                },
+                {
+                    "TopicName": "vital",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈvaɪtl]",
+                    "TopicValue3": ["a. very necessary; of the greatest importance 必不可少的；极其重要的"]
+                },
+                {
+                    "TopicName": "mumble",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈmʌmbl]",
+                    "TopicValue3": ["vt. speak (words) unclearly 含糊地说"]
+                },
+                {
+                    "TopicName": "attach",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[əˈtætʃ]",
+                    "TopicValue3": ["vt. give(to); fasten(to) 把...给予; 系，贴"]
+                },
+                {
+                    "TopicName": "obviously",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈɑːbviəsli]",
+                    "TopicValue3": ["ad. as can be clearly seen; plainly 明显地，显然", "obvious [ˈɑːbviəs] a. 明显的; 当然的; 平淡无奇的; 不必要的"]
+                },
+                {
+                    "TopicName": "consist (of)",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[kənˈsɪst]",
+                    "TopicValue3": ["vi. be made up(of)（由...) 组成，构成"]
+                },
+                {
+                    "TopicName": "range",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[reɪndʒ]",
+                    "TopicValue3": ["vi. vary between certain limits (在一定范围内）变动"]
+                },
+                {
+                    "TopicName": "cricket",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ˈkrɪkɪt]",
+                    "TopicValue3": ["n. 板球"]
+                },
+                {
+                    "TopicName": "set-up",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈset ʌp]",
+                    "TopicValue3": ["n. arrangement <非正> 组织; 机构; 建制; 体制"]
+                },
+                {
+                    "TopicName": "dismay",
+                    "TopicValue1": "六级",
+                    "TopicValue2": "[dɪsˈmeɪ]",
+                    "TopicValue3": ["vt. make discouraged or afraid 使灰心；使害怕"]
+                },
+                {
+                    "TopicName": "algebra",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ˈældʒɪbrə]",
+                    "TopicValue3": ["n. 代数（学）"]
+                },
+                {
+                    "TopicName": "geometry",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[dʒiˈɑːmətri]",
+                    "TopicValue3": ["n. 几何（学）"]
+                },
+                {
+                    "TopicName": "incompetent",
+                    "TopicValue1": "纲外",
+                    "TopicValue2": "[ɪnˈkɑːmpɪtənt]",
+                    "TopicValue3": ["a. completely unskillful; not good enough at doing a job, etc. 无能力的; 不胜任的", "competent [ˈkɑːmpɪtənt] a. 有能力的; 能胜任的，称职的"]
+                },
+                {
+                    "TopicName": "leisure",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈliːʒər]",
+                    "TopicValue3": ["n. free time; time which one can spend as one likes 闲暇；悠闲"]
+                },
+                {
+                    "TopicName": "salary",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈsæləri]",
+                    "TopicValue3": ["n. fixed (usually monthly) pay for regular work 薪水"]
+                },
+                {
+                    "TopicName": "plus",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[plʌs]",
+                    "TopicValue3": ["prep. with the addition of 加（上）"]
+                },
+                {
+                    "TopicName": "protest",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[prəˈtest]",
+                    "TopicValue3": ["vi. express a strong objection 抗议；反对"]
+                },
+                {
+                    "TopicName": "straw",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[strɔː]",
+                    "TopicValue3": ["n. 稻草；麦秆"]
+                },
+                {
+                    "TopicName": "prospect",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈprɑːspekt]",
+                    "TopicValue3": ["n. sth. expected or considered probable; possibiity 期望中的事；展望；前景"]
+                },
+                {
+                    "TopicName": "constitute",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈkɑːnstɪtuːt]",
+                    "TopicValue3": ["vt. form; make up; be 组成，构成"]
+                },
+                {
+                    "TopicName": "ultimate",
+                    "TopicValue1": "四级",
+                    "TopicValue2": "[ˈʌl.tə.mət]",
+                    "TopicValue3": ["a. greatest; utmost; last or final 最大的；终极的；最终的"]
+                },
+                {
+                    "TopicName": "indignity",
+                    "TopicValue1": "六级后",
+                    "TopicValue2": "[ɪnˈdɪɡnəti]",
+                    "TopicValue3": ["n. injury to one's dignity; insult 侮辱"]
                 }
-            
             ]
         },
         {
@@ -1215,6 +1508,48 @@
                     "TopicValue1": "",
                     "TopicValue2": "",
                     "TopicValue3": ["be indebted to", "归因于，归功于"]
+                },
+                {
+                    "TopicName": "be short of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["not having enough of", "缺少"]
+                },
+                {
+                    "TopicName": "smell of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["have, give out the smell of", "有...的气味"]
+                },
+                {
+                    "TopicName": "judging by",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["forming an opinion based on", "基于以下因素形成意见"]
+                },
+                {
+                    "TopicName": "attach importance to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["consider important", "重视"]
+                },
+                {
+                    "TopicName": "in common",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["shared with sb.else", "共有的，共同的"]
+                },
+                {
+                    "TopicName": "consist of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["be made up of", "由...组成"]
+                },
+                {
+                    "TopicName": "in turn",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["one after another", "轮流"]
                 }
             ]
         },
@@ -1352,6 +1687,42 @@
                     "TopicValue1": "",
                     "TopicValue2": "",
                     "TopicValue3": ["Were it left to me to dceide whether we should have a city without bikes or one withoun cars, I should not hesitate a moment to prefer the latter."]
+                },
+                {
+                    "TopicNameList": ["她在当地一家银行找到一份当出纳员的工作，但不久因不称职而被解雇了。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["She got a post as a cashier at a local bank, but she was soon fired because she proved (to be) incompetent."]
+                },
+                {
+                    "TopicNameList": ["很明显是他的年轻助手在经营这家书店。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It is obviously/clearly his young assistant who is running the bookstore."]
+                },
+                {
+                    "TopicNameList": ["比尔已向哈佛大学申请助教职位，但他得到它的可能性很小。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Bill has applied to Harvard University for a teaching assistantship, but his chances of getting it are slim."]
+                },
+                {
+                    "TopicNameList": ["这个房间有股霉味，一定是好久没住人了。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The room smells of stale air. It must have been vacant for a long time."]
+                },
+                {
+                    "TopicNameList": ["就业余爱好而言，简和她妹妹几乎没有什么共同之处。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["As far as hobbies are concerned, Jane and her sister have little in common."]
+                },
+                {
+                    "TopicNameList": ["不言而喻，对青年人的教育对于一个国家的未来是至关重要的。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It is self-evident that the education of the young is vital to the future of a country."]
                 }
             ]
         },
@@ -1381,6 +1752,12 @@
                     "TopicValue1": "",
                     "TopicValue2": "",
                     "TopicValue3": ["杰斐逊的勇气和理想主义是以知识为基础的。他懂得的东西也许比同时代的任何人都要多。在农业、考古学和医学方面他都是专家。在人们普遍采用农作物轮作和土壤保持的做法以前的一个世纪，他就这样做了。他还发明了一种耕犁，比当时任何一种现成的都要好。他影响了整个美国的建筑业，他还不断地制造出各种器械装置，使日常生活中需要做的许多工作变得更加容易。", "在杰斐逊的众多才能中，有一项是最主要的。他首先是一位优秀的、不知疲倦的作家。他的全集目前正在第一次出版，将超过50卷。他作为一个作家的才能很快便被发现了，所以1776年在费城，当要撰写《独立宣言》的时刻来到时，这一任务便落到了他的肩上。数以百万计的人们读到他写的下列词句都激动不已：“我们认为这些真理是不言而喻的：所有人生来就是平等的……”"]
+                },
+                {
+                    "TopicNameList": ["While I was waiting to enter university, I saw advertised in a local newspaper a teaching post at a school in a suburb of London about ten miles from where I lived. Being very short of money and wanting to do something useful, I applied, fearing as I did so, that without a degree and with no experience in teaching my chances of getting the job were slim.", "However, three days later a letter arrived, asking me to go to Croydon for an interview. It proved an awkward journey: a train to Croydon station; a ten-minute bus ride and then a walk of at least a quarter of a mile. As a result I arrived on a hot June morning too depressed to feel nervous."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["在我等着进大学期间，我在一份地方报纸上看到一则广告，说是在离我的住处大约十英里的伦敦某郊区，有所学校要招聘一名教师。我因为手头很拮据，同时也想干点有用的事，便提出了申请，但是提出申请的同时我也担心自己一无学位，二无教学经验，得到这份工作的可能性是微乎其微的。", "然而，三天之后，来了一封信，叫我到克罗伊顿去面试。原来这一路去那儿还真麻烦：先乘火车到克罗伊顿车站，再乘十分钟的公共汽车，然后还要步行至少四分之一英里。结果，我在六月一个炎热的上午到了那儿，心情沮丧得都不觉得紧张了。"]
                 }
             ]
         }
