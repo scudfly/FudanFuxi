@@ -24,11 +24,11 @@ export class AppComponent {
     },
     {
       name: "中国近现代史纲要",
-      file: ""
+      file: "history"
     },
     {
       name: "数据结构",
-      file: ""
+      file: "datastructure"
     }
   ];
 

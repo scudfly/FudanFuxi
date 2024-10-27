@@ -5,1306 +5,598 @@
             "PartName": "单词",
             "TopicList": [
                 {
-                    "TopicName": "humorous",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈhjuːmərəs]",
-                    "TopicValue3": ["a. funny; that makes people laugh 幽默的", "humor [ˈhjuːmə] n.幽默，心情，诙谐"]
+                    "TopicName": "advertise",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈædvərtaɪz]",
+                    "TopicValue3": ["v. 为···做广告"]
                 },
                 {
-                    "TopicName": "essay",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈeseɪ]",
-                    "TopicValue3": ["n. 散文，随笔"]
+                    "TopicName": "image",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɪmɪdʒ]",
+                    "TopicValue3": ["n. 雕像"]
                 },
                 {
-                    "TopicName": "excitement",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ɪkˈsaɪtmənt]",
-                    "TopicValue3": ["n. state or quality of being excited 兴奋"]
+                    "TopicName": "alternative",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɔːlˈtɜːrnətɪv]",
+                    "TopicValue3": ["n. 选择"]
                 },
                 {
-                    "TopicName": "planet",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈplænɪt]",
-                    "TopicValue3": ["n. large body in space that moves round a star, esp. round the sun 行星"]
+                    "TopicName": "immune",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪˈmjuːn]",
+                    "TopicValue3": ["a. 有免疫力的；不受影响的"]
                 },
                 {
-                    "TopicName": "Venusian",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[vi'njuˌʃiən]",
-                    "TopicValue3": ["a. of or having to do with the planet Venus 金星的", "n. supposed Venus being 金星人"]
+                    "TopicName": "ambition",
+                    "TopicValue1": "",
+                    "TopicValue2": "[æmˈbɪʃn]",
+                    "TopicValue3": ["n. 野心；抱负"]
                 },
                 {
-                    "TopicName": "satellite",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈsætəlaɪt]",
-                    "TopicValue3": ["n. spacecraft that gose round the planet Earth and sends back radio and television signals; heavenly body that goes round a planet (人造)卫星"]
+                    "TopicName": "impress",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪmˈpres]",
+                    "TopicValue3": ["v. 给···深刻的印象"]
+                },
+                {
+                    "TopicName": "anticipate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ænˈtɪsɪpeɪt]",
+                    "TopicValue3": ["v. 预期"]
+                },
+                {
+                    "TopicName": "impulse",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɪmpʌls]",
+                    "TopicValue3": ["n. 冲动"]
+                },
+                {
+                    "TopicName": "apply",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈplaɪ]",
+                    "TopicValue3": ["v. 申请"]
+                },
+                {
+                    "TopicName": "independence",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌɪndɪˈpendəns]",
+                    "TopicValue3": ["n. 独立"]
+                },
+                {
+                    "TopicName": "appoint",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈpɔɪnt]",
+                    "TopicValue3": ["v. 任命"]
+                },
+                {
+                    "TopicName": "interview",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɪntərvjuː]",
+                    "TopicValue3": ["v. 面试；接见；会见"]
+                },
+                {
+                    "TopicName": "approach",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈproʊtʃ]",
+                    "TopicValue3": ["n. 方式，方法"]
+                },
+                {
+                    "TopicName": "leisure",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈleʒər]",
+                    "TopicValue3": ["n. 闲暇；悠闲"]
+                },
+                {
+                    "TopicName": "argument",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɑːrɡjumənt]",
+                    "TopicValue3": ["n. 争论，辩论"]
+                },
+                {
+                    "TopicName": "likely",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈlaɪkli]",
+                    "TopicValue3": ["a. 可能的"]
+                },
+                {
+                    "TopicName": "atmosphere",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈætməsfɪr]",
+                    "TopicValue3": ["n. 大气；空气"]
+                },
+                {
+                    "TopicName": "mask",
+                    "TopicValue1": "",
+                    "TopicValue2": "[mæsk]",
+                    "TopicValue3": ["v. 遮盖；掩盖"]
+                },
+                {
+                    "TopicName": "banner",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈbænər]",
+                    "TopicValue3": ["n. 旗，旗帜"]
+                },
+                {
+                    "TopicName": "modest",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈmɑːdɪst]",
+                    "TopicValue3": ["a. 谦虚的"]
+                },
+                {
+                    "TopicName": "bare",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ber]",
+                    "TopicValue3": ["a. 不铺地毯的；赤裸的；光秃的"]
+                },
+                {
+                    "TopicName": "motion",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈmoʊʃn]",
+                    "TopicValue3": ["v. 打手势"]
+                },
+                {
+                    "TopicName": "bewilder",
+                    "TopicValue1": "",
+                    "TopicValue2": "[bɪˈwɪldər]",
+                    "TopicValue3": ["v. 把···弄糊涂；使迷惑"]
+                },
+                {
+                    "TopicName": "mysterious",
+                    "TopicValue1": "",
+                    "TopicValue2": "[mɪˈstɪriəs]",
+                    "TopicValue3": ["a. 神秘的"]
+                },
+                {
+                    "TopicName": "chew",
+                    "TopicValue1": "",
+                    "TopicValue2": "[tʃuː]",
+                    "TopicValue3": ["v. 咀嚼；咬"]
+                },
+                {
+                    "TopicName": "obtain",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əbˈteɪn]",
+                    "TopicValue3": ["v. 获得"]
+                },
+                {
+                    "TopicName": "collapse",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kəˈlæps]",
+                    "TopicValue3": ["v. 倒塌；崩溃；彻底失败"]
+                },
+                {
+                    "TopicName": "obviously",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɑːbvɪəsli]",
+                    "TopicValue3": ["ad. 明显地，显然"]
+                },
+                {
+                    "TopicName": "compete",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kəmˈpiːt]",
+                    "TopicValue3": ["v. 竞争，对抗"]
+                },
+                {
+                    "TopicName": "personality",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌpɜːrsəˈnæləti]",
+                    "TopicValue3": ["n. 个性"]
+                },
+                {
+                    "TopicName": "compound",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɑːmpaʊnd]",
+                    "TopicValue3": ["a. 复合的"]
+                },
+                {
+                    "TopicName": "perspective",
+                    "TopicValue1": "",
+                    "TopicValue2": "[pərˈspektɪv]",
+                    "TopicValue3": ["n. 视角；观点"]
+                },
+                {
+                    "TopicName": "conclude",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈkluːd]",
+                    "TopicValue3": ["v. 得出结论"]
+                },
+                {
+                    "TopicName": "pollute",
+                    "TopicValue1": "",
+                    "TopicValue2": "[pəˈluːt]",
+                    "TopicValue3": ["v. 污染"]
+                },
+                {
+                    "TopicName": "conclusion",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈkluːʒn]",
+                    "TopicValue3": ["n. 结论"]
+                },
+                {
+                    "TopicName": "pressure",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈpreʃər]",
+                    "TopicValue3": ["n. 压力；精神负担"]
+                },
+                {
+                    "TopicName": "conference",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɒnfərəns]",
+                    "TopicValue3": ["n. 会议"]
+                },
+                {
+                    "TopicName": "principle",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈprɪnsəpl]",
+                    "TopicValue3": ["n. 原理；原则"]
+                },
+                {
+                    "TopicName": "confident",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɒnfɪdənt]",
+                    "TopicValue3": ["a. 自信的"]
+                },
+                {
+                    "TopicName": "proceed",
+                    "TopicValue1": "",
+                    "TopicValue2": "[proʊˈsiːd]",
+                    "TopicValue3": ["v. （停顿后）继续前进"]
+                },
+                {
+                    "TopicName": "conflict",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɒnflɪkt]",
+                    "TopicValue3": ["n. 冲突"]
+                },
+                {
+                    "TopicName": "prospect",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈprɒspekt]",
+                    "TopicValue3": ["n. 期望中的事；展望；前景"]
+                },
+                {
+                    "TopicName": "conservation",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌkɒnsərˈveɪʃn]",
+                    "TopicValue3": ["n. 保护；保存"]
+                },
+                {
+                    "TopicName": "protest",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈprəʊtest]",
+                    "TopicValue3": ["v. 抗议；反对"]
+                },
+                {
+                    "TopicName": "constitute",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɒnstɪtjuːt]",
+                    "TopicValue3": ["v. 组成，构成"]
+                },
+                {
+                    "TopicName": "reaction",
+                    "TopicValue1": "",
+                    "TopicValue2": "[riˈækʃn]",
+                    "TopicValue3": ["n. 反应"]
+                },
+                {
+                    "TopicName": "constitution",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌkɒnstɪˈtuːʃn]",
+                    "TopicValue3": ["n. 宪法；章程"]
+                },
+                {
+                    "TopicName": "reject",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈdʒekt]",
+                    "TopicValue3": ["v. 拒绝"]
+                },
+                {
+                    "TopicName": "consume",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈsuːm]",
+                    "TopicValue3": ["v. 吃，喝，消费；耗尽"]
+                },
+                {
+                    "TopicName": "relax",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈlæks]",
+                    "TopicValue3": ["v. 放松"]
+                },
+                {
+                    "TopicName": "contract",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɒntrækt]",
+                    "TopicValue3": ["v. 收缩"]
+                },
+                {
+                    "TopicName": "resolve",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈzɒlv]",
+                    "TopicValue3": ["v. 解决"]
+                },
+                {
+                    "TopicName": "convert",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈvɜːrt]",
+                    "TopicValue3": ["v. （使）转变；（使）变成"]
+                },
+                {
+                    "TopicName": "responsibility",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˌspɒnsəˈbɪləti]",
+                    "TopicValue3": ["n. 责任，责任心"]
+                },
+                {
+                    "TopicName": "correspond",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌkɒrəˈspɒnd]",
+                    "TopicValue3": ["v. 通信"]
+                },
+                {
+                    "TopicName": "retreat",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈtriːt]",
+                    "TopicValue3": ["v. 退缩；退却，撤退"]
+                },
+                {
+                    "TopicName": "crawl",
+                    "TopicValue1": "",
+                    "TopicValue2": "[krɔːl]",
+                    "TopicValue3": ["v. 爬行"]
+                },
+                {
+                    "TopicName": "shortly",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈʃɔːrtli]",
+                    "TopicValue3": ["ad. 不久，马上"]
+                },
+                {
+                    "TopicName": "create",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kriˈeɪt]",
+                    "TopicValue3": ["v. 创造"]
                 },
                 {
                     "TopicName": "signal",
-                    "TopicValue1": "四级",
+                    "TopicValue1": "",
                     "TopicValue2": "[ˈsɪɡnəl]",
                     "TopicValue3": ["n. 信号；暗号"]
                 },
                 {
-                    "TopicName": "astronomer",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[əˈstrɑːnəmər]",
-                    "TopicValue3": ["n. person who studies the science of the sun, moon, stars and planets 天文学家"]
+                    "TopicName": "curiosity",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌkjʊriˈɒsəti]",
+                    "TopicValue3": ["n. 好奇心"]
                 },
                 {
-                    "TopicName": "telescope",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈtelɪskoʊp]",
-                    "TopicValue3": ["n. instrument with special glasses used for seeing distant things 望远镜"]
-                },
-                {
-                    "TopicName": "extremely",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ɪkˈstriːmli]",
-                    "TopicValue3": ["ad. very 极端地，非常", "extreme a. 极其的; 极端的; 偏激的; 尽头的"]
-                },
-                {
-                    "TopicName": "feasibility",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˌfizəˈbɪləti]",
-                    "TopicValue3": ["n. possibility of being carried out or done 可行性", "feasible [ˈfiːzəbl] a. 可行的; 做得到的"]
-                },
-                {
-                    "TopicName": "manned",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[mænd]",
-                    "TopicValue3": ["a. occupied by one or more persons 载人的"]
-                },
-                {
-                    "TopicName": "saucer",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈsɔːsər]",
-                    "TopicValue3": ["n. 浅碟；茶托", "flying saucer n. 飞碟"]
-                },
-                {
-                    "TopicName": "conference",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkɑːnfərəns]",
-                    "TopicValue3": ["n. meeting 专题讨论会; 正式商谈; 体育协会", "press conference n.meeting arranged by an important person to which news reporters are invited to listen to a statement or a ask questions 记者招待会"]
-                },
-                {
-                    "TopicName": "institute",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɪnstɪtuːt]",
-                    "TopicValue3": ["n. (building for a) society, organization, school, etc. set up for a special purpose 学会；协会；组织；机构；学院；研究所"]
-                },
-                {
-                    "TopicName": "technology",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[tekˈnɑːlədʒi]",
-                    "TopicValue3": ["n. 技术"]
-                },
-                {
-                    "TopicName": "conclusion",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[kənˈkluːʒn]",
-                    "TopicValue3": ["n. decision or opinion reachedc by reasoning 结论", "conclude [kənˈkluːd] v. 推断出; 总结; 结束; 缔约"]
-                },
-                {
-                    "TopicName": "reporter",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[rɪˈpɔːrtər]",
-                    "TopicValue3": ["n. person who gathers news for a newspaper, magazine, or radio or TV staion 记者"]
-                },
-                {
-                    "TopicName": "concrete",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkɑːŋkriːt]",
-                    "TopicValue3": ["n. building material made by mixing cement with sand, small stones and water 混凝土"]
-                },
-                {
-                    "TopicName": "atmosphere",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈætməsfɪr]",
-                    "TopicValue3": ["n. all the gases round the earth; air in a place 大气；空气"]
-                },
-                {
-                    "TopicName": "carbon",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkɑːrbən]",
-                    "TopicValue3": ["n. 碳"]
-                },
-                {
-                    "TopicName": "monoxide",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[məˈnɑkˌsaɪd]",
-                    "TopicValue3": ["n. 一氧化物"]
+                    "TopicName": "slim",
+                    "TopicValue1": "",
+                    "TopicValue2": "[slɪm]",
+                    "TopicValue3": ["a. 微小的；苗条的"]
                 },
                 {
                     "TopicName": "deadly",
-                    "TopicValue1": "六级",
+                    "TopicValue1": "",
                     "TopicValue2": "[ˈdedli]",
-                    "TopicValue3": ["a. causing death; likely to cause death 致命的"]
+                    "TopicValue3": ["a. 致命的"]
                 },
                 {
-                    "TopicName": "gas",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ɡæs]",
-                    "TopicValue3": ["n. 气体"]
+                    "TopicName": "sole",
+                    "TopicValue1": "",
+                    "TopicValue2": "[soʊl]",
+                    "TopicValue3": ["a. 单独的；唯一的"]
                 },
                 {
-                    "TopicName": "survive",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[sərˈvaɪv]",
-                    "TopicValue3": ["vi. remain alive; continue to live or exist 活下来；幸存", "vt. remain alive after; live longer than 经历...后还活着； 比...活得长", "survival [sərˈvaɪvl] n. 生存; 残存物"]
-                },
-                {
-                    "TopicName": "concern",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[kənˈsɜːrn]",
-                    "TopicValue3": ["vt. be of importance or interest to; have an effect on 涉及，关系到"]
-                },
-                {
-                    "TopicName": "oxygen",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɑːksɪdʒən]",
-                    "TopicValue3": ["n. 氧，氧气"]
-                },
-                {
-                    "TopicName": "originally",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[əˈrɪdʒənəli]",
-                    "TopicValue3": ["ad. formerly 期初，原来", "original [əˈrɪdʒənl] a. 最初的; 独创的; 原作的"]
-                },
-                {
-                    "TopicName": "hazard",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈhæzərd]",
-                    "TopicValue3": ["n. danger 危险; 冒险的事"]
-                },
-                {
-                    "TopicName": "hover",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[ˈhʌvər]",
-                    "TopicValue3": ["vi. stay in or near one place in the ari 盘旋"]
-                },
-                {
-                    "TopicName": "consolidated",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[kən'sɒləˌdeɪtɪd]",
-                    "TopicValue3": ["a. united; combined 联合的", "consolidate [kənˈsɑːlɪdeɪt] vt. 加强，巩固; 合并"]
-                },
-                {
-                    "TopicName": "pollute",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[pəˈluːt]",
-                    "TopicValue3": ["vt. make (air, water, soil, etc.) dirty with man-made waste 污染", "pollution [pəˈluːʃn] n. 污染; 污染物"]
-                },
-                {
-                    "TopicName": "unfit",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ʌnˈfɪt]",
-                    "TopicValue3": ["a. not good enouth; not suitable 不适宜的，不适当的"]
-                },
-                {
-                    "TopicName": "spot",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[spɑːt]",
-                    "TopicValue3": ["n. small (usu. round) mark different in color, texture, etc. from the surface it is on (通常为圆的) 斑点"]
-                },
-                {
-                    "TopicName": "particle",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈpɑːrtɪkl]",
-                    "TopicValue3": ["n. 粒子；微粒"]
-                },
-                {
-                    "TopicName": "emit",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[iˈmɪt]",
-                    "TopicValue3": ["vt. send out 散发，射出", "emission [iˈmɪʃn] n. 发出（气体、热量、光线等的）; 排放（物）"]
-                },
-                {
-                    "TopicName": "crash",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[kræʃ]",
-                    "TopicValue3": ["v. fall or strike suddendly, violently and noisily 坠落；猛撞"]
-                },
-                {
-                    "TopicName": "smash",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[smæʃ]",
-                    "TopicValue3": ["v. (cause to) break into pieces violently （使）碎裂"]
-                },
-                {
-                    "TopicName": "stalagmite",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[stəˈlægmaɪt]",
-                    "TopicValue3": ["n. 石笋"]
-                },
-                {
-                    "TopicName": "projection",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[prəˈdʒɛkʃən]",
-                    "TopicValue3": ["n. sth. that stands out from a surface 突出物", "project[ˈprɑːdʒekt] v. 规划，计划"]
-                },
-                {
-                    "TopicName": "granite",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈɡrænɪt]",
-                    "TopicValue3": ["n. hard grey stone used for building 花岗岩"]
-                },
-                {
-                    "TopicName": "formation",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[fɔːrˈmeɪʃn]",
-                    "TopicValue3": ["n. sth. that is formed; way in thich sth. is formed 形成（物）"]
-                },
-                {
-                    "TopicName": "skyscraper",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈskaɪskreɪpər]",
-                    "TopicValue3": ["n. very tall building 摩天大楼"]
-                },
-                {
-                    "TopicName": "proceed",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[proʊˈsiːd]",
-                    "TopicValue3": ["vi. continue after having stopped （停顿后）继续进行"]
-                },
-                {
-                    "TopicName": "fund",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[fʌnd]",
-                    "TopicValue3": ["n. sum of money set apart or available for a special purpose 资金；基金"]
-                },
-                {
-                    "TopicName": "billion",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈbɪljən]",
-                    "TopicValue3": ["n. one thousand million 十亿; 大量"]
-                },
-                {
-                    "TopicName": "zilch",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[zɪltʃ]",
-                    "TopicValue3": ["n. zero; nothing at all 微不足道的事物（或人）; 小人物; 无; 零"]
-                },
-                {
-                    "TopicName": "mysterious",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[mɪˈstɪriəs]",
-                    "TopicValue3": ["a. stange 神秘的", "mystery [ˈmɪstəri] n.秘密，谜; 神秘，神秘的事物; 推理小说，推理剧; 常作 mysteries 秘技，秘诀"]
-                },
-                {
-                    "TopicName": "folklore",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈfoʊklɔːr]",
-                    "TopicValue3": ["n. 民间传说; 民俗学; 民间创作"]
-                },
-                {
-                    "TopicName": "reappear",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˌriːəˈpɪr]",
-                    "TopicValue3": ["vi. appear again after an absence 再（出）现"]
-                },
-                {
-                    "TopicName": "anew",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[əˈnuː]",
-                    "TopicValue3": ["ad. in a new or different way; again 重新；再"]
+                    "TopicName": "declaration",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌdekləˈreɪʃn]",
+                    "TopicValue3": ["n. 宣言"]
                 },
                 {
                     "TopicName": "sometime",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈsʌmˌtaɪm]",
-                    "TopicValue3": ["ad. at some uncertain or unstated time 某个时候"]
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsʌmtaɪm]",
+                    "TopicValue3": ["ad. 某个时候"]
                 },
                 {
-                    "TopicName": "fort",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[fɔːrt]",
-                    "TopicValue3": ["n. building(s) specially made or strengthened for the military defence or an area 要塞；堡垒；城堡"]
+                    "TopicName": "depress",
+                    "TopicValue1": "",
+                    "TopicValue2": "[dɪˈpres]",
+                    "TopicValue3": ["v. 使沮丧"]
+                },
+                {
+                    "TopicName": "splash",
+                    "TopicValue1": "",
+                    "TopicValue2": "[splæʃ]",
+                    "TopicValue3": ["v. 溅落，拍打"]
+                },
+                {
+                    "TopicName": "display",
+                    "TopicValue1": "",
+                    "TopicValue2": "[dɪˈspleɪ]",
+                    "TopicValue3": ["v. 展示"]
+                },
+                {
+                    "TopicName": "structure",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈstrʌktʃər]",
+                    "TopicValue3": ["n. 机构，组织；结构"]
+                },
+                {
+                    "TopicName": "emerge",
+                    "TopicValue1": "",
+                    "TopicValue2": "[iˈmɜːrdʒ]",
+                    "TopicValue3": ["v. 出现"]
+                },
+                {
+                    "TopicName": "stun",
+                    "TopicValue1": "",
+                    "TopicValue2": "[stʌn]",
+                    "TopicValue3": ["v. 使震惊；使目瞪口呆"]
+                },
+                {
+                    "TopicName": "emergency",
+                    "TopicValue1": "",
+                    "TopicValue2": "[iˈmɜːrdʒənsi]",
+                    "TopicValue3": ["n. 紧急情况；急症"]
+                },
+                {
+                    "TopicName": "suburb",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsʌbɜːrb]",
+                    "TopicValue3": ["n. 郊区"]
+                },
+                {
+                    "TopicName": "emit",
+                    "TopicValue1": "",
+                    "TopicValue2": "[iˈmɪt]",
+                    "TopicValue3": ["v. 散发，射出"]
+                },
+                {
+                    "TopicName": "superior",
+                    "TopicValue1": "",
+                    "TopicValue2": "[suːˈpɪriər]",
+                    "TopicValue3": ["a. 较好的；优的"]
+                },
+                {
+                    "TopicName": "encounter",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪnˈkaʊntər]",
+                    "TopicValue3": ["v. 遭到；意外地遇见"]
+                },
+                {
+                    "TopicName": "surgery",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsɜːrdʒəri]",
+                    "TopicValue3": ["n. 外科；外科手术"]
+                },
+                {
+                    "TopicName": "essential",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪˈsenʃl]",
+                    "TopicValue3": ["a. 必不可少的；非常重要的"]
+                },
+                {
+                    "TopicName": "survive",
+                    "TopicValue1": "",
+                    "TopicValue2": "[sərˈvaɪv]",
+                    "TopicValue3": ["v. 活下来；幸存"]
+                },
+                {
+                    "TopicName": "estimate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈestɪmət]",
+                    "TopicValue3": ["v. 估计；估算"]
+                },
+                {
+                    "TopicName": "sweat",
+                    "TopicValue1": "",
+                    "TopicValue2": "[swet]",
+                    "TopicValue3": ["v. 流汗"]
+                },
+                {
+                    "TopicName": "exclaim",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪkˈskleɪm]",
+                    "TopicValue3": ["v. 惊叫，叫喊说"]
+                },
+                {
+                    "TopicName": "technology",
+                    "TopicValue1": "",
+                    "TopicValue2": "[tekˈnɒlədʒi]",
+                    "TopicValue3": ["n. 技术"]
+                },
+                {
+                    "TopicName": "exclusively",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪkˈskluːsɪvli]",
+                    "TopicValue3": ["ad. 专门地，排除其他地"]
+                },
+                {
+                    "TopicName": "threaten",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈθretn]",
+                    "TopicValue3": ["v. 威胁"]
+                },
+                {
+                    "TopicName": "faint",
+                    "TopicValue1": "",
+                    "TopicValue2": "[feɪnt]",
+                    "TopicValue3": ["a. 微弱的；不明显的"]
                 },
                 {
                     "TopicName": "tide",
-                    "TopicValue1": "四级",
+                    "TopicValue1": "",
                     "TopicValue2": "[taɪd]",
                     "TopicValue3": ["n. 潮汐"]
                 },
                 {
-                    "TopicName": "vanish",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈvænɪʃ]",
-                    "TopicValue3": ["vi. disappear 消失，突然不见; 灭绝，不存在"]
+                    "TopicName": "frustrate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈfrʌstreɪt]",
+                    "TopicValue3": ["v. 使沮丧；挫败"]
                 },
                 {
-                    "TopicName": "ill-fitting",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈɪlˈfɪtɪŋ]",
-                    "TopicValue3": ["a. 不合身的"]
+                    "TopicName": "transparent",
+                    "TopicValue1": "",
+                    "TopicValue2": "[trænsˈpærənt]",
+                    "TopicValue3": ["a. 透明的"]
                 },
                 {
-                    "TopicName": "dusty",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈdʌsti]",
-                    "TopicValue3": ["a. covered with dust 满是灰尘的"]
-                },
-                {
-                    "TopicName": "mask",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[mæsk]",
-                    "TopicValue3": ["vt. hide 遮盖；掩盖"]
-                },
-                {
-                    "TopicName": "chew",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[tʃuː]",
-                    "TopicValue3": ["vt. 咀嚼；咬"]
-                },
-                {
-                    "TopicName": "root",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ruːt]",
-                    "TopicValue3": ["v. (cause to) be fixed and unmoving （使）生根；（使）固定"]
-                },
-                {
-                    "TopicName": "runaway",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈrʌnəˌwe]",
-                    "TopicValue3": ["n. person that has left home or escaped 逃跑者，出逃者"]
-                },
-                {
-                    "TopicName": "brightly",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈbraɪtlɪ]",
-                    "TopicValue3": ["ad. in a bright manner, cheerfully 欢快地，高兴地"]
-                },
-                {
-                    "TopicName": "swig",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[swɪɡ]",
-                    "TopicValue3": ["n. long and large drink 痛饮"]
-                },
-                {
-                    "TopicName": "retreat",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[rɪˈtriːt]",
-                    "TopicValue3": ["vi. go back; withdraw 退缩；退却，撤退"]
-                },
-                {
-                    "TopicName": "chatter",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈtʃætɚ]",
-                    "TopicValue3": ["vi. talk fast and noisily about sth. umimportant 喋喋不休"]
-                },
-                {
-                    "TopicName": "painfully",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈpeɪnfəli]",
-                    "TopicValue3": ["ad. in great discomfort 痛苦地", "painful [ˈpeɪnfl] a. 令人疼痛的; 令人痛苦的; 不愉快的"]
-                },
-                {
-                    "TopicName": "jail",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[dʒeɪl]",
-                    "TopicValue3": ["n. prison 监狱"]
-                },
-                {
-                    "TopicName": "guy",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ɡaɪ]",
-                    "TopicValue3": ["n. (sl.) man; fellwo 人；家伙"]
-                },
-                {
-                    "TopicName": "yeah",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈjɛə, ˈjæə, jɛ-]",
-                    "TopicValue3": ["ad. yes"]
-                },
-                {
-                    "TopicName": "parole",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[pəˈroʊl]",
-                    "TopicValue3": ["n. conditional release from prison 假释"]
-                },
-                {
-                    "TopicName": "oak",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[oʊk]",
-                    "TopicValue3": ["n. 橡树"]
-                },
-                {
-                    "TopicName": "exclaim",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ɪkˈskleɪm]",
-                    "TopicValue3": ["vt. cry out suddenly because of surprise, anger, pain, etc. 惊叫，大声说出"]
-                },
-                {
-                    "TopicName": "unformed",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˌʌnˈfɔrmd]",
-                    "TopicValue3": ["a. immature 发育未全的；未成熟的"]
-                },
-                {
-                    "TopicName": "snapshot",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈsnæpʃɑːt]",
-                    "TopicValue3": ["n. 快照"]
-                },
-                {
-                    "TopicName": "tighten",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈtaɪtn]",
-                    "TopicValue3": ["v. make or become tighter or firmer （使）变紧；（使）绷紧"]
-                },
-                {
-                    "TopicName": "fortify",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈfɔːrtɪfaɪ]",
-                    "TopicValue3": ["vt. make strong 增强；给...以勇气"]
-                },
-                {
-                    "TopicName": "stun",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "",
-                    "TopicValue3": ["vt. shock or surprise (sb.) 使震惊；使目瞪口呆"]
-                },
-                {
-                    "TopicName": "banner",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈbænər]",
-                    "TopicValue3": ["n. flag 旗，旗帜"]
-                },
-                {
-                    "TopicName": "billow",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈbɪloʊ]",
-                    "TopicValue3": ["vi. wave （波浪）翻腾；波浪般起伏"]
-                },
-                {
-                    "TopicName": "con",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[kɑn]",
-                    "TopicValue3": ["n. convict, prisoner 囚犯"]
-                },
-                {
-                    "TopicName": "heated",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈhiːtɪd]",
-                    "TopicValue3": ["a. with strong, excited, and often angry feelings 热烈的；激烈的"]
-                },
-                {
-                    "TopicName": "unexpected",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˌʌnɪkˈspektɪd]",
-                    "TopicValue3": ["a. not expected 意外的"]
-                },
-                {
-                    "TopicName": "naturalist",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈnætʃərəlɪst]",
-                    "TopicValue3": ["n. one who makes a special study of plants or animals outdoors 博物学家（尤指直接观察动植物者）"]
-                },
-                {
-                    "TopicName": "shortly",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈʃɔːrtli]",
-                    "TopicValue3": ["ad. soon; (in) a little time 不久，马上"]
-                },
-                {
-                    "TopicName": "colonial",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[kəˈloʊniəl]",
-                    "TopicValue3": ["a. of or releated to a colony or colonies 殖民地的"]
-                },
-                {
-                    "TopicName": "spacious",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[ˈspeɪʃəs]",
-                    "TopicValue3": ["a. big; having much space 广阔的；宽敞的"]
-                },
-                {
-                    "TopicName": "bare",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ber]",
-                    "TopicValue3": ["a. not covered (with a carpet); without clothing; empty 不铺地毯的；赤裸的；光秃的"]
-                },
-                {
-                    "TopicName": "marble",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[ˈmɑːrbl]",
-                    "TopicValue3": ["n. 大理石"]
-                },
-                {
-                    "TopicName": "rafter",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈræftə(r)]",
-                    "TopicValue3": ["n. one of the sloping beams that support the roof 椽"]
-                },
-                {
-                    "TopicName": "veranda",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[vəˈrændə]",
-                    "TopicValue3": ["n. 游廊，走廊，阳台"]
-                },
-                {
-                    "TopicName": "spirited",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈspɪrɪtɪd]",
-                    "TopicValue3": ["a. full of spirit; lively 精力充沛的，生机勃勃; 激烈的"]
-                },
-                {
-                    "TopicName": "outgrow(outgrew, outgrown)",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˌaʊtˈgroʊ]",
-                    "TopicValue3": ["vt. leave behind, as one grows older or more mature 长大得使...不再适用；成长得不再要"]
-                },
-                {
-                    "TopicName": "era",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɪrə]",
-                    "TopicValue3": ["n. 时代；年代"]
-                },
-                {
-                    "TopicName": "reaction",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[riˈækʃn]",
-                    "TopicValue3": ["n. (a case or way of) reacting; response 反应"]
-                },
-                {
-                    "TopicName": "react",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[riˈækt]",
-                    "TopicValue3": ["vi. act or behave in a particular way in answer 做出反应；反应"]
-                },
-                {
-                    "TopicName": "crisis",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkraɪsɪs]",
-                    "TopicValue3": ["(pl. crises ['kraɪsiz]) n. time of diffculty, danger, etc. 危机"]
-                },
-                {
-                    "TopicName": "ounce",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[aʊns]",
-                    "TopicValue3": ["n. 盎司；少量"]
-                },
-                {
-                    "TopicName": "argument",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɑːrɡjumənt]",
-                    "TopicValue3": ["n. discussion by persons who disagree; dispute 争论；辩论"]
-                },
-                {
-                    "TopicName": "hostess",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈhoʊstəs]",
-                    "TopicValue3": ["n. 女主人"]
-                },
-                {
-                    "TopicName": "muscle",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈmʌsl]",
-                    "TopicValue3": ["n. 肌肉"]
-                },
-                {
-                    "TopicName": "contract",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkɑːntrækt]",
-                    "TopicValue3": ["vi. become shorter or smaller 收缩", ["contraction n. 收缩；宫缩；（词的）缩约形式"]]
-                },
-                {
-                    "TopicName": "motion",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈmoʊʃn]",
-                    "TopicValue3": ["vi. give a signal by moving the hand or head 打手势；点（或摇）头示意"]
-                },
-                {
-                    "TopicName": "widen",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈwaɪdn]",
-                    "TopicValue3": ["v. make or become wider 加宽; 范围扩大"]
-                },
-                {
-                    "TopicName": "bait",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[beɪt]",
-                    "TopicValue3": ["n. food used to attract fish, animals, or birds so that they may be caugh 诱饵"]
-                },
-                {
-                    "TopicName": "cobra",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈkoʊbrə]",
-                    "TopicValue3": ["n. poisonous snake found in India and Africa 眼镜蛇"]
-                },
-                {
-                    "TopicName": "likely",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈlaɪkli]",
-                    "TopicValue3": ["a. probable 可能的"]
-                },
-                {
-                    "TopicName": "impulse",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[ˈɪmpʌls]",
-                    "TopicValue3": ["n. sudden wish to do sth. 冲动"]
-                },
-                {
-                    "TopicName": "commotion",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[kəˈmoʊʃn]",
-                    "TopicValue3": ["n. noisy confusion or excitement 混乱；骚动"]
-                },
-                {
-                    "TopicName": "commanding",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[kəˈmændɪŋ]",
-                    "TopicValue3": ["a. authoritative 威严的"]
-                },
-                {
-                    "TopicName": "forfeit",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈfɔːrfɪt]",
-                    "TopicValue3": ["vt. suffer the loss of (sth.) as a punishment （作为惩罚而）失去"]
-                },
-                {
-                    "TopicName": "rupee",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ruˈpi]",
-                    "TopicValue3": ["n. unit of currency in India, Pakistan, etc. 卢比"]
-                },
-                {
-                    "TopicName": "image",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɪmɪdʒ]",
-                    "TopicValue3": ["n. statue 雕像"]
-                },
-                {
-                    "TopicName": "emerge",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[iˈmɜːrdʒ]",
-                    "TopicValue3": ["vi. come or apper (from somewhere) 出现，兴起; 摆脱; 暴露; 露头", "emergence n. 出现; 兴起"]
-                },
-                {
-                    "TopicName": "slam",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[slæm]",
-                    "TopicValue3": ["vt. shut loudly and with force 砰地关上"]
-                },
-                {
-                    "TopicName": "host",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[hoʊst]",
-                    "TopicValue3": ["n. 男主人"]
-                },
-                {
-                    "TopicName": "faint",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[feɪnt]",
-                    "TopicValue3": ["a. weak; indistinct 微弱的；不明显的"]
-                },
-                {
-                    "TopicName": "crawl",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[krɔːl]",
-                    "TopicValue3": ["vi. move slowly by pulling the body along the ground 爬行"]
-                },
-                {
-                    "TopicName": "declaration",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˌdekləˈreɪʃn]",
-                    "TopicValue3": ["n. document containing an open public announcement 宣言"]
-                },
-                {
-                    "TopicName": "independence",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˌɪndɪˈpendəns]",
-                    "TopicValue3": ["n. freedom from the control of others 独立"]
-                },
-                {
-                    "TopicName": "obtain",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[əbˈteɪn]",
-                    "TopicValue3": ["vt. get through effort 获得"]
-                },
-                {
-                    "TopicName": "besides",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[bɪˈsaɪdz]",
-                    "TopicValue3": ["prep. as well as; in addition to 除…之外（还）", "ad. in addition; also 而且，还"]
-                },
-                {
-                    "TopicName": "investigation",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ɪnˌvestɪˈɡeɪʃn]",
-                    "TopicValue3": ["n. detailed or careful examination 调查", "investigate [ɪnˈvestɪɡeɪt] vt. examine 调查"]
-                },
-                {
-                    "TopicName": "appoint",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[əˈpɔɪnt]",
-                    "TopicValue3": ["vt. put (sb) in a position 任命", "appointment n. position 任命"]
-                },
-                {
-                    "TopicName": "committee",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[kəˈmɪti]",
-                    "TopicValue3": ["n. group of people chosen for special duties 委员会"]
-                },
-                {
-                    "TopicName": "capitol",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈkæpɪtl]",
-                    "TopicValue3": ["n. （美国）州议会大厦"]
-                },
-                {
-                    "TopicName": "canoe",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[kəˈnuː]",
-                    "TopicValue3": ["n. light boat moved by a paddle 独木舟"]
-                },
-                {
-                    "TopicName": "on-the-spot",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "['ɑn ðə spɑt]",
-                    "TopicValue3": ["a. at the place of the action 当场的"]
-                },
-                {
-                    "TopicName": "humble",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈhʌmbl]",
-                    "TopicValue3": ["adj. in low position 地位低下的"]
-                },
-                {
-                    "TopicName": "origin",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɔːrɪdʒɪn]",
-                    "TopicValue3": ["n. parentage; birth; beginning 血统；出身；起源"]
-                },
-                {
-                    "TopicName": "gardener",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɡɑːrdnər]",
-                    "TopicValue3": ["n. person who works in a garden either for pay or as a hobby 园丁"]
-                },
-                {
-                    "TopicName": "nobleman",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈnoʊblmən]",
-                    "TopicValue3": ["n. 贵族"]
-                },
-                {
-                    "TopicName": "dissatisfy",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[dɪsˈsætɪsfaɪ]",
-                    "TopicValue3": ["vt. fail to satisfy; displease 使不满", "dissatisfied adj. not satisfied 不满意的"]
-                },
-                {
-                    "TopicName": "threaten",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈθretn]",
-                    "TopicValue3": ["vt. hang over dangerously; utter a threat against 威胁", "threat n. 威胁; 征兆"]
-                },
-                {
-                    "TopicName": "reject",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[rɪˈdʒekt]",
-                    "TopicValue3": ["vt. refuse to take, believe, use or consider 拒绝", "rejection n. 拒绝; 摒弃; 剔除物; <医>排斥"]
-                },
-                {
-                    "TopicName": "nephew",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈnefjuː]",
-                    "TopicValue3": ["n. son of one's brother or sister 侄子"]
-                },
-                {
-                    "TopicName": "error",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈerər]",
-                    "TopicValue3": ["n. mistake; sth done wrongly 错误"]
-                },
-                {
-                    "TopicName": "judgment",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈdʒʌdʒmənt]",
-                    "TopicValue3": ["n. opinion 判断，看法"]
-                },
-                {
-                    "TopicName": "hesitate",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈhezɪteɪt]",
-                    "TopicValue3": ["vi. feel doubtful; be undecided 犹豫，迟疑不决", "hesitation n. 犹豫; 踌躇; 含糊; 口吃"]
-                },
-                {
-                    "TopicName": "conflict",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkɒnflɪkt]",
-                    "TopicValue3": ["vi. be opposed; clash 冲突", "n. disagreement; clash; fight 争执"]
-                },
-                {
-                    "TopicName": "unquestioning",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ʌnˈkwestʃənɪŋ]",
-                    "TopicValue3": ["adj. given or done without question or doubt 毫无疑问的"]
-                },
-                {
-                    "TopicName": "criticism",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkrɪtɪsɪzəm]",
-                    "TopicValue3": ["n. unfavorable remarks or judgments 批评"]
-                },
-                {
-                    "TopicName": "critic",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkrɪtɪk]",
-                    "TopicValue3": ["n. person who makes judgments about the good and bad qualities of sth.; person who points out mistakes 评论家；批评者"]
-                },
-                {
-                    "TopicName": "philosophy",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[fəˈlɑːsəfi]",
-                    "TopicValue3": ["n. 哲学"]
-                },
-                {
-                    "TopicName": "resent",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[rɪˈzent]",
-                    "TopicValue3": ["vt. feel angry or bitter at 对...愤恨；对...不满"]
-                },
-                {
-                    "TopicName": "action",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈækʃn]",
-                    "TopicValue3": ["n. the process of doing things; sth done 行动过程；行动"]
-                },
-                {
-                    "TopicName": "perpetual",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[pərˈpetʃuəl]",
-                    "TopicValue3": ["adj. never-ending; going on for a long time or without stopping 永恒的；连续不断的"]
-                },
-                {
-                    "TopicName": "constitution",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˌkɒnstɪˈtjuːʃn]",
-                    "TopicValue3": ["n. 宪法；章程"]
-                },
-                {
-                    "TopicName": "remark",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[rɪˈmɑːk]",
-                    "TopicValue3": ["vt. say; comment 说；评论", "n. 话语；评论"]
-                },
-                {
-                    "TopicName": "evil",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈiːvl]",
-                    "TopicValue3": ["n. sth. bad; sin 邪恶，罪恶", "a. very bad 邪恶的，坏的"]
-                },
-                {
-                    "TopicName": "idealism",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[aɪˈdiːəlɪzəm]",
-                    "TopicValue3": ["n. believing in the best things 理想主义；唯心主义"]
-                },
-                {
-                    "TopicName": "arch(a)eology",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˌɑːkiˈɒlədʒi]",
-                    "TopicValue3": ["n. study of ancient things, esp. remains of prehistoric times 考古学"]
-                },
-                {
-                    "TopicName": "rotation",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[rəʊˈteɪʃn]",
-                    "TopicValue3": ["n. act of rotating 轮作；旋转", "rotate v. turn around 旋转"]
-                },
-                {
-                    "TopicName": "conservation",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˌkɒnsəˈveɪʃn]",
-                    "TopicValue3": ["n. protecting from loss or from being used up 保护；保存", "conserve vt. protect 保护"]
-                },
-                {
-                    "TopicName": "superior",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[suːˈpɪəriə(r)]",
-                    "TopicValue3": ["adj. good or better in quality or value 较好的；优的", "superiority [suːˌpɪəriˈɒrəti] n. higher rank 优越"]
-                },
-                {
-                    "TopicName": "existence",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ɪɡˈzɪstəns]",
-                    "TopicValue3": ["n. state of existing 存在"]
-                },
-                {
-                    "TopicName": "influence",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɪnfluəns]",
-                    "TopicValue3": ["vt. have an effect on 影响"]
-                },
-                {
-                    "TopicName": "architecture",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɑːkɪtektʃə(r)]",
-                    "TopicValue3": ["n. art and science of building 建筑术；建筑学"]
-                },
-                {
-                    "TopicName": "tireless",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈtaɪələs]",
-                    "TopicValue3": ["adj. never or rarely getting tired 不知疲倦的"]
-                },
-                {
-                    "TopicName": "writer",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈraɪtə(r)]",
-                    "TopicValue3": ["n. person who writes esp. as a way of earning mondy 作家"]
-                },
-                {
-                    "TopicName": "volume",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈvɒljuːm]",
-                    "TopicValue3": ["n. book, esp. one of a set of books 卷；册"]
-                },
-                {
-                    "TopicName": "thrill",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[θrɪl]",
-                    "TopicValue3": ["vi. have a very exciting feeling 非常激动"]
-                },
-                {
-                    "TopicName": "self-evident",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˌself ˈevɪdənt]",
-                    "TopicValue3": ["adj. clear without proof 不言而喻的"]
-                },
-                {
-                    "TopicName": "create",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[kriˈeɪt]",
-                    "TopicValue3": ["vt. make (sth. that has not been made before) 创造", "creation n. sth made 创造"]
-                },
-                {
-                    "TopicName": "anniversary",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˌænɪˈvɜːsəri]",
-                    "TopicValue3": ["n. the yearly return of a special date 周年纪念日"]
-                },
-                {
-                    "TopicName": "countryman",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈkʌntrimən]",
-                    "TopicValue3": ["n. person from one's own country 同胞"]
-                },
-                {
-                    "TopicName": "legacy",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈleɡəsi]",
-                    "TopicValue3": ["n. sth. that one person leaves to another when he dies 遗产"]
-                },
-                {
-                    "TopicName": "debt",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[det]",
-                    "TopicValue3": ["n. sth. owed to sb. else 债（务）"]
-                },
-                {
-                    "TopicName": "educate",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈedʒukeɪt]",
-                    "TopicValue3": ["vt. train; teach how to read, write, think, etc. 教育"]
-                },
-                {
-                    "TopicName": "apply",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[əˈplaɪ]",
-                    "TopicValue3": ["vi. write to ask for (a job, membership, etc.),esp. officially 申请"]
-                },
-                {
-                    "TopicName": "interview",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɪntərvjuː]",
-                    "TopicValue3": ["n. 面试；接见；会见"]
-                },
-                {
-                    "TopicName": "advertise",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈædvərtaɪz]",
-                    "TopicValue3": ["vt. make known to people by printing a notice in a newspaper, etc. or by broad-casting on television, etc. 为…做广告", "advertisement [ˌædvərˈtaɪzmənt] n. 广告（活动），启事"]
-                },
-                {
-                    "TopicName": "local",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈloʊkl]",
-                    "TopicValue3": ["n. outer area of a town or city, where people live 郊区"]
-                },
-                {
-                    "TopicName": "slim",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[slɪm]",
-                    "TopicValue3": ["a. small,slight; slender 微小的；苗条的"]
-                },
-                {
-                    "TopicName": "awkward",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɔːkwərd]",
-                    "TopicValue3": ["a. causing difficulty, embar-rassment or inconvenience 造成困难、尴尬或不便的；令人尴尬的"]
-                },
-                {
-                    "TopicName": "depress",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[dɪˈpres]",
-                    "TopicValue3": ["vt. make sad 使沮丧", "depression [dɪˈpreʃn] n. 抑郁(症); 消沉; 萧条(期); 洼地; 低气压"]
-                },
-                {
-                    "TopicName": "suburb",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈsʌbɜːrb]",
-                    "TopicValue3": ["n. outer area of a town or city, where people live 郊区"]
-                },
-                {
-                    "TopicName": "brick",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[brɪk]",
-                    "TopicValue3": ["n. 砖"]
-                },
-                {
-                    "TopicName": "gravel",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈɡrævəl]",
-                    "TopicValue3": ["n. 砾石"]
-                },
-                {
-                    "TopicName": "evergreen",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈevərgrin]",
-                    "TopicValue3": ["a. with green leaves through-out the year 常绿的"]
-                },
-                {
-                    "TopicName": "shrub",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[ʃrʌb]",
-                    "TopicValue3": ["n. low bush with several woody stems 灌木"]
-                },
-                {
-                    "TopicName": "fume",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[fjuːm]",
-                    "TopicValue3": ["n. strong-smelling smoke, gas or vapour （浓烈难闻的）烟，气，汽"]
-                },
-                {
-                    "TopicName": "sandy-coloured",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "['sændik'ʌləd]",
-                    "TopicValue3": ["a. yellowish-red 沙色的，黄中带红的"]
-                },
-                {
-                    "TopicName": "moustache",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈmʌstæʃ]",
-                    "TopicValue3": ["n. hair growing on the upper lip 小胡子"]
-                },
-                {
-                    "TopicName": "forehead",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈfɔːrəd]",
-                    "TopicValue3": ["n. part of the face above the eye-brows and below the hair 额，前额"]
-                },
-                {
-                    "TopicName": "disapproval",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˌdɪsəˈpruvəl]",
-                    "TopicValue3": ["n. unfavorable opinion or feeling; dislike 不赞成；不满"]
-                },
-                {
-                    "TopicName": "colonel",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈkɜːrnl]",
-                    "TopicValue3": ["n. 上校"]
-                },
-                {
-                    "TopicName": "private",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈpraɪvɪt]",
-                    "TopicValue3": ["n. soldier of the lowest rank 列兵；士兵"]
-                },
-                {
-                    "TopicName": "bootlace",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈbutˌles]",
-                    "TopicValue3": ["n. shoelace for a high shoe or boot 靴带"]
-                },
-                {
-                    "TopicName": "undo",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ʌnˈduː]",
-                    "TopicValue3": ["vt. untie,unfasten 解开；松开"]
-                },
-                {
-                    "TopicName": "ah",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ɑ]",
-                    "TopicValue3": ["interj. (a cry of surprise, pity, pain, joy, dislike, etc.) 啊"]
-                },
-                {
-                    "TopicName": "grunt",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ɡrʌnt]",
-                    "TopicValue3": ["vt. 咕哝着说出"]
-                },
-                {
-                    "TopicName": "stale",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[steɪl]",
-                    "TopicValue3": ["a. not fresh 不新鲜的"]
-                },
-                {
-                    "TopicName": "cabbage",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈkæbɪdʒ]",
-                    "TopicValue3": ["n. 卷心菜"]
-                },
-                {
-                    "TopicName": "crumb",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[krʌm]",
-                    "TopicValue3": ["n. very small, broken piece of bread or cake 面包屑；糕饼屑"]
-                },
-                {
-                    "TopicName": "certificate",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[sərˈtɪfɪkeɪt]",
-                    "TopicValue3": ["n. 证（明）书"]
-                },
-                {
-                    "TopicName": "bloodshot",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈblʌdʃɑt]",
-                    "TopicValue3": ["a. (眼睛）充血的"]
-                },
-                {
-                    "TopicName": "vital",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈvaɪtl]",
-                    "TopicValue3": ["a. very necessary; of the greatest importance 必不可少的；极其重要的"]
-                },
-                {
-                    "TopicName": "mumble",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈmʌmbl]",
-                    "TopicValue3": ["vt. speak (words) unclearly 含糊地说"]
-                },
-                {
-                    "TopicName": "attach",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[əˈtætʃ]",
-                    "TopicValue3": ["vt. give(to); fasten(to) 把...给予; 系，贴"]
-                },
-                {
-                    "TopicName": "obviously",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈɑːbviəsli]",
-                    "TopicValue3": ["ad. as can be clearly seen; plainly 明显地，显然", "obvious [ˈɑːbviəs] a. 明显的; 当然的; 平淡无奇的; 不必要的"]
-                },
-                {
-                    "TopicName": "consist (of)",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[kənˈsɪst]",
-                    "TopicValue3": ["vi. be made up(of)（由...) 组成，构成"]
-                },
-                {
-                    "TopicName": "range",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[reɪndʒ]",
-                    "TopicValue3": ["vi. vary between certain limits (在一定范围内）变动"]
-                },
-                {
-                    "TopicName": "cricket",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ˈkrɪkɪt]",
-                    "TopicValue3": ["n. 板球"]
-                },
-                {
-                    "TopicName": "set-up",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈset ʌp]",
-                    "TopicValue3": ["n. arrangement <非正> 组织; 机构; 建制; 体制"]
-                },
-                {
-                    "TopicName": "dismay",
-                    "TopicValue1": "六级",
-                    "TopicValue2": "[dɪsˈmeɪ]",
-                    "TopicValue3": ["vt. make discouraged or afraid 使灰心；使害怕"]
-                },
-                {
-                    "TopicName": "algebra",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ˈældʒɪbrə]",
-                    "TopicValue3": ["n. 代数（学）"]
-                },
-                {
-                    "TopicName": "geometry",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[dʒiˈɑːmətri]",
-                    "TopicValue3": ["n. 几何（学）"]
-                },
-                {
-                    "TopicName": "incompetent",
-                    "TopicValue1": "纲外",
-                    "TopicValue2": "[ɪnˈkɑːmpɪtənt]",
-                    "TopicValue3": ["a. completely unskillful; not good enough at doing a job, etc. 无能力的; 不胜任的", "competent [ˈkɑːmpɪtənt] a. 有能力的; 能胜任的，称职的"]
-                },
-                {
-                    "TopicName": "leisure",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈliːʒər]",
-                    "TopicValue3": ["n. free time; time which one can spend as one likes 闲暇；悠闲"]
-                },
-                {
-                    "TopicName": "salary",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈsæləri]",
-                    "TopicValue3": ["n. fixed (usually monthly) pay for regular work 薪水"]
-                },
-                {
-                    "TopicName": "plus",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[plʌs]",
-                    "TopicValue3": ["prep. with the addition of 加（上）"]
-                },
-                {
-                    "TopicName": "protest",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[prəˈtest]",
-                    "TopicValue3": ["vi. express a strong objection 抗议；反对"]
-                },
-                {
-                    "TopicName": "straw",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[strɔː]",
-                    "TopicValue3": ["n. 稻草；麦秆"]
-                },
-                {
-                    "TopicName": "prospect",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈprɑːspekt]",
-                    "TopicValue3": ["n. sth. expected or considered probable; possibiity 期望中的事；展望；前景"]
-                },
-                {
-                    "TopicName": "constitute",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈkɑːnstɪtuːt]",
-                    "TopicValue3": ["vt. form; make up; be 组成，构成"]
+                    "TopicName": "hazard",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhæzərd]",
+                    "TopicValue3": ["n. 危险"]
                 },
                 {
                     "TopicName": "ultimate",
-                    "TopicValue1": "四级",
-                    "TopicValue2": "[ˈʌl.tə.mət]",
-                    "TopicValue3": ["a. greatest; utmost; last or final 最大的；终极的；最终的"]
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈʌltɪmət]",
+                    "TopicValue3": ["a. 最大的；终极的；最终的"]
                 },
                 {
-                    "TopicName": "indignity",
-                    "TopicValue1": "六级后",
-                    "TopicValue2": "[ɪnˈdɪɡnəti]",
-                    "TopicValue3": ["n. injury to one's dignity; insult 侮辱"]
+                    "TopicName": "heated",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhiːtɪd]",
+                    "TopicValue3": ["a. 热烈的；激烈的"]
+                },
+                {
+                    "TopicName": "vanish",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈvænɪʃ]",
+                    "TopicValue3": ["v. 消失"]
+                },
+                {
+                    "TopicName": "hesitate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhezɪteɪt]",
+                    "TopicValue3": ["v. 犹豫，迟疑不决"]
+                },
+                {
+                    "TopicName": "vital",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈvaɪtl]",
+                    "TopicValue3": ["a. 必不可少的，极其重要的"]
+                },
+                {
+                    "TopicName": "humble",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhʌmbl]",
+                    "TopicValue3": ["a. 地位低下的"]
+                },
+                {
+                    "TopicName": "widespread",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈwaɪdsprɛd]",
+                    "TopicValue3": ["a. 分布广的；流传广的"]
+                },
+                {
+                    "TopicName": "humorous",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhjuːmərəs]",
+                    "TopicValue3": ["a. 幽默的"]
                 }
             ]
         },
@@ -1312,244 +604,304 @@
             "PartName": "短语",
             "TopicList": [
                 {
-                    "TopicName": "(be) known as",
+                    "TopicName": "a series of",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["also publicly called; named", "以...闻名，通常名叫"]
-                },
-                {
-                    "TopicName": "name after",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["give the same name as", "以...名字命名"]
-                },
-                {
-                    "TopicName": "as to",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["about, concerning", "关于"]
-                },
-                {
-                    "TopicName": "base on/upon",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["use as a basis or foundation for", "以...为基础，把...基于"]
-                },
-                {
-                    "TopicName": "for one thing ... (for another)",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["in the first place ... (in the second place)", ""]
-                },
-                {
-                    "TopicName": "be composed of",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["have as members or parts", "由...组成"]
-                },
-                {
-                    "TopicName": "as far as ... be concerned",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["to the degree that it matters to", "就...而言"]
-                },
-                {
-                    "TopicName": "stick up",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["stand upright; project", "直立；突出"]
-                },
-                {
-                    "TopicName": "give off",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["emit; send out", "发出；散发出"]
-                },
-                {
-                    "TopicName": "set back",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["delay the advance or development of", "耽搁；阻碍"]
-                },
-                {
-                    "TopicName": "dream of",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["wish for ardently", "向往，渴望"]
-                },
-                {
-                    "TopicName": "pull into",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["enter， arrive at", "（车等）驶入；到达"]
-                },
-                {
-                    "TopicName": "come through",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["arrive as expected", "如所预料地到来"]
-                },
-                {
-                    "TopicName": "take back",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["agree to receive sb. whom one has dismissed", "允许...回来，接受"]
-                },
-                {
-                    "TopicName": "be caught up in",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["be very interested in", "对...入迷"]
-                },
-                {
-                    "TopicName": "take over",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["occupy", "占用；接管"]
-                },
-                {
-                    "TopicName": "make one's way",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["move along", "去，前往"]
-                },
-                {
-                    "TopicName": "track down",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["find or discover by hunting or searching", "追捕到；追查到"]
-                },
-                {
-                    "TopicName": "be seated",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["sit down", "坐下来"]
-                },
-                {
-                    "TopicName": "spring up",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["begin suddenly; grow up quickly", "突然开始；迅速生长"]
-                },
-                {
-                    "TopicName": "at the sight of",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["on seeing", "一看见"]
-                },
-                {
-                    "TopicName": "feel like",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["have a liking for; wish for", "想要"]
-                },
-                {
-                    "TopicName": "come to",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["regain consciousness", "苏醒"]
-                },
-                {
-                    "TopicName": "make for",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["move towards", "走向"]
-                },
-                {
-                    "TopicName": "ring out",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["sound loudly and clearly", "突然响起"]
-                },
-                {
-                    "TopicName": "light up",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["make or become bright with light or color", "照亮；变亮"]
-                },
-                {
-                    "TopicName": "go out of one's way (to do sth.)",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["take particular trouble; make a special effort", "特地"]
-                },
-                {
-                    "TopicName": "leave ...to",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["leave (sb.) in charge of", "交托，委托"]
-                },
-                {
-                    "TopicName": "act on",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["act according to", "按照...行事"]
-                },
-                {
-                    "TopicName": "leave behind",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["abandon; fail to take or bring", "丢弃；留下，忘带"]
-                },
-                {
-                    "TopicName": "in existence",
-                    "TopicValue1": "",
-                    "TopicValue2": "",
-                    "TopicValue3": ["existing", "存在"]
+                    "TopicValue3": ["一系列，一连串"]
                 },
                 {
                     "TopicName": "above all",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["most important of all", "首先，尤其是"]
+                    "TopicValue3": ["首先，尤其是"]
                 },
                 {
-                    "TopicName": "owe ... to",
+                    "TopicName": "act on",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["be indebted to", "归因于，归功于"]
+                    "TopicValue3": ["按照...行事"]
                 },
                 {
-                    "TopicName": "be short of",
+                    "TopicName": "as far as... be concerned",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["not having enough of", "缺少"]
+                    "TopicValue3": ["就···而言"]
                 },
                 {
-                    "TopicName": "smell of",
+                    "TopicName": "at one time or another",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["have, give out the smell of", "有...的气味"]
+                    "TopicValue3": ["早晚"]
                 },
                 {
-                    "TopicName": "judging by",
+                    "TopicName": "at the sight of",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["forming an opinion based on", "基于以下因素形成意见"]
+                    "TopicValue3": ["一看见"]
                 },
                 {
                     "TopicName": "attach importance to",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["consider important", "重视"]
+                    "TopicValue3": ["重视"]
                 },
                 {
-                    "TopicName": "in common",
+                    "TopicName": "base on/upon",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["shared with sb.else", "共有的，共同的"]
+                    "TopicValue3": ["以···为基础，把···基于"]
+                },
+                {
+                    "TopicName": "be caught up in",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["对···入迷"]
+                },
+                {
+                    "TopicName": "(be) known as",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["以···闻名，通常名叫"]
+                },
+                {
+                    "TopicName": "be seated",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["坐着;坐下"]
+                },
+                {
+                    "TopicName": "be short of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["缺少"]
+                },
+                {
+                    "TopicName": "butterflies in the stomach",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["忐忑不安"]
+                },
+                {
+                    "TopicName": "come about",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["发生"]
+                },
+                {
+                    "TopicName": "come through",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["如所预料地到来"]
+                },
+                {
+                    "TopicName": "come to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["苏醒"]
+                },
+                {
+                    "TopicName": "come to terms with",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["与···达成协议"]
                 },
                 {
                     "TopicName": "consist of",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["be made up of", "由...组成"]
+                    "TopicValue3": ["由...组成"]
+                },
+                {
+                    "TopicName": "do (sb) harm",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["对(某人)造成损害(或伤害)"]
+                },
+                {
+                    "TopicName": "draw to a close",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["结束"]
+                },
+                {
+                    "TopicName": "dream of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["向往，渴望"]
+                },
+                {
+                    "TopicName": "dwell on",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["老是想着;详述;强调"]
+                },
+                {
+                    "TopicName": "feel like",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["想要"]
+                },
+                {
+                    "TopicName": "go out of one's way (to do sth.)",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["特地"]
+                },
+                {
+                    "TopicName": "in advance",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["预先，事前"]
+                },
+                {
+                    "TopicName": "in all likelihood",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["十之八九，极有可能"]
+                },
+                {
+                    "TopicName": "in common",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["共有的，共同的"]
+                },
+                {
+                    "TopicName": "in existence",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["存在"]
+                },
+                {
+                    "TopicName": "in practice",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["(医师、律师等)在开业中;在实践中"]
                 },
                 {
                     "TopicName": "in turn",
                     "TopicValue1": "",
                     "TopicValue2": "",
-                    "TopicValue3": ["one after another", "轮流"]
+                    "TopicValue3": ["轮流"]
+                },
+                {
+                    "TopicName": "judging by",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["从...判断"]
+                },
+                {
+                    "TopicName": "leave behind",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["丢弃;留下，忘带"]
+                },
+                {
+                    "TopicName": "live with",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["学会适应;容忍"]
+                },
+                {
+                    "TopicName": "make for",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["走向"]
+                },
+                {
+                    "TopicName": "make one's way",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["去，前往"]
+                },
+                {
+                    "TopicName": "name after",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["以...名字命名"]
+                },
+                {
+                    "TopicName": "off balance",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["失去平衡的"]
+                },
+                {
+                    "TopicName": "pull into",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["(车等)驶入;到达"]
+                },
+                {
+                    "TopicName": "serve as",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["起...作用;被用作"]
+                },
+                {
+                    "TopicName": "set back",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["耽搁;阻碍"]
+                },
+                {
+                    "TopicName": "single out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["选出，挑出"]
+                },
+                {
+                    "TopicName": "smell of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["有...的气味"]
+                },
+                {
+                    "TopicName": "spring up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["突然开始;迅速生长"]
+                },
+                {
+                    "TopicName": "stick up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["直立;突出"]
+                },
+                {
+                    "TopicName": "Take apart",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["拆开"]
+                },
+                {
+                    "TopicName": "Take back",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["允许···回来，接受"]
+                },
+                {
+                    "TopicName": "Take over",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["占用;接管"]
+                },
+                {
+                    "TopicName": "to make matters worse",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["使情况更糟糕的是"]
+                },
+                {
+                    "TopicName": "track down",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["追捕到;追查到"]
+                },
+                {
+                    "TopicName": "work out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["解决;算出;想出"]
                 }
             ]
         },
@@ -1599,7 +951,7 @@
                     "TopicValue3": ["We were caught up in a discussion about the situation in the Middle East when the professor walked into the classroom."]
                 },
                 {
-                    "TopicNameList": ["午夜后某个时候，敌人被追撤退了。"],
+                    "TopicNameList": ["午夜后某个时候，敌人被迫撤退了。"],
                     "TopicValue1": "",
                     "TopicValue2": "",
                     "TopicValue3": ["Sometime after midnight, the enemy was/were forced to retreat."]
@@ -1723,6 +1075,108 @@
                     "TopicValue1": "",
                     "TopicValue2": "",
                     "TopicValue3": ["It is self-evident that the education of the young is vital to the future of a country."]
+                },
+                {
+                    "TopicNameList": ["那小女孩跑得太快，身体一下失去平衡，跌倒了。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The little girl ran so fast that she was thrown off balance and fell over/down."]
+                },
+                {
+                    "TopicNameList": ["我被他们互相矛盾的意见搞糊涂了，不知如何去做才是。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I was so bewildered by their conflicting advice that I did not know how to act/ what to do."]
+                },
+                {
+                    "TopicNameList": ["体育代表团团长在少先队员向他献上一束鲜花时愉快地笑了。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The head of the sports delegation beamed with delight when a young pioneer presented him with a bunch of flowers."]
+                },
+                {
+                    "TopicNameList": ["这学期我们都学习得不错，我真不明白为什么我们的英语老师单单表扬了班长一个人。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I really don't see why our English teacher should single out our monitor for praise since we have all done quite well this term."]
+                },
+                {
+                    "TopicNameList": ["我相信比较高级的动物是由比较低级的动物进化而来的这一学说。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I believe in the theory that the higher animals developed from the lower ones."]
+                },
+                {
+                    "TopicNameList": ["烧煤的时候，不仅消耗房子里面的氧气，而且还散发出有毒的气体。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The burning of coal not only consumes the oxygen in the house but also gives out poisonous gases."]
+                },
+                {
+                    "TopicNameList": ["显然，找到替代能源对我们经济的稳定发展是至关重要的。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Apparently, finding alternative energy sources is essential to the steady development of our economy."]
+                },
+                {
+                    "TopicNameList": ["如果地球上的温度继续年复一年地上升，极地的冰帽将会开始融化，沿海城市中一半的建筑物很可能会消失在劈啪飞溅的海浪下面。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["If the temperature on the Earth continues to go up from year to year, the polar ice caps will begin to melt and, in all likelihood, half of the buildings in coastal cities will disappear beneath splashing waves."]
+                },
+                {
+                    "TopicNameList": ["因为这些生物很小并且常常躲在叶子茂密的植物下面，肉眼并不都可以看见。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Because these creatures are small and tend to hide beneath leafy plants, they are not always visible to the naked eye."]
+                },
+                {
+                    "TopicNameList": ["由于受到原子辐射，他最终在工作时倒下了。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["As a result of exposure to atomic radiation, he finally collapsed at work."]
+                },
+                {
+                    "TopicNameList": ["有明显的证据表明工作上的重压与身体的某些毛病有联系。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["There is distinct evidence of the connection between heavy pressure of work and some disorders of the body."]
+                },
+                {
+                    "TopicNameList": ["只要你不断努力，你迟早会解决这个难题的。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["If/ As long as you keep(on) trying, you will be able to resolve this difficult problem sooner or later."]
+                },
+                {
+                    "TopicNameList": ["吉姆的朋友说，他们那个城市的噪音污染十分严重，但是他们只好忍着。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Jim's friends said that the noise pollution in their city was terrible, but they had to live with it."]
+                },
+                {
+                    "TopicNameList": ["汤姆起初认为，凭他的知识、技术和经验，一定能够找到一份称心如意的工作。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["At first Tom thought that with his knowledge, skill and experience he was bound to find a satisfactory job."]
+                },
+                {
+                    "TopicNameList": ["迪克认为，如果他拆不开那台机器，那么很可能厂里别的工人也拆不开。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Dick thought that if he wasn't able to take the machine apart, chances were that no other worker in the plant could, either."]
+                },
+                {
+                    "TopicNameList": ["你是否认为公共汽车司机应对乘客的安全负完全的责任？"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Do you think bus drivers should take full responsibility for the passengers' safety?"]
+                },
+                {
+                    "TopicNameList": ["你不必再去多想判断上的那些失误了。重要的是尽量避免再犯。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["You needn't dwell on your mistakes in judgment any more. What's important is to try your best to avoid repeating them."]
                 }
             ]
         },
@@ -1758,6 +1212,24 @@
                     "TopicValue1": "",
                     "TopicValue2": "",
                     "TopicValue3": ["在我等着进大学期间，我在一份地方报纸上看到一则广告，说是在离我的住处大约十英里的伦敦某郊区，有所学校要招聘一名教师。我因为手头很拮据，同时也想干点有用的事，便提出了申请，但是提出申请的同时我也担心自己一无学位，二无教学经验，得到这份工作的可能性是微乎其微的。", "然而，三天之后，来了一封信，叫我到克罗伊顿去面试。原来这一路去那儿还真麻烦：先乘火车到克罗伊顿车站，再乘十分钟的公共汽车，然后还要步行至少四分之一英里。结果，我在六月一个炎热的上午到了那儿，心情沮丧得都不觉得紧张了。"]
+                },
+                {
+                    "TopicNameList": ["As a boy and then as an adult, I never lost my wonder at the personality that was Einstein,He was the only person I knew who had come to terms with himself and the world around him. He knew what he wanted and he wanted only this: to understand within his limits as a human being the nature of the universe and the logic and simplicity in its functioning. He knew there were answers beyond his intellectual reach. But this did not frustrate him. He was content to go as far as he could.", "In the 23 years of our friendship, I never saw him show jealousy, vanity,bitterness, anger,resentment, or personal ambition. He seemed immune to these emotions. He was beyond any pretension. Although he corresponded with many of the world's most important people, his stationery carried only a watermark — W - for Woolworth's."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["作为一个孩子，之后又作为一个成年人，我一直因为爱因斯坦的个性惊叹不已。他是我所认识的人中唯一能跟自己及周围世界达成妥协的人。他知道自己想要什么，而他想要的只是：在他作为一个人的能力范围之内理解宇宙的性质以及宇宙运行的逻辑和单纯。他知道有许多问题的答案超出了他的智力范围。但这并不使他感到灰心丧气。只要在能力许可的范围内取得最大的成功他就心满意足了。", "在我们23年的友谊中，我从未见他表现出嫉妒、虚荣、痛苦、愤怒、怨恨或个人野心。他好像对这些感情具有免疫能力似的。他毫无矫饰之心和虚荣之道。虽然他与世界上的许多要人通信,他用的却是有W水印字母的信笺，水印字母W——（五分钱商店）伍尔沃思的缩写。"]
+                },
+                {
+                    "TopicNameList": ["The sea level is rising very slowly from year to year. In all likelihood, it will continue to rise and do so at a greater rate in the course of the next hundred years. Where there are low-lying coastal areas (where a large fraction of the world's population lives) the water will advance steadily, forcing people to retreat inland.", "Eventually the sea will reach two hundred feet above its present level, and will be splashing against the windows along the twentieth floors of Manhattan's skyscrapers. Florida will disappear beneath the waves, as will much of the British Isles, the crowded Nile valley, and the low-lying areas of China, India, and Russia.", "Not only will many cities be drowned, but much of the most productive farming areas of the world will be lost. As the food supply drops, starvation will be widespread and the structure of society may collapse under the pressure."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["年复一年，海平面正在慢慢上升。它很可能继续上升，而在今后数百年间，上升的速度会更快。在那些低洼的沿海地区（在这些地区居住着世界上很大一部分人口）,海水会稳步向前推进，迫使人们向内陆退居。", "最后，海水将会高出目前海平面200英尺，一阵阵海浪将会拍打曼哈顿摩天大楼20层楼的窗户。佛罗里达将会沉没在海浪之下，英伦三岛的大部分，人口稠密的尼罗河流域，还有中国、印度和俄罗斯的低洼地区也都将遭到同样的命运。", "不仅许多城市将被淹没，而且我们还将失去世界上大部分盛产粮食的地区。由于食品供应下降，到处都会出现饥荒，在这种压力下，社会结构有可能会崩溃。"]
+                },
+                {
+                    "TopicNameList": ["Now in the last month of my residency, sleeping was no longer a problem. There were still situations in which I couldn't be certain my decision had been the right one; but I had learned to accept this as a constant problem for a surgeon, one that could never be completely resolved—and I could live with it. So, once I had made a considered decision, I no longer dwelt on it.Reviewing it wasn't going to help and I knew that with my knowledge and experience, any decision I'd made was bound to be a sound one. It was a nice feeling."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["然而，在我做住院医生的最后一个月，睡眠已不再是个问题了。在有些情况下我仍然不能确定自己的决定是否正确，但我已学会把这看作一个外科医生经常会遇到的问题，一个水远也不能完全解决的问题——我已能适应它了。所以，我一旦经过深思熟虑作出某个决定，就不再去多想它了。多想也不会有什么帮助，而且我知道，凭我的知识和经验，我作出的任何决定肯定都是稳妥的。这是一种令人愉快的感觉。"]
                 }
             ]
         }

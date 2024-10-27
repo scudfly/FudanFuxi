@@ -18,13 +18,11 @@
       </mat-card-header>
       <mat-card-content>
         <div class="topicNameList-wapper" *ngIf="currentTopic.TopicNameList && currentTopic.TopicNameList.length > 0">
-          <div class="explain-wapper" *ngFor="let topicName of currentTopic.TopicNameList">
-            {{topicName}}
+          <div class="explain-wapper" *ngFor="let topicName of currentTopic.TopicNameList" [innerHTML]="topicName">
           </div>
         </div>
         <div class="content-wapper">
-          <div class="explain-wapper" *ngFor="let explain of currentTopic.TopicValue3">
-            {{explain}}
+          <div class="explain-wapper" *ngFor="let explain of currentTopic.TopicValue3" [innerHTML]="explain">
           </div>
         </div>
       </mat-card-content>
