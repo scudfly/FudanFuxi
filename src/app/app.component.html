@@ -1,37 +1,66 @@
 <div class="body">
   <div class="subject-wapper" *ngIf="!currentData">
-    <button mat-flat-button *ngFor="let subject of subjectList" color="primary" class="subject-button" (click)="selectSubject(subject.file)">{{subject.name}}</button>
+    <button mat-flat-button *ngFor="let subject of subjectList" color="primary" class="subject-button" (click)="selectSubject(subject.file, subject.type)">{{subject.name}}</button>
   </div>
   <!-- <div class="mode-wapper" *ngIf="currentData && !currentMode">
     <button mat-flat-button color="primary" class="mode-button" (click)="selectMode('复习')">复习</button>
     <button mat-flat-button color="primary" class="mode-button">测试</button>
   </div> -->
-  <div class="part-wapper" *ngIf="currentData != null && currentList.length == 0">
-    <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectPart(part.PartName)">{{part.PartName}}</button>
-    <button mat-flat-button color="primary" class="part-button" (click)="backhome()">返回</button>
+  <div *ngIf="currentType != 2">
+    <div class="part-wapper" *ngIf="currentData != null && currentList.length == 0">
+      <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectPart(part.PartName)">{{part.PartName}}</button>
+      <button mat-flat-button color="primary" class="part-button" (click)="backhome()">返回</button>
+    </div>
+    <div class="topic-wapper" *ngIf="currentList.length > 0">
+      <mat-card class="topic-card">
+        <mat-card-header *ngIf="currentTopic.TopicName">
+          <mat-card-title>{{currentTopic.TopicName}}<span class="word-level" *ngIf="currentTopic.TopicValue1">{{currentTopic.TopicValue1}}</span></mat-card-title>
+          <mat-card-subtitle *ngIf="currentTopic.TopicValue2">{{currentTopic.TopicValue2}}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+          <div class="topicNameList-wapper" *ngIf="currentTopic.TopicNameList && currentTopic.TopicNameList.length > 0">
+            <div class="explain-wapper" *ngFor="let topicName of currentTopic.TopicNameList" [innerHTML]="topicName">
+            </div>
+          </div>
+          <div class="content-wapper">
+            <div class="explain-wapper" *ngFor="let explain of currentTopic.TopicValue3" [innerHTML]="explain">
+            </div>
+          </div>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button (click)="backhome()">返回</button>
+          <button mat-button (click)="nextTopic()">下一个</button>
+        </mat-card-actions>
+      </mat-card>
+    </div>
   </div>
-  <div class="topic-wapper" *ngIf="currentList.length > 0">
-    <mat-card class="topic-card">
-      <mat-card-header *ngIf="currentTopic.TopicName">
-        <mat-card-title>{{currentTopic.TopicName}}<span class="word-level" *ngIf="currentTopic.TopicValue1">{{currentTopic.TopicValue1}}</span></mat-card-title>
-        <mat-card-subtitle *ngIf="currentTopic.TopicValue2">{{currentTopic.TopicValue2}}</mat-card-subtitle>
+  <div *ngIf="currentType == 2" class="topic-wapper">
+    <div class="type2title">{{currentTopic.PartName}}</div>
+    <mat-card class="topic-card" *ngFor="let topic of currentTopic.TopicList">
+      <mat-card-header *ngIf="topic.TopicName">
+        <mat-card-title>{{topic.TopicName}}<span class="word-level" *ngIf="topic.TopicValue1">{{topic.TopicValue1}}</span></mat-card-title>
+        <mat-card-subtitle *ngIf="topic.TopicValue2">{{topic.TopicValue2}}</mat-card-subtitle>
       </mat-card-header>
       <mat-card-content>
-        <div class="topicNameList-wapper" *ngIf="currentTopic.TopicNameList && currentTopic.TopicNameList.length > 0">
-          <div class="explain-wapper" *ngFor="let topicName of currentTopic.TopicNameList" [innerHTML]="topicName">
+        <div class="topicNameList-wapper" *ngIf="topic.TopicNameList && topic.TopicNameList.length > 0">
+          <div class="explain-wapper" *ngFor="let topicName of topic.TopicNameList" [innerHTML]="topicName">
           </div>
         </div>
         <div class="content-wapper">
-          <div class="explain-wapper" *ngFor="let explain of currentTopic.TopicValue3" [innerHTML]="explain">
+          <div class="explain-wapper" *ngFor="let explain of topic.TopicValue3" [innerHTML]="explain">
           </div>
         </div>
       </mat-card-content>
-      <mat-card-actions>
-        <button mat-button (click)="backhome()">返回</button>
-        <button mat-button (click)="nextTopic()">下一个</button>
-      </mat-card-actions>
+      <!-- <mat-card-actions>
+
+      </mat-card-actions> -->
     </mat-card>
+    <div class="actionbar">
+      <button mat-flat-button (click)="backhome()">返回</button>
+      <button mat-flat-button (click)="nextTopic()">下一个</button>
+    </div>
   </div>
+
 </div>
 
 
