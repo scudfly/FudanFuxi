@@ -1,12 +1,12 @@
 <div class="body">
   <div class="subject-wapper" *ngIf="!currentData">
-    <button mat-flat-button *ngFor="let subject of subjectList" color="primary" class="subject-button" (click)="selectSubject(subject.file, subject.type)">{{subject.name}}</button>
+    <button mat-flat-button *ngFor="let subject of subjectList" color="primary" class="subject-button" (click)="selectSubject(subject)">{{subject.name}}</button>
   </div>
   <!-- <div class="mode-wapper" *ngIf="currentData && !currentMode">
     <button mat-flat-button color="primary" class="mode-button" (click)="selectMode('复习')">复习</button>
     <button mat-flat-button color="primary" class="mode-button">测试</button>
   </div> -->
-  <div *ngIf="currentType != 2">
+  <div *ngIf="currentType == 1">
     <div class="part-wapper" *ngIf="currentData != null && currentList.length == 0">
       <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectPart(part.PartName)">{{part.PartName}}</button>
       <button mat-flat-button color="primary" class="part-button" (click)="backhome()">返回</button>
@@ -59,6 +59,17 @@
       <button mat-flat-button (click)="backhome()">返回</button>
       <button mat-flat-button (click)="nextTopic()">下一个</button>
     </div>
+  </div>
+  <div *ngIf="currentType == 3" class="topic-wapper">
+
+    <div class="imgContainer">
+      <button mat-flat-button (click)="backhome()">返回</button>
+      <img *ngFor="let index of getRange(currentSubject.filemax); let i = index" [src]="'assets/data/' + currentSubject.file + '/' + currentSubject.filename + i + '.' + currentSubject.fileext">
+      <button mat-flat-button (click)="backhome()">返回</button>
+    </div>
+
+
+    <!-- <span *ngFor="let index of getRange(currentSubject.filemax); let i = index">{{index}}</span> -->
   </div>
 
 </div>

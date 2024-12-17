@@ -30,15 +30,19 @@ export class AppComponent {
       file: "history",
       type: "2"
     },
-    // {
-    //   name: "数据结构",
-    //   file: "datastructure",
-    //   type: "1"
-    // }
+    {
+      name: "数据结构",
+      file: "datastructure",
+      type: "3",
+      filename: "354181e3b270f8186e0e408a10d8dab8-",
+      fileext: "jpg",
+      filemax: 118
+    }
   ];
 
   // public currentMode: string = "";
 
+  public currentSubject: any;
   public currentType: number = 0;
   public currentData: any;
   public currentList: any[] = [];
@@ -49,22 +53,25 @@ export class AppComponent {
 
   }
 
-  selectSubject(file: string, type: number) {
+  selectSubject(subject: any) {
 
-    if (!file) {
+    this.currentSubject = subject;
+
+    if (!subject.file) {
       return;
     }
 
-    this.currentType = type;
+    this.currentType = subject.type;
 
-    this.http.get(`assets/data/${file}.json`).subscribe((response:any) => {
+    this.http.get(`assets/data/${subject.file}.json`).subscribe((response:any) => {
       this.currentData = response;
 
-      if (type == 2) {
+      if (subject.type == 2) {
         this.currentList = response.Content;
         this.currentOrder = Array.from({ length: response.Content.length }, (_, index) => index);
         this.currentIndex = 0;
       }
+
     });
   }
 
@@ -118,9 +125,15 @@ export class AppComponent {
       return;
     }
 
+    this.currentType = 0;
     this.currentData = null;
 
   }
+
+  getRange(max: number): number[] {
+    return Array.from({ length: max }, (_, index) => index);
+  }
+
   // scrollToTop(): void {
   //   const curPosition = document.documentElement.scrollTop || document.body.scrollTop;
   //   if (curPosition > 0) {
