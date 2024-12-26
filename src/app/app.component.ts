@@ -37,7 +37,15 @@ export class AppComponent {
       filename: "354181e3b270f8186e0e408a10d8dab8-",
       fileext: "jpg",
       filemax: 118
-    }
+    },
+    {
+      name: "计算机组成原理",
+      file: "computerstructure",
+      type: "3",
+      filename: "",
+      fileext: "jpg",
+      filemax: 1
+    },
   ];
 
   // public currentMode: string = "";
