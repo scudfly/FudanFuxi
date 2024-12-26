@@ -71,6 +71,12 @@ export class AppComponent {
 
     this.currentType = subject.type;
 
+    if (subject.type == 3) {
+      this.currentData = {};
+      return;
+    }
+
+
     this.http.get(`assets/data/${subject.file}.json`).subscribe((response:any) => {
       this.currentData = response;
 
@@ -79,7 +85,6 @@ export class AppComponent {
         this.currentOrder = Array.from({ length: response.Content.length }, (_, index) => index);
         this.currentIndex = 0;
       }
-
     });
   }
 
