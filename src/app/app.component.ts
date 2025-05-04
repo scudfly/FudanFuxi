@@ -11,6 +11,11 @@ export class AppComponent {
 
   public subjectList: any[] = [
     {
+      name: "英语5",
+      file: "english5",
+      type: "1"
+    },
+    {
       name: "英语4",
       file: "english4",
       type: "1"

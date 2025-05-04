@@ -1,0 +1,1177 @@
+{
+    "Name": "英语4",
+    "Content": [
+        {
+            "PartName": "单词",
+            "TopicList": [
+                {
+                    "TopicName": "abandon",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈbændən]",
+                    "TopicValue3": ["v. 放弃"]
+                },
+                {
+                    "TopicName": "absolute",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈæbsəluːt]",
+                    "TopicValue3": ["a. 绝对的"]
+                },
+                {
+                    "TopicName": "access",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈækses]",
+                    "TopicValue3": ["n. 通路；入口；进入（或享用、接近）的机会"]
+                },
+                {
+                    "TopicName": "academic",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌækəˈdemɪk]",
+                    "TopicValue3": ["a. 学术的，学究的，学院的"]
+                },
+                {
+                    "TopicName": "administration",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ədˌmɪnɪˈstreɪʃn]",
+                    "TopicValue3": ["n. 管理(部门)，行政(机关)"]
+                },
+                {
+                    "TopicName": "admission",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ədˈmɪʃn]",
+                    "TopicValue3": ["n. 承认，供认"]
+                },
+                {
+                    "TopicName": "analysis",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈnæləsɪs]",
+                    "TopicValue3": ["n. 分析"]
+                },
+                {
+                    "TopicName": "applaud",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈplɔːd]",
+                    "TopicValue3": ["v. 拍手称赞"]
+                },
+                {
+                    "TopicName": "application",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌæplɪˈkeɪʃn]",
+                    "TopicValue3": ["n. 运用，实施"]
+                },
+                {
+                    "TopicName": "appreciate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈpriːʃieɪt]",
+                    "TopicValue3": ["v. 欣赏，鉴赏；感谢，感激"]
+                },
+                {
+                    "TopicName": "aptitude",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈæptɪtuːd]",
+                    "TopicValue3": ["n. 能力，才能"]
+                },
+                {
+                    "TopicName": "arrestable",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈrestəbl]",
+                    "TopicValue3": ["a. 应被逮捕的"]
+                },
+                {
+                    "TopicName": "automobile",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɔːtəməbiːl]",
+                    "TopicValue3": ["n. 汽车"]
+                },
+                {
+                    "TopicName": "behavior",
+                    "TopicValue1": "",
+                    "TopicValue2": "[bɪˈheɪvjər]",
+                    "TopicValue3": ["n. 行为"]
+                },
+                {
+                    "TopicName": "brilliant",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈbrɪliənt]",
+                    "TopicValue3": ["a. 辉煌的；卓越的"]
+                },
+                {
+                    "TopicName": "cautious",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɔːʃəs]",
+                    "TopicValue3": ["a. 十分小心的，谨慎的"]
+                },
+                {
+                    "TopicName": "challenge",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈtʃælɪndʒ]",
+                    "TopicValue3": ["n. 挑战，邀请比赛；艰巨的任务"]
+                },
+                {
+                    "TopicName": "character",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkærəktər]",
+                    "TopicValue3": ["n. 性格，品质"]
+                },
+                {
+                    "TopicName": "circumstance",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsɜːrkəmstæns]",
+                    "TopicValue3": ["n. 情况，环境"]
+                },
+                {
+                    "TopicName": "comment",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɑːment]",
+                    "TopicValue3": ["n. 评论"]
+                },
+                {
+                    "TopicName": "competency",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɑːmpɪtənsi]",
+                    "TopicValue3": ["n. 能力；胜任"]
+                },
+                {
+                    "TopicName": "complacent",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kəmˈpleɪsnt]",
+                    "TopicValue3": ["a. 自满的；自鸣得意的"]
+                },
+                {
+                    "TopicName": "complain",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kəmˈpleɪn]",
+                    "TopicValue3": ["v. 抱怨"]
+                },
+                {
+                    "TopicName": "compliment",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɑːmplɪment]",
+                    "TopicValue3": ["v./n. 赞美(话)"]
+                },
+                {
+                    "TopicName": "confirm",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈfɜːrm]",
+                    "TopicValue3": ["v. 证实，肯定；确认"]
+                },
+                {
+                    "TopicName": "constructive",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈstrʌktɪv]",
+                    "TopicValue3": ["a. 建设性的"]
+                },
+                {
+                    "TopicName": "contract",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈtrækt]",
+                    "TopicValue3": ["v. 感染（疾病）"]
+                },
+                {
+                    "TopicName": "conversational",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌkɑːnvərˈseɪʃənl]",
+                    "TopicValue3": ["a. 会话(用)的"]
+                },
+                {
+                    "TopicName": "corporation",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌkɔːrpəˈreɪʃn]",
+                    "TopicValue3": ["n. 有限公司"]
+                },
+                {
+                    "TopicName": "creation",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kriˈeɪʃn]",
+                    "TopicValue3": ["n. 创造(物)"]
+                },
+                {
+                    "TopicName": "defence",
+                    "TopicValue1": "",
+                    "TopicValue2": "[dɪˈfens]",
+                    "TopicValue3": ["n. 辩护"]
+                },
+                {
+                    "TopicName": "definitely",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈdefɪnətli]",
+                    "TopicValue3": ["ad. 清楚地；明确地"]
+                },
+                {
+                    "TopicName": "determine",
+                    "TopicValue1": "",
+                    "TopicValue2": "[dɪˈtɜːrmɪn]",
+                    "TopicValue3": ["v. 确定"]
+                },
+                {
+                    "TopicName": "dismiss",
+                    "TopicValue1": "",
+                    "TopicValue2": "[dɪsˈmɪs]",
+                    "TopicValue3": ["v. 驳回，对…不予受理"]
+                },
+                {
+                    "TopicName": "distribution",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌdɪstrɪˈbjuːʃn]",
+                    "TopicValue3": ["v. 分发；分送"]
+                },
+                {
+                    "TopicName": "dramatically",
+                    "TopicValue1": "",
+                    "TopicValue2": "[drəˈmætɪkli]",
+                    "TopicValue3": ["ad. 显著地"]
+                },
+                {
+                    "TopicName": "embarrass",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪmˈbærəs]",
+                    "TopicValue3": ["v. 使尴尬"]
+                },
+                {
+                    "TopicName": "employment",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪmˈplɔɪmənt]",
+                    "TopicValue3": ["n. 职业，工作"]
+                },
+                {
+                    "TopicName": "energetic",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌenərˈdʒetɪk]",
+                    "TopicValue3": ["a. 精力充沛的"]
+                },
+                {
+                    "TopicName": "establish",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪˈstæblɪʃ]",
+                    "TopicValue3": ["v. 建立，创办"]
+                },
+                {
+                    "TopicName": "estimate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈestɪmeɪt]",
+                    "TopicValue3": ["n. 估计"]
+                },
+                {
+                    "TopicName": "evaluation",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪˌvæljuˈeɪʃn]",
+                    "TopicValue3": ["n. 估价，评价"]
+                },
+                {
+                    "TopicName": "evidence",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈevɪdəns]",
+                    "TopicValue3": ["n. 证据"]
+                },
+                {
+                    "TopicName": "evolution",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌevəˈluːʃn]",
+                    "TopicValue3": ["n. 演变，进化；发展"]
+                },
+                {
+                    "TopicName": "exhaust",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪɡˈzɔːst]",
+                    "TopicValue3": ["v. 使精疲力竭"]
+                },
+                {
+                    "TopicName": "explore",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪkˈsplɔːr]",
+                    "TopicValue3": ["v. 探索；探究"]
+                },
+                {
+                    "TopicName": "explode",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪkˈsploʊd]",
+                    "TopicValue3": ["v. 突然爆发，（使）爆炸"]
+                },
+                {
+                    "TopicName": "frequently",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈfriːkwəntli]",
+                    "TopicValue3": ["ad. 频繁地"]
+                },
+                {
+                    "TopicName": "fruitful",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈfruːtfl]",
+                    "TopicValue3": ["a. 硕果累累的；多产的，有利的"]
+                },
+                {
+                    "TopicName": "glorious",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɡlɔːriəs]",
+                    "TopicValue3": ["a. 辉煌的"]
+                },
+                {
+                    "TopicName": "hammer",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhæmər]",
+                    "TopicValue3": ["ad. 尽情地"]
+                },
+                {
+                    "TopicName": "highway",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhaɪweɪ]",
+                    "TopicValue3": ["n. 公路；交通要道"]
+                },
+                {
+                    "TopicName": "honesty",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɑːnəsti]",
+                    "TopicValue3": ["n. 诚实"]
+                },
+                {
+                    "TopicName": "impact",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɪmpækt]",
+                    "TopicValue3": ["n. 影响，作用；冲击力，撞击力"]
+                },
+                {
+                    "TopicName": "intuition",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌɪntuˈɪʃn]",
+                    "TopicValue3": ["n. 直觉"]
+                },
+                {
+                    "TopicName": "journal",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈdʒɜːrnl]",
+                    "TopicValue3": ["n. 杂志；日报"]
+                },
+                {
+                    "TopicName": "leadership",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈliːdərʃɪp]",
+                    "TopicValue3": ["n. 领导才能；领导地位"]
+                },
+                {
+                    "TopicName": "limitation",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌlɪmɪˈteɪʃn]",
+                    "TopicValue3": ["n. 限制；限定"]
+                },
+                {
+                    "TopicName": "magistrate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈmædʒɪstreɪt]",
+                    "TopicValue3": ["n. 地方法官"]
+                },
+                {
+                    "TopicName": "mechanic",
+                    "TopicValue1": "",
+                    "TopicValue2": "[məˈkænɪk]",
+                    "TopicValue3": ["n. 机械工；机修工"]
+                },
+                {
+                    "TopicName": "mild",
+                    "TopicValue1": "",
+                    "TopicValue2": "[maɪld]",
+                    "TopicValue3": ["a. 不重的；轻微的"]
+                },
+                {
+                    "TopicName": "misdemeanor",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌmɪsdɪˈmiːnər]",
+                    "TopicValue3": ["n. 轻罪"]
+                },
+                {
+                    "TopicName": "notable",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈnoʊtəbl]",
+                    "TopicValue3": ["a. 值得注意的；显著的；著名的"]
+                },
+                {
+                    "TopicName": "numerical",
+                    "TopicValue1": "",
+                    "TopicValue2": "[nuːˈmerɪkl]",
+                    "TopicValue3": ["a. 用数字表示的"]
+                },
+                {
+                    "TopicName": "numerous",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈnuːmərəs]",
+                    "TopicValue3": ["a. 许多的，无数的"]
+                },
+                {
+                    "TopicName": "occasional",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈkeɪʒənl]",
+                    "TopicValue3": ["a. 偶尔的，间或的"]
+                },
+                {
+                    "TopicName": "opportunity",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌɑːpərˈtuːnəti]",
+                    "TopicValue3": ["n. 机会"]
+                },
+                {
+                    "TopicName": "organization",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌɔːrɡənəˈzeɪʃn]",
+                    "TopicValue3": ["n. 团体；组织；结构"]
+                },
+                {
+                    "TopicName": "parameter",
+                    "TopicValue1": "",
+                    "TopicValue2": "[pəˈræmɪtər]",
+                    "TopicValue3": ["n. 因素，特性；界限"]
+                },
+                {
+                    "TopicName": "peacefully",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈpiːsfəli]",
+                    "TopicValue3": ["ad. 安静地"]
+                },
+                {
+                    "TopicName": "pray",
+                    "TopicValue1": "",
+                    "TopicValue2": "[preɪ]",
+                    "TopicValue3": ["v. 祈祷；祈求"]
+                },
+                {
+                    "TopicName": "profession",
+                    "TopicValue1": "",
+                    "TopicValue2": "[prəˈfeʃn]",
+                    "TopicValue3": ["n. 职业"]
+                },
+                {
+                    "TopicName": "profit",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈprɑːfɪt]",
+                    "TopicValue3": ["n. 益处；利润"]
+                },
+                {
+                    "TopicName": "pronouncement",
+                    "TopicValue1": "",
+                    "TopicValue2": "[prəˈnaʊnsmənt]",
+                    "TopicValue3": ["n. 声明；见解"]
+                },
+                {
+                    "TopicName": "property",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈprɑːpərti]",
+                    "TopicValue3": ["n. 房地产；财产"]
+                },
+                {
+                    "TopicName": "psychological",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌsaɪkəˈlɑːdʒɪkl]",
+                    "TopicValue3": ["a. 心理(上)的"]
+                },
+                {
+                    "TopicName": "regard",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈɡɑːrd]",
+                    "TopicValue3": ["v. (as) 把…看作；把…认为"]
+                },
+                {
+                    "TopicName": "register",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈredʒɪstər]",
+                    "TopicValue3": ["v. 取得；登记"]
+                },
+                {
+                    "TopicName": "reluctant",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈlʌktənt]",
+                    "TopicValue3": ["a. 不情愿的；勉强的"]
+                },
+                {
+                    "TopicName": "requirement",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈkwaɪərmənt]",
+                    "TopicValue3": ["n. 要求；必要条件"]
+                },
+                {
+                    "TopicName": "respectable",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈspektəbl]",
+                    "TopicValue3": ["a. 值得尊敬的"]
+                },
+                {
+                    "TopicName": "rewarding",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈwɔːrdɪŋ]",
+                    "TopicValue3": ["a. 值得(做)的；报答的"]
+                },
+                {
+                    "TopicName": "security",
+                    "TopicValue1": "",
+                    "TopicValue2": "[səˈkjʊrəti]",
+                    "TopicValue3": ["n. 安全，平安"]
+                },
+                {
+                    "TopicName": "self-reliance",
+                    "TopicValue1": "",
+                    "TopicValue2": "[self rɪˈlaɪəns]",
+                    "TopicValue3": ["n. 依靠自己；自力更生"]
+                },
+                {
+                    "TopicName": "shatter",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈʃætər]",
+                    "TopicValue3": ["v. (使)粉碎"]
+                },
+                {
+                    "TopicName": "stimulate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈstɪmjuleɪt]",
+                    "TopicValue3": ["v. 刺激；激励"]
+                },
+                {
+                    "TopicName": "strawberry",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈstrɔːberi]",
+                    "TopicValue3": ["n. 草莓"]
+                },
+                {
+                    "TopicName": "stream",
+                    "TopicValue1": "",
+                    "TopicValue2": "[striːm]",
+                    "TopicValue3": ["n. 川流不息；（人、车等的）流；（小）河"]
+                },
+                {
+                    "TopicName": "style",
+                    "TopicValue1": "",
+                    "TopicValue2": "[staɪl]",
+                    "TopicValue3": ["n. 时髦"]
+                },
+                {
+                    "TopicName": "subsection",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsʌbsekʃn]",
+                    "TopicValue3": ["n. 小组，分部"]
+                },
+                {
+                    "TopicName": "subsequent",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsʌbsɪkwənt]",
+                    "TopicValue3": ["a. 随后的，接下去的"]
+                },
+                {
+                    "TopicName": "successful",
+                    "TopicValue1": "",
+                    "TopicValue2": "[səkˈsesfl]",
+                    "TopicValue3": ["a. 成功的；有成就的"]
+                },
+                {
+                    "TopicName": "super",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsuːpər]",
+                    "TopicValue3": ["a. 极好的；了不起的"]
+                },
+                {
+                    "TopicName": "supermarket",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsuːpərmɑːrkɪt]",
+                    "TopicValue3": ["n. 超级市场"]
+                },
+                {
+                    "TopicName": "surprisingly",
+                    "TopicValue1": "",
+                    "TopicValue2": "[sərˈpraɪzɪŋli]",
+                    "TopicValue3": ["ad. 令人惊讶地"]
+                },
+                {
+                    "TopicName": "technological",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌteknəˈlɑːdʒɪkl]",
+                    "TopicValue3": ["a. 技术的"]
+                },
+                {
+                    "TopicName": "temporary",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈtempəreri]",
+                    "TopicValue3": ["a. 暂时的"]
+                },
+                {
+                    "TopicName": "temptation",
+                    "TopicValue1": "",
+                    "TopicValue2": "[tempˈteɪʃn]",
+                    "TopicValue3": ["n. 引诱，诱惑"]
+                },
+                {
+                    "TopicName": "throat",
+                    "TopicValue1": "",
+                    "TopicValue2": "[θroʊt]",
+                    "TopicValue3": ["n. 咽喉；颈前部"]
+                },
+                {
+                    "TopicName": "tough",
+                    "TopicValue1": "",
+                    "TopicValue2": "[tʌf]",
+                    "TopicValue3": ["a. 粗野的；坚韧的；困难的"]
+                },
+                {
+                    "TopicName": "tragedy",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈtrædʒədi]",
+                    "TopicValue3": ["n. 惨事；不幸；悲剧"]
+                },
+                {
+                    "TopicName": "vacant",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈveɪkənt]",
+                    "TopicValue3": ["a. 未占用的；空的"]
+                },
+                {
+                    "TopicName": "version",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈvɜːrʒn]",
+                    "TopicValue3": ["n. (某种)版本，形式；（个人的）说法；译本"]
+                },
+                {
+                    "TopicName": "view",
+                    "TopicValue1": "",
+                    "TopicValue2": "[vjuː]",
+                    "TopicValue3": ["v. 察看；考虑，看待"]
+                },
+                {
+                    "TopicName": "weary",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈwɪri]",
+                    "TopicValue3": ["a. 厌倦的，厌烦的"]
+                }
+            ]
+        },
+        {
+            "PartName": "短语",
+            "TopicList": [
+                {
+                    "TopicName": "a case in point",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["恰当的例子"]
+                },
+                {
+                    "TopicName": "a couple of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["少数，几个; 一对"]
+                },
+                {
+                    "TopicName": "according to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["按照，依据"]
+                },
+                {
+                    "TopicName": "at first",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["起先"]
+                },
+                {
+                    "TopicName": "(be) faced with",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["面对"]
+                },
+                {
+                    "TopicName": "bring up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["使注意；提出"]
+                },
+                {
+                    "TopicName": "by one’s estimate",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["据某人估计"]
+                },
+                {
+                    "TopicName": "call on",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["要求"]
+                },
+                {
+                    "TopicName": "catch one’s breath",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["喘息；屏息"]
+                },
+                {
+                    "TopicName": "for sure",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["确切地；肯定"]
+                },
+                {
+                    "TopicName": "get through to sb",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["使某人懂得，使某人明白"]
+                },
+                {
+                    "TopicName": "go down",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["下降；减少"]
+                },
+                {
+                    "TopicName": "hang out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["经常出没；闲荡，厮混"]
+                },
+                {
+                    "TopicName": "in short",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["总之；简言之"]
+                },
+                {
+                    "TopicName": "keep a diary",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["记日记"]
+                },
+                {
+                    "TopicName": "leave out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["遗漏；省去"]
+                },
+                {
+                    "TopicName": "live on",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["靠…生活"]
+                },
+                {
+                    "TopicName": "make a fuss of/over",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["为…大惊小怪"]
+                },
+                {
+                    "TopicName": "make out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["开出；写出"]
+                },
+                {
+                    "TopicName": "make up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["编制；配制"]
+                },
+                {
+                    "TopicName": "move in",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["搬入新家"]
+                },
+                {
+                    "TopicName": "on the other hand",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["另一方面，反过来说"]
+                },
+                {
+                    "TopicName": "only too",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["极，非常"]
+                },
+                {
+                    "TopicName": "out of style",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["过时的；不再流行的"]
+                },
+                {
+                    "TopicName": "pass on",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["传递"]
+                },
+                {
+                    "TopicName": "pat on the back",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["赞扬；鼓励"]
+                },
+                {
+                    "TopicName": "pick out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["挑选"]
+                },
+                {
+                    "TopicName": "run into",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["偶然遇见"]
+                },
+                {
+                    "TopicName": "send off",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["寄出；派遣"]
+                },
+                {
+                    "TopicName": "set…on fire/set fire to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["放火烧，使燃烧"]
+                },
+                {
+                    "TopicName": "shrug off",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["耸肩表示对…不屑理睬"]
+                },
+                {
+                    "TopicName": "stand a chance",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["有机会，有希望"]
+                },
+                {
+                    "TopicName": "stay up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["不睡觉，熬夜"]
+                },
+                {
+                    "TopicName": "take a stand",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["表明立场"]
+                },
+                {
+                    "TopicName": "take notes",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["记笔记"]
+                },
+                {
+                    "TopicName": "take one’s time",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["慢慢来，不着急"]
+                },
+                {
+                    "TopicName": "take out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["拿出；抽出"]
+                },
+                {
+                    "TopicName": "take sth. for granted",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["认为某事当然"]
+                },
+                {
+                    "TopicName": "take to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["逐渐习惯于做（某事）；开始喜欢"]
+                },
+                {
+                    "TopicName": "think of…as",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["把…看作"]
+                },
+                {
+                    "TopicName": "think up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["想出"]
+                },
+                {
+                    "TopicName": "turn against",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["使变成和…敌对"]
+                },
+                {
+                    "TopicName": "turn over",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["翻转"]
+                }
+            ]
+        },
+        {
+            "PartName": "汉译英",
+            "TopicList": [
+                {
+                    "TopicNameList": ["在当地政府的领导下，村民们奋起应付由水灾造成的严重粮食危机。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Under the leadership of the local government, the villagers rose to the serious food crisis caused by the floods."]
+                },
+                {
+                    "TopicNameList": ["这个展览会很受欢迎，吸引着源源而至的参观者。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The exhibition is very popular and is attracting a steady stream of visitor."]
+                },
+                {
+                    "TopicNameList": ["妈妈上楼查看我们这些孩子时，我转过身假装睡着了。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["When Mom came upstairs to check on us kids, I turned over and pretended to be asleep."]
+                },
+                {
+                    "TopicNameList": ["对阿姆斯特德来说，向毒贩展开斗争是个挑战。虽然她感到紧张不安，但她决心勇敢地面对这些人。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Waging a battle against the drug pusher was a challenge to Armstead.  She felt rather nervous but she decided to confront them."]
+                },
+                {
+                    "TopicNameList": ["老太太叫我小心些， 不要与那些在街角闲荡的家伙讲话。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The old lady told me to be cautious and not to talk to the guys hanging out on the street corner."]
+                },
+                {
+                    "TopicNameList": ["一个卫生组织促使地方政府为建造一所新的医院筹措三百万美元的资金。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["A health organization prompted the local government to raise a three-million-dollar fund for a new hospital."]
+                },
+                {
+                    "TopicNameList": ["巨额投资(investment)使这一地区地经济得以迅速发展。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Vast amounts of investment have enabled the economy of the area to grow rapidly. "]
+                },
+                {
+                    "TopicNameList": ["成功在于勤奋(diligence)，这句话很正确。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It is true that success lies in diligence."]
+                },
+                {
+                    "TopicNameList": ["他们都具有很高的道德标准，决不会受诱惑接受如此贵重的礼品。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Men of high moral standards, they are never to be tempted into taking such expensive gifts."]
+                },
+                {
+                    "TopicNameList": ["有迹象表明，不少工厂正面临着十分困难的局面。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["There are indications that numerous factories are faced with a very difficult situation."]
+                },
+                {
+                    "TopicNameList": ["调查揭示，对某些人来说，退休往往会造成心理上的疾病。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Investigation has revealed that retirement tends to cause psychological troubles for some people."]
+                },
+                {
+                    "TopicNameList": ["医疗队并没有一味抱怨(do more than complain)当地医院较差的工作条件，比如说，好几位医生就曾用自己的钱购置了简单的医疗器械。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The medical team did more than complain about the relatively poor working conditions at the local hospital. For instance, several doctors bought simple medical instruments with their own money."]
+                },
+                {
+                    "TopicNameList": ["作者认为，我们不应想当然地以为那些智力测验得高分的人在实际工作中就一定能干得好。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The author argues that we shouldn’t take it for granted that those who score high on intelligence tests will naturally do well in practical work."]
+                },
+                {
+                    "TopicNameList": ["我挑出几条英语成语(idiom)，考了一下我的同班同学。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I picked out some English idioms and tried them on my classmates."]
+                },
+                {
+                    "TopicNameList": ["三位教授被请来对新教员设计的教案作出评估。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Three professors were asked to make an evaluation of the teaching plans devised by the new teachers."]
+                },
+                {
+                    "TopicNameList": ["他比任何对手的得分都高得多，证明他不愧为一个胜利者。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["He scored much higher than any of his rivals and proved himself a worthy winner."]
+                },
+                {
+                    "TopicNameList": ["这两只动物外貌很相似，但它们属于不同的种类。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The two animals are similar in appearance, but they belong to different species."]
+                },
+                {
+                    "TopicNameList": ["我并不确切知道他申请的贷款(loan)银行是否会给。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I don’t know for sure whether the bank will grant him the loan he has applied for."]
+                },
+                {
+                    "TopicNameList": ["作者想通过这篇文章向读者传达她对赞扬与批评的看法。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Through the article the author want to convey to the readers her view on praise and criticism."]
+                },
+                {
+                    "TopicNameList": ["作为父母我们应该知道，这对孩子们来说，一句赞扬抵得上十句责骂。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["As parents we should know that for children an ounce of praise is worth a pound of scolding."]
+                },
+                {
+                    "TopicNameList": ["这位教师可能不是一个了不起的学者，但他的确懂得怎样把一门课教得活泼而有趣。(in a … manner)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The teacher isn’t much of a scholar, but he does know how to teach a course in a lively and interesting manner."]
+                },
+                {
+                    "TopicNameList": ["我们常常发现运用一个规律比懂得它要难得多。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["We often find it much more difficult to apply a rule than to know it."]
+                },
+                {
+                    "TopicNameList": ["格林先生老是挑他女儿写作得刺儿，但不知怎的，对她那首写得很差的诗歌却给予好评。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Mr. Green was always critical of his daughter’s writings, but somehow he commented favorably on that poorly written poem of hers."]
+                },
+                {
+                    "TopicNameList": ["我们班上有不少学生因为没有按时交作文而受到教师的当众批评。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Quite a few students in our class were publicly criticized by the teacher for failing to hand in their compositions on time."]
+                },
+                {
+                    "TopicNameList": ["杰克对书架上那些书一本也不了解，所以他的选择是很随意的。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Jack didn’t know anything about any of the books on the bookshelf, so his choice was quite arbitrary."]
+                },
+                {
+                    "TopicNameList": ["随后发生的那些事件再次证明了我的猜疑(suspicious)是对的(confirm)。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The subsequent events confirmed my suspicions once again."]
+                },
+                {
+                    "TopicNameList": ["令我们吃惊的是，这位常被赞为十分正直的州长(governor)竟然是个贪官(corrupt official)。(turn out to be)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["To our surprise, the governor who had often been praised for his honesty turned out to be a corrupt official."]
+                },
+                {
+                    "TopicNameList": ["只有少数工人得到提升(be promoted)，在这同时却有数百名工人被解雇(dismissed)。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["A few workers were promoted, but meanwhile hundreds of workers were dismissed."]
+                },
+                {
+                    "TopicNameList": ["如果有机会，约翰也许已成为一位杰出的画家了。(given)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Given the chance, John might have become an outstanding painter."]
+                },
+                {
+                    "TopicNameList": ["数小时后，有人看见那个男孩在林子里瞎转。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Several hours later, the boy was found wandering around in the woods."]
+                },
+                {
+                    "TopicNameList": ["迅速方便地获得信息很重要，但学会以新的方式看信息甚至更为重要。医学上一次重大突破也许能说明这一观点。科学家本想寻找一种治天花的特效药，但他们没有成功。英国医生爱德华. 詹纳放弃寻找特效药，靠找到一种预防天花的办法征服了这一疾病。显然，是创造性思维使他的工作获得巨大收获。总之，记住下面这句话肯定大有裨益：有多种方法对待你下载的大量资料。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It is important to have easy and quick access to information, but it is even more important to learn to look at information in new ways.  A major medical breakthrough may illustrate the point.  Scientists had intended to find a cure for smallpox, but they got nowhere.  Edward Jenner, a British physician, abandoned the quest for a cure and conquered the disease by finding a way to prevent it.  Obviously, it was creative thinking that led to his fruitful work.  In short, it definitely pays to keep this in mind:  there is more than one way to look at volumes of data you download."]
+                },
+                {
+                    "TopicNameList": ["许多美国大学生申请政府贷款交付学费。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Many American students apply for government loans to pay for their tuition."]
+                },
+                {
+                    "TopicNameList": ["除阅读材料外，使用电影和多媒体会激发学生学习的兴趣。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Besides reading materials, the use of films and videotapes can stimulate students’ interest in a subject."]
+                },
+                {
+                    "TopicNameList": ["我已经把我的简历(resume)寄往几家公司，但尚未收到回复。(send off)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I have sent off my resume to several corporations, but haven’t yet received a reply."]
+                },
+                {
+                    "TopicNameList": ["她的结论是建立在对当前国际情况进行了认真的分析的基础上的。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Her conclusion is built on a careful analysis of current international affairs."]
+                },
+                {
+                    "TopicNameList": ["我们满怀期望地来参加会议，离开时却大失所望。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["We came to the meeting full of expectations, yet we left very disappointed."]
+                },
+                {
+                    "TopicNameList": ["暂时他只得接受了一份给一家化妆品公司发促销传单的活儿。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["At the moment he has to take the job of distributing leaflets to promote products for a cosmetic company."]
+                }
+            ]
+        },
+        {
+            "PartName": "英译汉",
+            "TopicList": [
+                {
+                    "TopicNameList": ["People told her she was crazy to talk to those thugs that way. Especially after another mom who had taken a stand was killed just five blocks away. Angela Dawson had waged her own battle against a different set of drug pushers—and lost. In a tragedy that made the national news, the Dawson house was set on fire and Angela, her husband, Carnell, and five of their children died. A neighborhood man was charged. Armstead didn’t know Angela Dawson, but she knew her children. After the deadly fire, she was more cautious—but she didn’t stop."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["人们对她说，她跟那帮恶棍这样讲话真是太蠢了。尤其是在仅仅五个街区外另一个表明立场的大妈被杀之后。这个大妈叫安吉拉·道森。她只身与另一伙毒品贩子进行了一场战斗 — 结果失败了。道森家的房子被人烧了，安吉拉、她的丈夫卡内尔和他们的五个孩子都死了，这一悲剧成了震惊全国的新闻。邻近地区内的一名男子受到指控。阿姆斯特德不认识安吉拉·道森，但她认识她的孩子。在这场致死的大火后，她更加当心了 – 但它并没有停止。"]
+                },
+                {
+                    "TopicNameList": ["Colleges and universities across the nation have decided to do more than talk about the rise in student cheating. For instance, the Department of Psychology at the University of Maryland launched a campaign to stop one form of cheating. As 409 students filed out of their exam, they found all but one exit blocked. Proctors asked each student to produce an ID card with an attached photo. Students who said they’d left theirs in the dorm or at home had a mug shot taken. The purpose of the campaign was to catch “ringers,” students who take tests for other students."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["除了谈论学生作弊的上升外，全国各地的大学已决定采取一切措施。例如，马里兰大学心理系就开展了一场制止各种作弊形式的运动。当409名学生考完试鱼贯离开教室时，他们发现除了一个出口外，所有的出口都堵住了。监考人员要求每个学生出示贴有照片的身份证。那些说把身份证留在宿舍或家中的学生都被拍了面部照。这一运动的目的是捉拿“冒名顶替者”，即帮别人代考的学生。"]
+                },
+                {
+                    "TopicNameList": ["Consider my auto-repair man, again. He had a habit of telling me jokes whenever he saw me. One time he raised his head from under automobile hood to say: “Doc, a deaf-and-dumb guy went into a hardware store to ask for some nails. He put two fingers together on the counter and made hammering motions with the other hand.The clerk brought him a hammer. He shook his head and pointed to the two fingers he was hammering. The clerk brought him nails. He picked out the sizes he wanted, and left. Well, doc, the next guy who came was a blind man. He wanted scissors. How do you suppose he asked for them?”"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["再来考虑一下我的汽车修理师吧。他有个习惯，每次见到我都要跟我讲些笑话。有一次他从汽车引擎罩下面抬起头来说：“博士，有一个又聋又哑的人走进一家五金店买钉子。他把两个手指头一起放在柜台上，用另一只手做了几次锤击动作。店员给他拿来一把锤子。他摇摇头，指了指他正在敲击的那两个手指头。店员给他拿来了钉子。他选出了自己需要的尺寸，然后就走了。听好，博士，接着进来的是个瞎子。他要买剪刀。你猜他是怎么表示的呢？”"]
+                },
+                {
+                    "TopicNameList": ["Praise is particularly appreciated by those doing routine jobs: gas-station attendants, waitresses—even housewives. Do you ever go into a house and say, “What a tidy room ”? Hardly anybody does. That’s why housework is considered such a dreary grind. Comment is often made about activities which are relatively easy and satisfying, like arranging flowers; but not about jobs which are hard and dirty, like scrubbing floors. Shakespeare said, “Our praises are our wages.”  Since so often praise is the only wage a housewife receives, surely she of all people should get her measure."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["那些从事例行工作的人们特别懂得赞扬的意义，如汽车加油站的服务员、女侍者 – 甚至家庭主妇。当你走进一家住房时，你可曾说过：“多么整洁的房间啊”？ 几乎没有人这么说过。 家务劳动之所以被认为是沉闷乏味的苦差使，原因就在于此。人们经常对一些比较容易而又令人满意的活动，如插花，加以评论；但对像擦地板这类又苦又脏的工作却不予置评。莎士比亚说过：“对我们的称赞就是给予我们的报酬。” 既然在很多情况下，称赞是家庭主妇得到的唯一报酬，因此，她理应得到自己的一份赞扬。"]
+                },
+                {
+                    "TopicNameList": ["And so I do not have a criminal record. But what was most shocking at the time was the things my release from the charge so clearly depended on. I had the “right ” accent, respectable middle-class parents in court, reliable witnesses, and I could obviously afford a very good solicitor. Given the obscure nature of the charge, I feel sure that if I had come from a different background, and had really been unemployed, there is every chance that I would have been found guilty. While asking for  costs to be awarded, my solicitor’s case quite obviously revolved around the fact that I had a “brilliant academic record”."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["这样，我的履历上没有留下犯罪的记录。但当时最令人震惊的，是那些显然导致宣布我无罪的证据。我讲话的口音“表明我教养良好到庭的有体面的中产阶级的双亲，有可靠的证人，还有，我显然请得起一名很好的律师。从对我指控的这种捕风捉影的做法来看，我肯定，如果我出身于另一种背景的家庭里并且真的是失了业的话我完全可能被判有罪。当我的律师要求赔偿诉讼费时，他公然把辩护的证据建立在我“学业优异”这一事实上。"]
+                },
+                {
+                    "TopicNameList": ["We are not now, nor have we recently been suffering from a lack of information. Think how much more information we have than Copernicus had four centuries ago. And he didn’t do anything less Earth-shattering (punintended) than completely change the way the universe was viewed. He didn’t do it by uncovering more information—he did it by looking differently at information everyone else already had looked at. Edward Jenner didn’t invent preventive medicine by accumulating information; he did it by reframing the question. "],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["无论是现在还是最近，我们都不缺信息。试想我们拥有的信息比四百年前的哥白尼多了多少。  但他作出了足以震撼地球的（权作双关语）惊人之举，完全改变了人们对宇宙的看法。他做出此举不是靠发现更多的信息，而是靠用不同的目光来看大家都看到过的信息。爱德华·詹纳不是靠积累信息发明预防药物，而是靠重新表述问题。"]
+                },
+                {
+                    "TopicNameList": ["Certainly I don’t teach because teaching is easy for me. Teaching is the most difficult of the various ways I have attempted to earn my living: mechanic, carpenter, writer. For me, teaching is a red-eye, sweaty-palm, sinking-stomach profession. Red-eye, because I never feel ready to teach no matter how late I stay up preparing. Sweaty-palm, because I’m always nervous before I enter the classroom, sure that I will be found out for the fool that I am. Sinking-stomach, because I leave the classroom an hour later convinced that I was even more boring than usual."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["当然，我之所以教书不是因为我觉得教书轻松。我做过各种各样的工作籍以谋生：机修工、木工、作家，教书可是其中最难的一行。对我来说，教书是个会令人熬红眼睛、手掌出汗、精神沮丧的职业。说熬红眼睛，这是因为我晚上无论备课备到多晚，总觉得备得还不充分。说手掌出汗，只是因为我跨进教室之前总是非常紧张，自信学生一定会发觉原来我是个傻瓜蛋。说就是沮丧，这是因为我一小时后走出教室时，确信这堂课上得比平常还要平淡无味。"]
+                }
+            ]
+        }
+    ]
+}
