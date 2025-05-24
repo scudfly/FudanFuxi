@@ -11,6 +11,14 @@ export class AppComponent {
 
   public subjectList: any[] = [
     {
+      name: "操作系统",
+      file: "os",
+      type: "3",
+      filename: "",
+      fileext: "png",
+      filemax: 11
+    },
+    {
       name: "英语5",
       file: "english5",
       type: "1"
