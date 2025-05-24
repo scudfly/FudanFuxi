@@ -13,7 +13,7 @@ export class AppComponent {
     {
       name: "操作系统",
       file: "os",
-      type: "3",
+      type: "4",
       filename: "",
       fileext: "png",
       filemax: 11
@@ -69,6 +69,7 @@ export class AppComponent {
   public currentList: any[] = [];
   public currentOrder: number[] = [];
   public currentIndex: number = 0;
+  public currentPart: any;
 
   constructor(private http: HttpClient) {
 
@@ -111,11 +112,14 @@ export class AppComponent {
       return element.PartName == partName;
     });
 
-    if (part) {
+    if (part && part.TopicList) {
       this.currentList = part.TopicList;
 
       this.currentOrder = this.getShuffleArray(this.currentList.length);
       this.currentIndex = 0;
+    }
+    else {
+      this.currentPart = part;
     }
   }
 
@@ -153,11 +157,16 @@ export class AppComponent {
 
     this.currentType = 0;
     this.currentData = null;
+    this.currentPart = null;
 
   }
 
-  getRange(max: number): number[] {
-    return Array.from({ length: max }, (_, index) => index);
+  getRange(max: number, start: number = 0): number[] {
+    let i = Array.from(
+      { length: max },
+      (_, index) => start + index
+    );
+    return i;
   }
 
   // scrollToTop(): void {

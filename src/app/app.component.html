@@ -61,15 +61,27 @@
     </div>
   </div>
   <div *ngIf="currentType == 3" class="topic-wapper">
-
     <div class="imgContainer">
       <button mat-flat-button (click)="backhome()">返回</button>
       <img *ngFor="let index of getRange(currentSubject.filemax); let i = index" [src]="'assets/data/' + currentSubject.file + '/' + currentSubject.filename + i + '.' + currentSubject.fileext">
       <button mat-flat-button (click)="backhome()">返回</button>
     </div>
-
-
     <!-- <span *ngFor="let index of getRange(currentSubject.filemax); let i = index">{{index}}</span> -->
+  </div>
+  <div *ngIf="currentType == 4">
+    <div class="part-wapper" *ngIf="currentData != null && !currentPart">
+      <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectPart(part.PartName)">{{part.PartName}}</button>
+      <button mat-flat-button color="primary" class="part-button" (click)="backhome()">返回</button>
+    </div>
+    <div class="topic-wapper" *ngIf="currentPart">
+      <div class="imgContainer">
+        <mat-card-content>
+          <button mat-flat-button (click)="backhome()">返回</button>
+          <img *ngFor="let fileIndex of getRange(currentPart.filemax, currentPart.filestart)" [src]="'assets/data/' + currentPart.filefold + '/' + currentPart.filename + fileIndex + '.' + currentPart.fileext">
+          <button mat-flat-button (click)="backhome()">返回</button>
+        </mat-card-content>
+      </div>
+    </div>
   </div>
 
 </div>

@@ -1,0 +1,37 @@
+{
+    "Name": "操作系统",
+    "Content": [
+        {
+            "PartName": "作业",
+            "filefold": "os",
+            "filename": "",
+            "fileext": "png",
+            "filemax": 11,
+            "filestart": 1
+        },
+        {
+            "PartName": "课件第一和第二章",
+            "filefold": "os1-2",
+            "filename": "f042f25da1d14d1ba674d509846acf85VPTiHHloqvPEadji-",
+            "fileext": "png",
+            "filemax": 59,
+            "filestart": 0
+        },
+        {
+            "PartName": "课件第三和第四章",
+            "filefold": "os3-4",
+            "filename": "807404619d134f3fa57560386f1e35bbRoSmFkdyudFUzP9O-",
+            "fileext": "png",
+            "filemax": 68,
+            "filestart": 0
+        },
+        {
+            "PartName": "课件第五和第六章",
+            "filefold": "os5-6",
+            "filename": "4199375292a740eecc2f7d91a9416d3dLuDpthBpte4Gsyja-",
+            "fileext": "png",
+            "filemax": 56,
+            "filestart": 0
+        }
+    ]
+}
