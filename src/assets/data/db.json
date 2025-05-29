@@ -1,0 +1,22 @@
+{
+    "Name": "数据库技术",
+    "Content": [
+        {
+            "PartName": "作业",
+            "filefold": "db",
+            "filename": "",
+            "fileext": "jpg",
+            "filemax": 12,
+            "filestart": 1
+        },
+        {
+        
+            "PartName": "复习资料",
+            "filefold": "db_fuxi",
+            "filename": "3d176455d3e60f1f75f4583f76dc95b6-",
+            "fileext": "jpg",
+            "filemax": 20,
+            "filestart": 0
+        }
+    ]
+}

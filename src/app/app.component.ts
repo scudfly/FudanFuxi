@@ -11,12 +11,14 @@ export class AppComponent {
 
   public subjectList: any[] = [
     {
+      name: "数据库技术",
+      file: "db",
+      type: "4"
+    },
+    {
       name: "操作系统",
       file: "os",
-      type: "4",
-      filename: "",
-      fileext: "png",
-      filemax: 11
+      type: "4"
     },
     {
       name: "英语5",
@@ -152,6 +154,11 @@ export class AppComponent {
         this.currentType = 0;
       }
 
+      return;
+    }
+
+    if (this.currentType == 4 && this.currentPart != null) {
+      this.currentPart = null;
       return;
     }
 

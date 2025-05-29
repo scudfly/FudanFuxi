@@ -3,6 +3,15 @@
     "Content": [
         {
             "PartName": "作业",
+            "filefold": "os_homework",
+            "filename": "",
+            "fileext": "jpg",
+            "filemax": 16,
+            "filestart": 1
+        },
+        {
+        
+            "PartName": "参考答案",
             "filefold": "os",
             "filename": "",
             "fileext": "png",
