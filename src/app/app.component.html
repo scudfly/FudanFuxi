@@ -35,7 +35,7 @@
     </div>
   </div>
   <div *ngIf="currentType == 2" class="topic-wapper">
-    <div class="type2title">{{currentTopic.PartName}}</div>
+    <div class="type2title" *ngIf="currentTopic.PartName">{{currentTopic.PartName}}</div>
     <mat-card class="topic-card" *ngFor="let topic of currentTopic.TopicList">
       <mat-card-header *ngIf="topic.TopicName">
         <mat-card-title>{{topic.TopicName}}<span class="word-level" *ngIf="topic.TopicValue1">{{topic.TopicValue1}}</span></mat-card-title>
