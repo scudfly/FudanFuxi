@@ -11,6 +11,14 @@ export class AppComponent {
 
   public subjectList: any[] = [
     {
+      name: "Java程序设计",
+      file: "java",
+      type: "3",
+      filename: "933b1fc7-31a4-4d06-a0d1-7e9a615cda66-",
+      fileext: "jpg",
+      filemax: 33
+    },
+    {
       name: "数据库技术",
       file: "db",
       type: "4"
@@ -19,6 +27,11 @@ export class AppComponent {
       name: "操作系统",
       file: "os",
       type: "4"
+    },
+    {
+      name: "习近平思想",
+      file: "xisixiang",
+      type: "2"
     },
     {
       name: "英语5",
