@@ -57,7 +57,7 @@
     </mat-card>
     <div class="actionbar">
       <button mat-flat-button (click)="backhome()">返回</button>
-      <button mat-flat-button (click)="nextTopic()">下一个</button>
+      <button mat-flat-button (click)="nextTopic()" *ngIf="currentList.length>1">下一个</button>
     </div>
   </div>
   <div *ngIf="currentType == 3" class="topic-wapper">
