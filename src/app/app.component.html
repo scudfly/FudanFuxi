@@ -77,7 +77,7 @@
       <div class="imgContainer">
         <mat-card-content>
           <button mat-flat-button (click)="backhome()">返回</button>
-          <img *ngFor="let fileIndex of getRange(currentPart.filemax, currentPart.filestart)" [src]="'assets/data/' + currentPart.filefold + '/' + currentPart.filename + fileIndex + '.' + currentPart.fileext">
+          <img [ngStyle]="currentPart.margin != null ? {'margin': currentPart.margin + 'px'} : {}" *ngFor="let fileIndex of getRange(currentPart.filemax, currentPart.filestart)" [src]="'assets/data/' + currentPart.filefold + '/' + currentPart.filename + fileIndex + '.' + currentPart.fileext">
           <button mat-flat-button (click)="backhome()">返回</button>
         </mat-card-content>
       </div>

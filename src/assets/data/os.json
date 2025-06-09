@@ -15,8 +15,9 @@
             "filefold": "os",
             "filename": "",
             "fileext": "png",
-            "filemax": 11,
-            "filestart": 1
+            "filemax": 35,
+            "filestart": 1,
+            "margin": 0
         },
         {
             "PartName": "课件第一和第二章",
