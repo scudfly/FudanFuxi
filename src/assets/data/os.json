@@ -20,6 +20,16 @@
             "margin": 0
         },
         {
+        
+            "PartName": "课后习题",
+            "filefold": "os1",
+            "filename": "",
+            "fileext": "png",
+            "filemax": 1,
+            "filestart": 1,
+            "margin": 0
+        },
+        {
             "PartName": "课件第一和第二章",
             "filefold": "os1-2",
             "filename": "f042f25da1d14d1ba674d509846acf85VPTiHHloqvPEadji-",
