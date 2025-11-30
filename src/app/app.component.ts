@@ -1,12 +1,13 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { Location } from '@angular/common';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.less']
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'fudanfuxi';
 
   public subjectList: any[] = [
@@ -105,13 +106,27 @@ export class AppComponent {
   public currentOrder: number[] = [];
   public currentIndex: number = 0;
   public currentPart: any;
+  private backButtonPressed: boolean = false;
 
-  constructor(private http: HttpClient) {
+  constructor(private http: HttpClient, private location: Location) {
 
   }
 
-  selectSubject(subject: any) {
+  ngOnInit(): void {
+    // 拦截浏览器后退按钮
+    history.pushState({ page: 'home' }, '', location.href);
+    window.addEventListener('popstate', (event) => {
+      this.backButtonPressed = true;
+      this.backhome();
+    });
+  }
 
+  handleBackButton(): void {
+    history.pushState(null, '', location.href);
+    this.backhome();
+  }
+
+  selectSubject(subject: any) {
     this.currentSubject = subject;
 
     if (!subject.file) {
@@ -119,6 +134,7 @@ export class AppComponent {
     }
 
     this.currentType = subject.type;
+    history.pushState({ page: 'subject' }, '', location.href);
 
     if (subject.type == 3) {
       this.currentData = {};
@@ -149,13 +165,14 @@ export class AppComponent {
 
     if (part && part.TopicList) {
       this.currentList = part.TopicList;
-
       this.currentOrder = this.getShuffleArray(this.currentList.length);
       this.currentIndex = 0;
     }
     else {
       this.currentPart = part;
     }
+    
+    history.pushState({ page: 'part' }, '', location.href);
   }
 
   getShuffleArray(length: number): number[] {
@@ -178,7 +195,6 @@ export class AppComponent {
   }
 
   backhome(): void {
-
     if (this.currentList.length != 0) {
       this.currentList = [];
 
@@ -187,18 +203,26 @@ export class AppComponent {
         this.currentType = 0;
       }
 
+      if (!this.backButtonPressed) {
+        history.pushState({ page: 'home' }, '', location.href);
+      }
+      this.backButtonPressed = false;
       return;
     }
 
     if (this.currentType == 4 && this.currentPart != null) {
       this.currentPart = null;
+      if (!this.backButtonPressed) {
+        history.pushState({ page: 'home' }, '', location.href);
+      }
+      this.backButtonPressed = false;
       return;
     }
 
     this.currentType = 0;
     this.currentData = null;
     this.currentPart = null;
-
+    this.backButtonPressed = false;
   }
 
   getRange(max: number, start: number = 0): number[] {
