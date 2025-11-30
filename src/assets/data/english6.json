@@ -1,0 +1,1134 @@
+{
+    "Name": "英语4",
+    "Content": [
+        {
+            "PartName": "单词",
+            "TopicList":[
+                {
+                    "TopicName": "absolutely",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈæbsəluːtli]",
+                    "TopicValue3": ["ad. 完全地，绝对地"]
+                },
+                {
+                    "TopicName": "accommodate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈkɒmədeɪt]",
+                    "TopicValue3": ["v. 容纳；向…提供住宿"]
+                },
+                {
+                    "TopicName": "accomplishment",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈkʌmplɪʃmənt]",
+                    "TopicValue3": ["n. 成就"]
+                },
+                {
+                    "TopicName": "aggressive",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈɡresɪv]",
+                    "TopicValue3": ["a. 挑衅的；放肆的；积极进取的"]
+                },
+                {
+                    "TopicName": "amid",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈmɪd]",
+                    "TopicValue3": ["prep. 在…当中"]
+                },
+                {
+                    "TopicName": "announcer",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈnaʊnsə(r)]",
+                    "TopicValue3": ["n. 广播员"]
+                },
+                {
+                    "TopicName": "approach",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈprəʊtʃ]",
+                    "TopicValue3": ["v. 接近"]
+                },
+                {
+                    "TopicName": "appropriately",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈprəʊpriətli]",
+                    "TopicValue3": ["ad. 适当地"]
+                },
+                {
+                    "TopicName": "associate",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈsəʊʃieɪt]",
+                    "TopicValue3": ["n. 大专文凭；合伙人，同事"]
+                },
+                {
+                    "TopicName": "assume",
+                    "TopicValue1": "",
+                    "TopicValue2": "[əˈsjuːm]",
+                    "TopicValue3": ["v. 假设，主观认为"]
+                },
+                {
+                    "TopicName": "athletic",
+                    "TopicValue1": "",
+                    "TopicValue2": "[æθˈletɪk]",
+                    "TopicValue3": ["a. 运动的"]
+                },
+                {
+                    "TopicName": "audience",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɔːdiəns]",
+                    "TopicValue3": ["n. 听众；观众"]
+                },
+                {
+                    "TopicName": "automatically",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌɔːtəˈmætɪkli]",
+                    "TopicValue3": ["ad. 自动地，无意识地"]
+                },
+                {
+                    "TopicName": "bruise",
+                    "TopicValue1": "",
+                    "TopicValue2": "[bruːz]",
+                    "TopicValue3": ["v. 碰伤；使青肿"]
+                },
+                {
+                    "TopicName": "capsule",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkæpsjuːl]",
+                    "TopicValue3": ["n. 胶囊(药)"]
+                },
+                {
+                    "TopicName": "cautiously",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɔːʃəsli]",
+                    "TopicValue3": ["ad. 细心地，谨慎地"]
+                },
+                {
+                    "TopicName": "climax",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈklaɪmæks]",
+                    "TopicValue3": ["n. 高潮"]
+                },
+                {
+                    "TopicName": "collaborator",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kəˈlæbəreɪtə(r)]",
+                    "TopicValue3": ["n. 协作者；同伙"]
+                },
+                {
+                    "TopicName": "commence",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kəˈmens]",
+                    "TopicValue3": ["v. 开始，着手"]
+                },
+                {
+                    "TopicName": "concentration",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌkɒnsnˈtreɪʃn]",
+                    "TopicValue3": ["n. 集中，专心"]
+                },
+                {
+                    "TopicName": "concession",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈseʃn]",
+                    "TopicValue3": ["n. 妥协，让步"]
+                },
+                {
+                    "TopicName": "conductor",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈdʌktə(r)]",
+                    "TopicValue3": ["n. (管弦乐队、合唱团等的)指挥"]
+                },
+                {
+                    "TopicName": "confess",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈfes]",
+                    "TopicValue3": ["v. 坦白；招供，承认"]
+                },
+                {
+                    "TopicName": "contrast",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkɒntrɑːst]",
+                    "TopicValue3": ["n. 对比，对照"]
+                },
+                {
+                    "TopicName": "contribute",
+                    "TopicValue1": "",
+                    "TopicValue2": "[kənˈtrɪbjuːt]",
+                    "TopicValue3": ["v. 贡献"]
+                },
+                {
+                    "TopicName": "dialog(ue)",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈdaɪəlɒɡ]",
+                    "TopicValue3": ["n. 对话，对白"]
+                },
+                {
+                    "TopicName": "dictator",
+                    "TopicValue1": "",
+                    "TopicValue2": "[dɪkˈteɪtə(r)]",
+                    "TopicValue3": ["n. 独裁者"]
+                },
+                {
+                    "TopicName": "drawn",
+                    "TopicValue1": "",
+                    "TopicValue2": "[drɔːn]",
+                    "TopicValue3": ["a. 憔悴的，紧张的"]
+                },
+                {
+                    "TopicName": "editorial",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌedɪˈtɔːriəl]",
+                    "TopicValue3": ["n. 社论"]
+                },
+                {
+                    "TopicName": "enormous",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪˈnɔːməs]",
+                    "TopicValue3": ["a. 巨大的；庞大的"]
+                },
+                {
+                    "TopicName": "enrollment",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪnˈrəʊlmənt]",
+                    "TopicValue3": ["n. 注册人数；注册，登记"]
+                },
+                {
+                    "TopicName": "execute",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈeksɪkjuːt]",
+                    "TopicValue3": ["v. 处死，实施，执行"]
+                },
+                {
+                    "TopicName": "extensive",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪkˈstensɪv]",
+                    "TopicValue3": ["a. 广泛的，详细的；大量的"]
+                },
+                {
+                    "TopicName": "farewell",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌfeəˈwel]",
+                    "TopicValue3": ["n. 再见"]
+                },
+                {
+                    "TopicName": "fascist",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈfæʃɪst]",
+                    "TopicValue3": ["a./n 法西斯主义的/法西斯分子"]
+                },
+                {
+                    "TopicName": "fancy",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈfænsi]",
+                    "TopicValue3": ["a. 花哨的，别致的；高档的，奢华的"]
+                },
+                {
+                    "TopicName": "flush",
+                    "TopicValue1": "",
+                    "TopicValue2": "[flʌʃ]",
+                    "TopicValue3": ["v. (使)(鸟)惊飞"]
+                },
+                {
+                    "TopicName": "formally",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈfɔːməli]",
+                    "TopicValue3": ["ad. 正式地"]
+                },
+                {
+                    "TopicName": "gasoline",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɡæsəliːn]",
+                    "TopicValue3": ["n. 汽油"]
+                },
+                {
+                    "TopicName": "generator",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈdʒenəreɪtə(r)]",
+                    "TopicValue3": ["n. 发电机"]
+                },
+                {
+                    "TopicName": "gesture",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈdʒestʃə(r)]",
+                    "TopicValue3": ["n. 姿势，手势"]
+                },
+                {
+                    "TopicName": "handful",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhændfʊl]",
+                    "TopicValue3": ["n. 少数，少量；一把"]
+                },
+                {
+                    "TopicName": "hostile",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈhɒstaɪl]",
+                    "TopicValue3": ["a. 敌对的"]
+                },
+                {
+                    "TopicName": "industrialist",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪnˈdʌstriəlɪst]",
+                    "TopicValue3": ["n. 工业家，实业家"]
+                },
+                {
+                    "TopicName": "influenza",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌɪnfluˈenzə]",
+                    "TopicValue3": ["n. 流行性感冒"]
+                },
+                {
+                    "TopicName": "instrument",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɪnstrəmənt]",
+                    "TopicValue3": ["n. 乐器；器械，仪器"]
+                },
+                {
+                    "TopicName": "interfere",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌɪntəˈfɪə(r)]",
+                    "TopicValue3": ["v. 干涉；妨碍"]
+                },
+                {
+                    "TopicName": "interpret",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ɪnˈtɜːprɪt]",
+                    "TopicValue3": ["v. 解释；（口头）翻译"]
+                },
+                {
+                    "TopicName": "Irish",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈaɪrɪʃ]",
+                    "TopicValue3": ["a. 爱尔兰(人)的"]
+                },
+                {
+                    "TopicName": "irritable",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɪrɪtəbl]",
+                    "TopicValue3": ["a. 易怒的，急躁的"]
+                },
+                {
+                    "TopicName": "issue",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈɪʃuː]",
+                    "TopicValue3": ["n. 发行物(刊物)一期"]
+                },
+                {
+                    "TopicName": "journalist",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈdʒɜːnəlɪst]",
+                    "TopicValue3": ["n. 新闻工作者；记者"]
+                },
+                {
+                    "TopicName": "landscape",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈlændskeɪp]",
+                    "TopicValue3": ["n. (陆地) 风景，景色"]
+                },
+                {
+                    "TopicName": "limb",
+                    "TopicValue1": "",
+                    "TopicValue2": "[lɪm]",
+                    "TopicValue3": ["n. 腿，臂，翅；大树枝"]
+                },
+                {
+                    "TopicName": "loyal",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈlɔɪəl]",
+                    "TopicValue3": ["a. 忠诚的"]
+                },
+                {
+                    "TopicName": "maximum",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈmæksɪməm]",
+                    "TopicValue3": ["n./a. 最大值，最大限度；最大（限度）的"]
+                },
+                {
+                    "TopicName": "memento",
+                    "TopicValue1": "",
+                    "TopicValue2": "[məˈmentəʊ]",
+                    "TopicValue3": ["n. 纪念品"]
+                },
+                {
+                    "TopicName": "military",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈmɪlətri]",
+                    "TopicValue3": ["a. 军事的"]
+                },
+                {
+                    "TopicName": "mistress",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈmɪstrəs]",
+                    "TopicValue3": ["n. 情妇"]
+                },
+                {
+                    "TopicName": "neglect",
+                    "TopicValue1": "",
+                    "TopicValue2": "[nɪˈɡlekt]",
+                    "TopicValue3": ["v. 忽视"]
+                },
+                {
+                    "TopicName": "nursery",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈnɜːsəri]",
+                    "TopicValue3": ["n. 托儿所"]
+                },
+                {
+                    "TopicName": "passion",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈpæʃn]",
+                    "TopicValue3": ["n. 强烈的感情"]
+                },
+                {
+                    "TopicName": "physical",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈfɪzɪkl]",
+                    "TopicValue3": ["a. 身体的；物质的"]
+                },
+                {
+                    "TopicName": "pitch",
+                    "TopicValue1": "",
+                    "TopicValue2": "[pɪtʃ]",
+                    "TopicValue3": ["n. 声音的高低，调子"]
+                },
+                {
+                    "TopicName": "pneumonia",
+                    "TopicValue1": "",
+                    "TopicValue2": "[njuːˈməʊniə]",
+                    "TopicValue3": ["n. 肺炎"]
+                },
+                {
+                    "TopicName": "precious",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈpreʃəs]",
+                    "TopicValue3": ["a. 珍贵的"]
+                },
+                {
+                    "TopicName": "prescribe",
+                    "TopicValue1": "",
+                    "TopicValue2": "[prɪˈskraɪb]",
+                    "TopicValue3": ["v. 开(药)"]
+                },
+                {
+                    "TopicName": "pressure",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈpreʃə(r)]",
+                    "TopicValue3": ["n. 压力"]
+                },
+                {
+                    "TopicName": "primarily",
+                    "TopicValue1": "",
+                    "TopicValue2": "[praɪˈmerəli]",
+                    "TopicValue3": ["ad. 主要地"]
+                },
+                {
+                    "TopicName": "private",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈpraɪvət]",
+                    "TopicValue3": ["a. 私人的；个人的"]
+                },
+                {
+                    "TopicName": "psychologist",
+                    "TopicValue1": "",
+                    "TopicValue2": "[saɪˈkɒlədʒɪst]",
+                    "TopicValue3": ["n. 心理学家"]
+                },
+                {
+                    "TopicName": "purgative",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈpɜːɡətɪv]",
+                    "TopicValue3": ["n. 泻药"]
+                },
+                {
+                    "TopicName": "qualify",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈkwɒlɪfaɪ]",
+                    "TopicValue3": ["v. 使具有资格"]
+                },
+                {
+                    "TopicName": "realization",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌriːəlaɪˈzeɪʃn]",
+                    "TopicValue3": ["n. 实现；意识"]
+                },
+                {
+                    "TopicName": "relationship",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈleɪʃnʃɪp]",
+                    "TopicValue3": ["n. 关系；联系"]
+                },
+                {
+                    "TopicName": "remarkable",
+                    "TopicValue1": "",
+                    "TopicValue2": "[rɪˈmɑːkəbl]",
+                    "TopicValue3": ["a. 显著的，非凡的"]
+                },
+                {
+                    "TopicName": "scarcely",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈskeəsli]",
+                    "TopicValue3": ["ad. 刚刚；几乎不"]
+                },
+                {
+                    "TopicName": "scatter",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈskætə(r)]",
+                    "TopicValue3": ["v. 散开"]
+                },
+                {
+                    "TopicName": "section",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsekʃn]",
+                    "TopicValue3": ["n. 部分"]
+                },
+                {
+                    "TopicName": "shelter",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈʃeltə(r)]",
+                    "TopicValue3": ["n. 掩蔽(处)"]
+                },
+                {
+                    "TopicName": "shiver",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈʃɪvə(r)]",
+                    "TopicValue3": ["v. 战栗，发抖"]
+                },
+                {
+                    "TopicName": "slaughter",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈslɔːtə(r)]",
+                    "TopicValue3": ["v. 屠杀"]
+                },
+                {
+                    "TopicName": "slither",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈslɪðə(r)]",
+                    "TopicValue3": ["v. 不稳地滑动"]
+                },
+                {
+                    "TopicName": "spectacle",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈspektəkl]",
+                    "TopicValue3": ["n. 引人鄙视的对象；场面"]
+                },
+                {
+                    "TopicName": "springy",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈsprɪŋi]",
+                    "TopicValue3": ["a. 有弹性的"]
+                },
+                {
+                    "TopicName": "statistics",
+                    "TopicValue1": "",
+                    "TopicValue2": "[stəˈtɪstɪks]",
+                    "TopicValue3": ["n. 数据"]
+                },
+                {
+                    "TopicName": "strain",
+                    "TopicValue1": "",
+                    "TopicValue2": "[streɪn]",
+                    "TopicValue3": ["v. 劲力使用；使过度劳累，扭伤"]
+                },
+                {
+                    "TopicName": "strengthen",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈstreŋθn]",
+                    "TopicValue3": ["v. 加强"]
+                },
+                {
+                    "TopicName": "striking",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈstraɪkɪŋ]",
+                    "TopicValue3": ["a. 惹人注目的；显著的，突出的"]
+                },
+                {
+                    "TopicName": "surround",
+                    "TopicValue1": "",
+                    "TopicValue2": "[səˈraʊnd]",
+                    "TopicValue3": ["v. 包围"]
+                },
+                {
+                    "TopicName": "synopsis",
+                    "TopicValue1": "",
+                    "TopicValue2": "[sɪˈnɒpsɪs]",
+                    "TopicValue3": ["n. 提要，梗概"]
+                },
+                {
+                    "TopicName": "technician",
+                    "TopicValue1": "",
+                    "TopicValue2": "[tekˈnɪʃn]",
+                    "TopicValue3": ["n. 技术员；技师；工艺师"]
+                },
+                {
+                    "TopicName": "temple",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈtempl]",
+                    "TopicValue3": ["n. 太阳穴"]
+                },
+                {
+                    "TopicName": "triumph",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈtraɪʌmf]",
+                    "TopicValue3": ["n. 胜利，得胜"]
+                },
+                {
+                    "TopicName": "typewriter",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈtaɪpraɪtə(r)]",
+                    "TopicValue3": ["n. 打字机"]
+                },
+                {
+                    "TopicName": "typist",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈtaɪpɪst]",
+                    "TopicValue3": ["n. 打字员"]
+                },
+                {
+                    "TopicName": "underneath",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌʌndəˈniːθ]",
+                    "TopicValue3": ["prep. 在…下面"]
+                },
+                {
+                    "TopicName": "unendurable",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌʌnɪnˈdjʊərəbl]",
+                    "TopicValue3": ["a. 无法忍受的"]
+                },
+                {
+                    "TopicName": "unsteadily",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ʌnˈstedɪli]",
+                    "TopicValue3": ["ad. 不稳定地，摇摆地"]
+                },
+                {
+                    "TopicName": "varnish",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈvɑːnɪʃ]",
+                    "TopicValue3": ["v. 对…修饰使有光泽面"]
+                },
+                {
+                    "TopicName": "vegetarian",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌvedʒəˈteəriən]",
+                    "TopicValue3": ["a. (有关)素食的"]
+                },
+                {
+                    "TopicName": "vividly",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˈvɪvɪdli]",
+                    "TopicValue3": ["ad. 生动地，逼真地"]
+                },
+                {
+                    "TopicName": "vulnerability",
+                    "TopicValue1": "",
+                    "TopicValue2": "[ˌvʌlnərəˈbɪləti]",
+                    "TopicValue3": ["n. 易受伤性，脆弱性"]
+                }
+            ]
+        },
+        {
+            "PartName": "短语",
+            "TopicList": [
+                {
+                    "TopicName": "amount to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["总计"]
+                },
+                {
+                    "TopicName": "bound for",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["驶往"]
+                },
+                {
+                    "TopicName": "bring back",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["使恢复（到以前的状态）"]
+                },
+                {
+                    "TopicName": "bring down",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["减少，降低"]
+                },
+                {
+                    "TopicName": "call up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["（从电脑中）调用（程序，数据等）；使想起"]
+                },
+                {
+                    "TopicName": "catch on (to)",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["学会，懂得"]
+                },
+                {
+                    "TopicName": "catch sb's eye",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["引起某人注意"]
+                },
+                {
+                    "TopicName": "come true",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["实现"]
+                },
+                {
+                    "TopicName": "conjure up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["使联想起"]
+                },
+                {
+                    "TopicName": "contribute to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["有助于"]
+                },
+                {
+                    "TopicName": "cut through",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["穿过，穿透；克服或绕过（困难等）"]
+                },
+                {
+                    "TopicName": "draw lots",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["抽签"]
+                },
+                {
+                    "TopicName": "due to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["因为，由于"]
+                },
+                {
+                    "TopicName": "feed on",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["以…为食"]
+                },
+                {
+                    "TopicName": "figure out",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["解决，算出；理解，弄清楚"]
+                },
+                {
+                    "TopicName": "get along with",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["与…相处得好"]
+                },
+                {
+                    "TopicName": "get one's hands on",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["找到；拥有"]
+                },
+                {
+                    "TopicName": "go by",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["走过，经过"]
+                },
+                {
+                    "TopicName": "have access to",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["有机会或权力使用或看"]
+                },
+                {
+                    "TopicName": "hold back",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["抑制，阻止"]
+                },
+                {
+                    "TopicName": "hold tight onto oneself",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["控制住，抑制住"]
+                },
+                {
+                    "TopicName": "hold…against",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["因(某事)而嫉恨(某人)"]
+                },
+                {
+                    "TopicName": "in addition (to)",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["除…外"]
+                },
+                {
+                    "TopicName": "in contrast (to/with)",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["（与…）截然不同"]
+                },
+                {
+                    "TopicName": "in honor of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["出于对…的敬意"]
+                },
+                {
+                    "TopicName": "in hopes of/in the hope of",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["希望"]
+                },
+                {
+                    "TopicName": "in turn",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["依次，轮流，转而"]
+                },
+                {
+                    "TopicName": "interfere with",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["干扰；妨碍"]
+                },
+                {
+                    "TopicName": "keep (a) secret",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["保密"]
+                },
+                {
+                    "TopicName": "keep from",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["阻止，停止"]
+                },
+                {
+                    "TopicName": "labor along",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["艰难缓慢地行进"]
+                },
+                {
+                    "TopicName": "live through",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["经历…幸存下来"]
+                },
+                {
+                    "TopicName": "make a/the difference",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["有关系，有影响"]
+                },
+                {
+                    "TopicName": "on guard",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["警惕，提防"]
+                },
+                {
+                    "TopicName": "out of sight",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["看不见"]
+                },
+                {
+                    "TopicName": "put to work",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["运用，应用"]
+                },
+                {
+                    "TopicName": "send away for",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["函索"]
+                },
+                {
+                    "TopicName": "stand/be in sb's way",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["阻碍，妨碍"]
+                },
+                {
+                    "TopicName": "take it easy",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["不紧张；不着急"]
+                },
+                {
+                    "TopicName": "take sb. to task",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["（为某事）狠狠批评某人"]
+                },
+                {
+                    "TopicName": "take up",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["开始，从事"]
+                },
+                {
+                    "TopicName": "turn a blind eye (to)",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["假装看不见"]
+                },
+                {
+                    "TopicName": "would rather",
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["宁愿"]
+                }
+            ]
+        },
+        {
+            "PartName": "汉译英",
+            "TopicList": [
+                {
+                    "TopicNameList": ["你能想象一个身体严重残疾的妇女独自经营一个网站并且像一个专业的体育记者一样详细报道洛杉矶道奇队吗？如果我没有亲眼见到她蜷曲在轮椅里，用固定在头上的一根棍子敲击字键打出她的评论，我是绝不会相信的。我长途驱车希望揭露一个精心策划的骗局，但是，看着她在黑暗的棚屋里添写她的报道，我知道我发现了一个真正的赢家。她对棒球的热情和她对球员的信赖使我回到了积极的态度。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Could you imagine a woman with a severe physical handicap running a website on her own and covering the Los Angeles Dodgers as a professional sportswriter? I could never believe it if I had not seen her with my own eyes, curled up in a wheelchair, typing her comments by hitting the key with a pointer fastened to her head. I had driven a long way in hopes of uncovering an elaborate hoax, but watching her strain in the gloom of her shanty to add to her story, I knew I had found a true winner. Her enthusiasm for the game and her trust in the athletes brought me back to a positive attitude."]
+                },{
+                    "TopicNameList": ["就能力而言，我肯定他能胜任这件工作。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["As as ability is concerned, I am sure he will qualify for the job."]
+                },
+                {
+                    "TopicNameList": ["认为约翰会因为他的失礼(being impolite)而向他们正式道歉，那就错了。(assume)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It is wrong to assume that John will formally apologize to them for being impolite."]
+                },
+                {
+                    "TopicNameList": ["我问了她数次，可她拒绝回答我的问题。(respond)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I asked her several times, but she refused to respond to my question."]
+                },
+                {
+                    "TopicNameList": ["在西方，人们常常邮购商品，这可以节省许多时间。(send away for)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["In the West, people often send away for mail-order goods, which can save a lot of time."]
+                },
+                {
+                    "TopicNameList": ["抱歉，时间不多了，我建议我们跳到最后一章。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Sorry time is running out; I suggest we skip to the last chapter."]
+                },
+                {
+                    "TopicNameList": ["既然你决心尽快完成硕士课程(master’s program)，那就别让你的社交生活(social life)妨碍你的学习。(set one’s mind to, stand in the way of)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Since you have set your mind to finishing your master’s program as soon as possible, don’t let your social life stand in the way of your studies."]
+                },
+                {
+                    "TopicNameList": ["装了(fitted with)假肢(artificial leg)，他起初走路走不稳，但经过锻炼他的步子(step)稳了。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Fitted with the artificial leg, he walked unsteadily/shakily at first, but with practice his steps became steady."]
+                },
+                {
+                    "TopicNameList": ["医生说我得了重感冒，她给我开了四种药，三种是药片，饭后服，另一种是药水(liquid),睡前服。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["The doctor said I had caught a severe cold and she prescribed me four different medicines. Three of them are pills to be taken after meals and the other is liquid to be drunk before going to bed."]
+                },
+                {
+                    "TopicNameList": ["我妹妹的爱犬被人偷走后，她心里难受了好几个星期。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["My sister felt miserable for weeks after she had her pet dog stolen."]
+                },
+                {
+                    "TopicNameList": ["汽车早已开走看不见了，珍妮(jenny)还站在大门口凝视着路得尽头。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Jenny was still standing at the gate gazing at the end of the road long after the car was out of sight."]
+                },
+                {
+                    "TopicNameList": ["就我所知，他们相互感情上疏远已有一些时间了。(be detached from)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["As far as I know, they have been emotionally detached from each other for some time."]
+                },
+                {
+                    "TopicNameList": ["一般地说，通过增加供给或减少需求可以降低物价。(bring down)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["In general, prices may be bought down by increasing supply or decreasing demand."]
+                },
+                {
+                    "TopicNameList": ["象平常一样，他在开始洗漱(get washed)前，将收音机调至早晨七点的新闻广播。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["As usual, he turned his radio for the 7 a.m. news broadcast before he began to get washed."]
+                },
+                {
+                    "TopicNameList": ["有许多文件要签，但紧急的只有这份合同。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["There are a lot of papers to sign, but the only urgent one is this contract."]
+                },
+                {
+                    "TopicNameList": ["在该市，因吸毒(drug abuse)和赌博(gambling)而引发的罪行在发展，当地政府似乎找不出对付这一问题的办法。(born of)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["In that city crime born of drug abuse and gambling is on the rise, and the local government seems to figure out a way to cope with it."]
+                },
+                {
+                    "TopicNameList": ["在那些日子里，我能弄到什么就看什么，只要是英文写的。(get one’s on)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["In those days, I would read everything I could get my hands on so/as long as it was written in English."]
+                },
+                {
+                    "TopicNameList": ["我感肯定那座楼在空袭(air raid)中一定被完全炸毁了。(bet, destroy)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["I bet the building must have been completely destroyed in the air raid."]
+                },
+                {
+                    "TopicNameList": ["她被这突如其来的打击(unexpected blow)吓得好几分钟讲不出一句话来。(scare)。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["She was so scared by the unexpected blow, that she could not speak a word for several minutes."]
+                },
+                {
+                    "TopicNameList": ["我们不赞同他认为自己应得到特殊待遇的态度。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["We didn’t like his attitude that he deserves special treatment."]
+                },
+                {
+                    "TopicNameList": ["即使你是班上最好的学生之一，要保住成绩也得常常温习功课才行。(maintain)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Even if you are one of the best students in class, in order to maintain your grades you must review your lessons often."]
+                },
+                {
+                    "TopicNameList": ["过去有关太空时代的某些幻想已经成为现实。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Some of the old fantasies about the space age have come true."]
+                },
+                {
+                    "TopicNameList": ["情况确实是如此，有些人一生中很早就获得成功，而另一些人则要很长时间方能实现自己的目标。(attain)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It is true that some people achieve success very early in life, while others must work a long time before attaining their goals."]
+                },
+                {
+                    "TopicNameList": ["他坚持认为这次实验的失败主要由于准备不足(inadequate)。(maintain, due to)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["He maintained that the failure of the experiment was largely due to inadequate preparation."]
+                },
+                {
+                    "TopicNameList": ["如今研究人员提倡我们每天花些时间将自己想要达到的目标投射到心灵的屏幕上。(project)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Researchers now recommend that we take time every day to project our desired goals onto the screen in our minds."]
+                },
+                {
+                    "TopicNameList": ["今年三月初的一个美好夜晚，我和我的家人到上海大剧院（Shanghai Grand Theater）看著名的音乐剧（musical）《剧院魅影》(The Phantom of the Opera)。爱情是该剧的主题，然而它说的却是一场三角恋爱的故事（a love triangle）。一位名叫克里斯汀（Christine）的年轻的女高音歌唱家引起一个经常带着面具出没于（haunt）巴黎歌剧院的幽灵的注意，他爱上了她。可是，克里斯汀的一位从前的朋友，如今是一位年轻而又富有的美男子也爱上了她。剧情围绕他们三人展开。他们的演唱和演技都非常好；他们演出时充满感情，同时，合唱部分也很和谐。自始至终，演出就像放在我们面前的佳肴，那绝对是一种享受。演出在观众雷鸣般的掌声中结束。该音乐剧于1986年首次上演，其原创人员(creative team)几乎一夜成名。迄今该剧已在全球22个国家对一亿多人演出过。这确实是一次巨大的胜利。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["One beautiful evening in early March this year my family and I went to see the famous musical The Phantom of the Opera at the Shanghai Grand Theater.  Love is its theme; yet love in a love triangle.  A young soprano named Christine attracts the attention of the phantom who, always wearing a mask, haunts the Paris Opera House, and he falls in love with her.  However, Christine’s former childhood friend, now a handsome, wealthy young man, loves her, too.  The plot unfolds around the three of them.  The singing and acting were superb; all performed with passion while the chorus parts were done perfectly in tune.  From beginning to end the performance was like a delicious banquet spread out / delicious food put in front of us.This musical was first staged in 1986 and its creative team made a name almost overnight.  It has so far played to over 100 million people in 22 countries around the world, a tremendous triumph indeed."]
+                },
+                {
+                    "TopicNameList": ["事实上，对于这次海难(shipwreck)报纸上的说法不一。(account)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["In fact, there are different accounts of the shipwreck in the newspapers."]
+                },
+                {
+                    "TopicNameList": ["据说这一地区早在两千年前就很先进。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["It is said that the area was well advanced in agriculture as early as 2,000 years ago."]
+                },
+                {
+                    "TopicNameList": ["瞧他是如何操作这机器的，然后就照着做。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Watch how he operates the machine and then do likewise."]
+                },
+                {
+                    "TopicNameList": ["孔繁森体现了一位共产党人的全部优秀品质。(embody)"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Kong Fansen embodies all the fine qualities of a communist."]
+                },
+                {
+                    "TopicNameList": ["在那些国家的职业妇女中，有三十多岁才生育的趋势。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["Among the professional women in those countries, there is a trend towards having children in their thirties."]
+                },
+                {
+                    "TopicNameList": ["圣诞节和元旦相隔一周时间。"],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["There is an interval of a week between Christmas and New Year’s Day."]
+                }
+            ]
+        },
+        {
+            "PartName": "英译汉",
+            "TopicList": [
+                {
+                    "TopicNameList": ["The e-mail was in some respects similar to other nasty letters I receive. It took me to task for my comments on the Los Angeles Dodgers and argued that I had got everything wrong. However, the note was different from the others in at least two ways.", "This note contained more details than the usual \"You're an idiot.\" It included vital statistics on the team's performance. It was written by someone who knew the Los Angeles Dodgers as well as I thought I did.", "And this note was signed. The writer's name was Sarah Morris."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["这封电子邮件在某些方面与我收到的其他刻薄的信件相似。它痛斥我对洛杉矶道奇队的评论，并争辩说我把一切全都搞错了。然而，这个评论与其他的评论至少有两个方面不同。", "与通常那些\"你是个白痴\"的评论不同的是，这一评论含有更多的细节。它包含了该队比赛表现的关键数据。写这篇评论的人对洛杉矶道奇队的了解绝不亚于我自认为对她的了解。", "而且这一评论是署名的。作者的名字叫萨拉·莫里斯。"]
+                },
+                {
+                    "TopicNameList": ["The old green typewriter sits in my office now, unrepaired. It is a memento, but what it recalls for me is not quite what it recalled for Mother. When I'm having trouble with a story and think about giving up or when I start to feel sorry for myself and think things should be easier for me, I roll a piece of paper into that cranky old machine and type, word by painful word, just the way Mother did. What I remember then is not her failure, but her courage, the courage to go ahead", "It's the best memento anyone ever gave me."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["那台绿色旧打字机现在放在我的办公室里，至今没有修理过。它是一件纪念品。但它所勾起的我的回忆与妈妈的不尽相同。每当我写文章遇到困难想打退堂鼓时，或是自叹不走运时，我就往那台破旧的打字机里卷进一张纸，像妈妈当年一样，一个字一个字地吃力地打着。这时，我回忆起的不是妈妈的失败，而是她的勇气，她那一往无前的勇气。", "这台打字机是我一生中得到的最好的纪念品。"]
+                },
+                {
+                    "TopicNameList": ["I thought perhaps he was a little lightheaded and after giving him the prescribed capsules at eleven o'clock I went out for a while. It was a bright cold day, the ground covered with a sleet that Had frozen so that it seemed as if all the bare trees, the bushes, the cut brush and all the grass and the bare ground had been varnished with ice, I took the young Irish setter for a walk up the road and along a frozen creek, but it was difficult to stand or walk on the glassy surface and the red dog slipped and slithered and I fell twice, hard, once dropping my gun and having it slide away over the ice."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["我想，或许他有点神志不清了。11点钟，照规定给他服药后，我便出去了一会儿。那是一个晴朗而又寒冷的日子，地上覆盖着一层已结成冰的冻雨，就像那光秃秃的树木，那灌木丛，那砍下的树枝，以及所有的草坪和空地都用冰漆过似的。我带着我那条幼小的爱尔兰猎犬，沿着大路和一条冰冻的小溪散步。但在这玻璃般平滑的地面上站立和行走是很困难的。红毛狗一路上连跌带滑，我自己也摔倒了两次，都是挺重的。一次猎枪也摔丢了，在冰上滑出很远。"]
+                },
+                {
+                    "TopicNameList": ["On a summer evening, a birthday celebration is going on at Dr. Stockton's. Among those Present are his neighbors: the Hendersons, the Weiss's and the Harlowes. In the midst of it comes unexpectedly over the radio the announcement of the President of the United States declaring a state of emergency for suspected enemy missiles approaching. The party breaks up and the neighbors hurry home.", "However, shortly afterwards they return one after another to the Stockton house for the simple reason that they want to survive—want to share with the Stocktons the bomb shelter which is the only one on their street."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["某个夏天，斯道克顿家在庆祝生日，来宾中有他的邻居：亨德森一家、韦斯一家、还有哈洛一家。正当宴会进行时，收音机里出乎意料地传来了美国总统的公告，因怀疑敌方导弹飞近，宣布全国处于紧急状态。宴会就此结束，邻居们急匆匆赶回家。", "然而，过不多久他们又一个个回到了斯道克顿家。原因十分简单，那就是他们想活下去——想分享斯道克顿家的防空洞。这是他们街上唯一的防空洞。"]
+                },
+                {
+                    "TopicNameList": ["The experience of some athletes seem to confirm this belief. For instance, John Uelses, a former pole-vaulting champion, used daydreaming techniques before each meet. He would imagine himself winning. He would vividly picture himself clearing the bar at a certain height. He would go over all the details in his mind. He would picture the stadium and the crowds. He'd even imagination left memory traces in his mind that would later help his actual performance."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["一些运动员的经历似乎证实了这种看法。例如，前撑杆跳冠军约翰·尤尔塞斯每次比赛前都使用白日做梦的技术。他想象自己赢得胜利。他逼真地想象自己在某一高度是怎样越过横杆的。他会把所有的细节一一地在脑海里审察一遍。他会想象到体育馆和观众的情景。他甚至想象出草坪和泥土发出的气味。他说，这种想象力的运用在脑子里留下记忆痕。这些记忆痕将有助于他的临场发挥。"]
+                },
+                {
+                    "TopicNameList": ["Terezin had been a perverse kind of showcase. In contrast to Auschwitz, Treblinka and other extermination camps, the Nazis designed the town near Prague to fool the world. For much of World War II, Nazi propaganda suggested that Jews there enjoyed a life of leisure, even using captive Jewish filmmakers to craft a movie showing \"happy\" Jews listening to lectures and basking in the sun. The reality was horribly different. As many as 58,000 Jews were stuffed into a town that had originally held 7,000. Medical supplies were almost nonexistent, beds were infested with vermin and toilets overflowed. Of the 150,000 prisoners who passed through Terezin, 35, 000 died there, mostly from disease and hunger."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["特雷津曾经是处有点反常的展示橱窗。与奥斯维辛、特雷布林卡等灭绝人的集中营不同，纳粹将这座位于布拉格附近的村镇刻意打扮以欺骗世人。第二次世界大战期间的许多时间里，纳粹的宣传机器宣传犹太人在那里过着悠闲的生活，他们甚至利用被抓捕的犹太制片人杜撰情节拍摄了一部电影，展示\"愉快的\"犹太人在听讲座和在晒太阳。而现实却是迥然不同。这座原本只能容纳7千人的小镇如今却挤着5万8千个犹太人。几乎没有什么医疗设施，床上到处爬满虱子等害虫，厕所里污水外溢。曾在特雷津待过的15万人中，3万5千人死在那里，多数死于疾病和饥饿。"]
+                },
+                {
+                    "TopicNameList": ["Thus it is not merely true, as frequently noted, that 90 percent of all the scientists who ever lived are now alive, and that new scientific discoveries are being made every day. These new ideas are put to work much more quickly than ever before. The time between the first and second stages of the cycle — between idea and application—has been radically reduced. This is a striking difference between ourselves and our ancestors. It is not that we are more eager or less lazy than our ancestors, but we have, with the passage of time, invented all sorts of social devices to hasten the process."],
+                    "TopicValue1": "",
+                    "TopicValue2": "",
+                    "TopicValue3": ["因此，正如人们常常提到的，一个千真万确的情况是，从古到今的科学家中有90%的人活在今天的世界上，新的科学发现现在天天都有。这些新的思想现在比以往任何时候都得到更快的应用。这一循环过程的第一和第二阶段之间——即想法和应用之间——的时间已大大缩短。这一点是我们和我们祖先之间的一个引人注目的差别。这不是说我们比祖先更急于求成或较少懒惰，而是由于时间的推移，我们已经发明了各种社会手段来加速这一进程。"]
+                }
+            ]
+        }
+    ]
+}

@@ -11,6 +11,26 @@ export class AppComponent {
 
   public subjectList: any[] = [
     {
+      name: "英语6",
+      file: "english6",
+      type: "1"
+    },
+    {
+      name: "软件工程",
+      file: "softmanager",
+      type: "4"
+    },
+    {
+      name: "面向对象分析与设计",
+      file: "oo",
+      type: "4"
+    },
+    {
+      name: "计算机网络与通信",
+      file: "net",
+      type: "4"
+    },
+    {
       name: "Java程序设计",
       file: "java",
       type: "3",

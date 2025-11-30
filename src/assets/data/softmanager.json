@@ -1,0 +1,23 @@
+{
+    "Name": "软件工程",
+    "Content": [
+        {
+        
+            "PartName": "复习资料",
+            "filefold": "soft_manager",
+            "filename": "",
+            "fileext": "png",
+            "filemax": 1,
+            "filestart": 1
+        },
+        {
+        
+            "PartName": "参考例题",
+            "filefold": "soft_manager",
+            "filename": "",
+            "fileext": "png",
+            "filemax": 1,
+            "filestart": 2
+        }
+    ]
+}
