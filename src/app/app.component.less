@@ -150,6 +150,58 @@
             border-radius: 4px;
         }
 
+        &.type5-topic-wapper {
+            width: min(380px, calc(100vw - 32px));
+        }
+
+        .type5-topic-card {
+            width: auto;
+            margin: 0 0 24px 0;
+            align-items: stretch;
+
+            ::ng-deep .mat-card-content {
+                align-items: stretch;
+                justify-content: flex-start;
+
+                .topicNameList-wapper,
+                .content-wapper {
+                    .explain-wapper {
+                        margin: 8px 0;
+                    }
+                }
+
+                .question-prompt {
+                    font-weight: 600;
+                }
+
+                .option-list {
+                    display: flex;
+                    flex-direction: column;
+                    margin-bottom: 12px;
+                }
+
+                .option-item {
+                    display: flex;
+                    gap: 8px;
+                    padding: 6px 8px;
+                    border-radius: 4px;
+                    background-color: rgba(255, 255, 255, 0.5);
+                    line-height: 24px;
+                    margin-bottom: 8px;
+                }
+
+                .correct-option {
+                    background-color: #0d9169;
+                    color: #fff;
+                }
+
+                .option-label {
+                    min-width: 20px;
+                    font-weight: 600;
+                }
+            }
+        }
+
         .imgContainer {
             display: flex;
             flex-direction: column;

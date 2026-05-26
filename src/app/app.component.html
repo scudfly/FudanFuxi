@@ -60,6 +60,35 @@
       <button mat-flat-button (click)="nextTopic()" *ngIf="currentList.length>1">下一个</button>
     </div>
   </div>
+  <div *ngIf="currentType == 5">
+    <div class="part-wapper" *ngIf="currentData != null && currentList.length == 0">
+      <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectPart(part.PartName)">{{part.PartName}}</button>
+      <button mat-flat-button color="primary" class="part-button" (click)="backhome()">返回</button>
+    </div>
+    <div class="topic-wapper type5-topic-wapper" *ngIf="currentList.length > 0">
+      <mat-card class="topic-card type5-topic-card" *ngFor="let topic of currentOrderedList">
+        <mat-card-content>
+          <div class="topicNameList-wapper" *ngIf="topic.TopicNameList && topic.TopicNameList.length > 0">
+            <div class="explain-wapper question-prompt" *ngFor="let topicName of topic.TopicNameList" [innerHTML]="topicName">
+            </div>
+          </div>
+          <div class="option-list" *ngIf="topic.TopicOptions && topic.TopicOptions.length > 0">
+            <div class="option-item" *ngFor="let option of topic.TopicOptions" [class.correct-option]="option.correct">
+              <span class="option-label">{{option.label}}</span>
+              <span class="option-text">{{option.text}}</span>
+            </div>
+          </div>
+          <div class="content-wapper">
+            <div class="explain-wapper" *ngFor="let explain of topic.TopicValue3" [innerHTML]="explain">
+            </div>
+          </div>
+        </mat-card-content>
+      </mat-card>
+      <div class="actionbar">
+        <button mat-flat-button (click)="backhome()">返回</button>
+      </div>
+    </div>
+  </div>
   <div *ngIf="currentType == 3" class="topic-wapper">
     <div class="imgContainer">
       <button mat-flat-button (click)="backhome()">返回</button>

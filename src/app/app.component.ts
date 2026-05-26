@@ -12,6 +12,11 @@ export class AppComponent implements OnInit {
 
   public subjectList: any[] = [
     {
+      name: "卓越软件开发基础",
+      file: "excellent_software_dev",
+      type: "5"
+    },
+    {
       name: "英语6",
       file: "english6",
       type: "1"
@@ -165,7 +170,9 @@ export class AppComponent implements OnInit {
 
     if (part && part.TopicList) {
       this.currentList = part.TopicList;
-      this.currentOrder = this.getShuffleArray(this.currentList.length);
+      this.currentOrder = this.currentType == 5
+        ? Array.from({ length: this.currentList.length }, (_, index) => index)
+        : this.getShuffleArray(this.currentList.length);
       this.currentIndex = 0;
     }
     else {
@@ -183,6 +190,10 @@ export class AppComponent implements OnInit {
 
   get currentTopic(): any {
     return this.currentList[this.currentOrder[this.currentIndex]];
+  }
+
+  get currentOrderedList(): any[] {
+    return this.currentOrder.map(index => this.currentList[index]);
   }
 
   nextTopic(): void {

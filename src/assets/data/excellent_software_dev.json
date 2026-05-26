@@ -1,0 +1,1880 @@
+{
+  "Name": "卓越软件开发基础",
+  "Content": [
+    {
+      "PartName": "作业",
+      "TopicList": [
+        {
+          "TopicName": "第一讲作业 - 第1题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第一讲 需求和设计工具-1",
+          "TopicNameList": [
+            "以下不属于软件开发工作的是"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "价格谈判",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "软件调试",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "需求分析",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "概要设计",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：价格谈判"
+          ]
+        },
+        {
+          "TopicName": "第一讲作业 - 第2题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第一讲 需求和设计工具-1",
+          "TopicNameList": [
+            "根据代码生成一个 UML 模型的过程一般被称为："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "基础工程",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "正向工程",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "逆向工程",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "质量工程",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：逆向工程"
+          ]
+        },
+        {
+          "TopicName": "第一讲作业 - 第3题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第一讲 需求和设计工具-1",
+          "TopicNameList": [
+            "需求跟踪的目的是建立与维护“需求－设计－编程－测试”之间的："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "可读性",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "有效性",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "一致性",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "安全性",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：一致性"
+          ]
+        },
+        {
+          "TopicName": "第一讲作业 - 第4题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第一讲 需求和设计工具-1",
+          "TopicNameList": [
+            "需求跟踪矩阵表示需求和别的系统元素之间的："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "冲突",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "不同",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "联系",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "比较",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：联系"
+          ]
+        },
+        {
+          "TopicName": "第一讲作业 - 第5题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第一讲 需求和设计工具-1",
+          "TopicNameList": [
+            "需求管理工具必需具有"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "代码测试功能，代码调试功能",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "需求追踪功能",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "代码测试功能，代码调试功能",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "代码编辑功能",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：需求追踪功能"
+          ]
+        },
+        {
+          "TopicName": "第二讲作业 - 第1题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第二讲  需求和设计工具-2",
+          "TopicNameList": [
+            "RUP的Elaboration（精化）阶段结束时的里程碑是"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "建立一个需求分析模型",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "完成项目的源代码的编写",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "建立一个稳定的体系结构",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "需求规格说明书通过评审",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：建立一个稳定的体系结构"
+          ]
+        },
+        {
+          "TopicName": "第二讲作业 - 第2题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第二讲  需求和设计工具-2",
+          "TopicNameList": [
+            "一个RUP软件架构师在进行软件架构设计时，第一步应该做的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "确定关键的抽象（abstractions），即系统中用到的关键数据元素（类、接口等）。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "定义候选体系结构作为系统的高层结构。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "建立一个分析模型：即实现需求的关键元素。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "确定重要的用例（即那些关键的需求）及其优先级。",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：确定重要的用例（即那些关键的需求）及其优先级。"
+          ]
+        },
+        {
+          "TopicName": "第二讲作业 - 第3题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第二讲  需求和设计工具-2",
+          "TopicNameList": [
+            "可以辅助进行数据库设计的工具是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "ERWin",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "MFC",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "Python",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "PPT",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：ERWin"
+          ]
+        },
+        {
+          "TopicName": "第二讲作业 - 第4题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第二讲  需求和设计工具-2",
+          "TopicNameList": [
+            "Rational Software Architect 可以自动完成以下功能："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "建立实施模型，即根据用例自动生成源代码和源文件结构。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "建立设计模型，即根据用例自动设计系统的分层、子系统、构件（components）。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "定义并发机制，即根据用例自动确定支持系统并发需求的基础设施。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "可根据模型生成 Java 代码、Java EE 元素或 SOA 构件。",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：可根据模型生成 Java 代码、Java EE 元素或 SOA 构件。"
+          ]
+        },
+        {
+          "TopicName": "第三讲作业 - 第1题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第三讲 程序开发工具-1",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "Apache Maven提供了构建项目的完整的 生命周期框架。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "ant和maven都采用 xml作为其配置文件的格式。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "make是用于java的构建工具",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "Ant是用于java的构建工具",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：make是用于java的构建工具"
+          ]
+        },
+        {
+          "TopicName": "第三讲作业 - 第2题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第三讲 程序开发工具-1",
+          "TopicNameList": [
+            "Ant的脚本统一命名为："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "dsl.xml",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "build.xml",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "pom.xml",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "ant.xml",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：build.xml"
+          ]
+        },
+        {
+          "TopicName": "第三讲作业 - 第3题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第三讲 程序开发工具-1",
+          "TopicNameList": [
+            "以下陈述正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "Visual Studio 不可以从代码生成UML图。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "Eclipse是主要用于Python程序开发的集成开发工具。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "开发程序时，应该先编写程序，然后反复进行程序的编译和构建，测试和调试，修改程序。",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "Visual Studio 是主要用于java程序开发的集成开发工具",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：开发程序时，应该先编写程序，然后反复进行程序的编译和构建，测试和调试，修改程序。"
+          ]
+        },
+        {
+          "TopicName": "第三讲作业 - 第4题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第三讲 程序开发工具-1",
+          "TopicNameList": [
+            "各种语言的程序开发往往都会有相应的调试器（debugger），其一般不会包含以下功能："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "设置断点",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "从调用的方法中返回",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "自动根据代码生成类图",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "单步执行",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：自动根据代码生成类图"
+          ]
+        },
+        {
+          "TopicName": "第4讲作业 - 第1题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第四讲 程序开发工具-2，测试工具-1",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "项目对象模型（POM）是整个Maven系统的基本单元。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "Maven提供了构建项目的完整的生命周期框架。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "Maven除了提供软件构建功能外，还提供了软件成本估算功能。",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "Maven比Ant的一个改进是能自动下载需要的jar包。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：Maven除了提供软件构建功能外，还提供了软件成本估算功能。"
+          ]
+        },
+        {
+          "TopicName": "第4讲作业 - 第2题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第四讲 程序开发工具-2，测试工具-1",
+          "TopicNameList": [
+            "以下陈述正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "Gradle用DSL作为配置文件格式",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "Gradle用txt作为配置文件格式",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "Gradle用csv作为配置文件格式",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "Gradle用XML作为配置文件格式",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：Gradle用DSL作为配置文件格式"
+          ]
+        },
+        {
+          "TopicName": "第4讲作业 - 第3题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第四讲 程序开发工具-2，测试工具-1",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "UI自动化测试工作的回报率最低。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "接口自动化测试（业务逻辑层）主要检查验证模块间的调用返回以及不同系统、服务间的数据交换和传递、相关的控制管理过程。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "对软件中最小的可测试单元进行检查和验证，一般需要借助单元测试框架。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "UI自动化测试工作的回报率最高。",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：UI自动化测试工作的回报率最高。"
+          ]
+        },
+        {
+          "TopicName": "第4讲作业 - 第4题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第四讲 程序开发工具-2，测试工具-1",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "动态分析工具可以对测试需求、测试计划、测试用例、测试实施进行管理，还包括对缺陷的跟踪管理。",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "静态分析工具直接对源代码进行分析，根据某种质量模型评价代码的质量，不需要运行被测系统。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "动态分析工具可以检查系统运行时内存使用情况，是否有内存越界、内存泄露等等。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "动态分析工具常常在生成的可执行文件中插入一些监测代码，然后实际运行被测系统，然后分析监测代码产生的数据。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：动态分析工具可以对测试需求、测试计划、测试用例、测试实施进行管理，还包括对缺陷的跟踪管理。"
+          ]
+        },
+        {
+          "TopicName": "第五讲作业 - 第1题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第五讲 测试工具-2",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "Bugzilla是一个开源的缺陷跟踪系统（Bug-Tracking System）",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "断言(Assertions)是Bugzilla的主要组件。",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "Appium可以基于Junit、TestNG等测试框架编写测试脚本",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "Bugzilla可以管理软件开发中缺陷的提交（new），修复（resolve），关闭（close）等整个生命周期",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：断言(Assertions)是Bugzilla的主要组件。"
+          ]
+        },
+        {
+          "TopicName": "第五讲作业 - 第2题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第五讲 测试工具-2",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "检查c/C++代码的工具有：Sonar、lint。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "Go的代码检查工具：PowerDesigner。",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "python的代码检查工具：Immunity Debugger，Paimei，WinAppDbg，YARA，IDAPython。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "检查Java代码的工具有：PMD、Checkstyle、Jalopy。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：Go的代码检查工具：PowerDesigner。"
+          ]
+        },
+        {
+          "TopicName": "第五讲作业 - 第3题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第五讲 测试工具-2",
+          "TopicNameList": [
+            "以下不是Jmeter主要组件的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "项目计划(Project Plan)",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "线程组(Thread Group)",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "取样器(sampler)",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "监听器(Listener)",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：项目计划(Project Plan)"
+          ]
+        },
+        {
+          "TopicName": "第五讲作业 - 第4题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第五讲 测试工具-2",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "正交实验法可用于黑盒测试",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "数学家们根据统计学原理，按正态分布原则，已经制定了各种正交表，保证了试验点均匀地分散在因素与水平的完全组合之中。",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "正交试验法是一种能够在一定程度上保证实验质量同时大幅度减少试验次数的方法。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "在计算机自动化测试场景下，正交实验法需要有相配合的前置处理器(Pre Processors)和后置处理器(Post Processors)",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：数学家们根据统计学原理，按正态分布原则，已经制定了各种正交表，保证了试验点均匀地分散在因素与水平的完全组合之中。"
+          ]
+        },
+        {
+          "TopicName": "第五讲作业 - 第5题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第五讲 测试工具-2",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "Appium支持iOS和Android平台上的应用、基于移动浏览器的应用以及混合应用的测试。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "Load Runner模拟成千上万用户同时使用的方式来实现并发负载，通过性能监测的方式来识别问题。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "Apache JMeter被设计用于Web应用测试，很难扩展到其他测试领域。",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "Selenium是一个用于Web应用程序的功能自动化测试工具",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：Apache JMeter被设计用于Web应用测试，很难扩展到其他测试领域。"
+          ]
+        },
+        {
+          "TopicName": "第六讲作业 - 第1题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第六讲 配置管理工具-1",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "基线是整个项目开发的起点",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "基线是已经通过了正式复审的规格说明或中间产品",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "基线是通过了正式复审的软件配置项",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "基线是软件工程开发过程中的里程碑",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：基线是整个项目开发的起点"
+          ]
+        },
+        {
+          "TopicName": "第六讲作业 - 第2题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第六讲 配置管理工具-1",
+          "TopicNameList": [
+            "以下不正确的配置项标识的原则为："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "为便于管理，标识中常常隐含配置项内容、版本、完成时间等信息",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "用易于理解和推测的方式定义文件的标识",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "多个配置项可共享同一个标识",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "为跟踪对配置项的修改提供方法",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：多个配置项可共享同一个标识"
+          ]
+        },
+        {
+          "TopicName": "第六讲作业 - 第3题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第六讲 配置管理工具-1",
+          "TopicNameList": [
+            "软件配置工具的分支（Branch）功能是指："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "通过对软件生命周期各阶段所有的问题和变更请求进行跟踪记录，包括谁改变了什么，为什么改变",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "方便了很多操作，如恢复项目的早期版本、批量签入、批量签出等",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "支持反向追踪到早期版本、比较两种版本的文件、对版本进行分支、合并和管理。 追踪多个版本的开发和维护活动",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "允许用户创建独立的开发路径，为大项目的并行开发和多版本开发提供支持",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：允许用户创建独立的开发路径，为大项目的并行开发和多版本开发提供支持"
+          ]
+        },
+        {
+          "TopicName": "第六讲作业 - 第4题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第六讲 配置管理工具-1",
+          "TopicNameList": [
+            "软件配置工具的签入签出功能是指："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "当要修改某个文档时，要先从版本控制系统中将它签出（check out），就是从服务器拷贝得到该文档的一个副本，同时版本控制系统会对该文档加锁以避免多人同时修改该文档。完成修改后，要将文档签入（check in），就是版本控制系统接收修改好的副本作为最新版本，然后解锁该文档，其他用户这时看到的是最新版本。",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "预先提供典型的开发模式的模板，以减少用户的工作负担；也应支持用户自定义生命周期模式，以适应特殊开发需要。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "主要是把版本控制功能与主流集成开发环境（IDE）集成，方便软件开发过程。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "给每一位开发者提供一致而灵活的工作空间。一般就是各开发人员将自己所需要的项目文件拷贝到自己的电脑的一个目录下，然后在这些副本上进行修改。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：当要修改某个文档时，要先从版本控制系统中将它签出（check out），就是从服务器拷贝得到该文档的一个副本，同时版本控制系统会对该文档加锁以避免多人同时修改该文档。完成修改后，要将文档签入（check in），就是版本控制系统接收修改好的副本作为最新版本，然后解锁该文档，其他用户这时看到的是最新版本。"
+          ]
+        },
+        {
+          "TopicName": "第六讲作业 - 第5题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第六讲 配置管理工具-1",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "软件配置管理（Software Configuration Management，SCM）主要应用于软件开发的编码和测试阶段。",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "软件配置管理（Software Configuration Management，SCM）活动的目标就是为了标识变更、控制变更、确保变更正确实现并向有关人员报告变更。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "软件配置管理（Software Configuration Management，SCM）使软件在开发过程中任一时间的内容都可以被追溯。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "软件配置管理（Software Configuration Management，SCM）的主要功能是界定软件的组成项（item），对每个项的变更进行管控（版本控制），并维护不同项之间的版本关联。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：软件配置管理（Software Configuration Management，SCM）主要应用于软件开发的编码和测试阶段。"
+          ]
+        },
+        {
+          "TopicName": "第7讲作业 - 第1题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第七讲 配置管理工具-2、维护、项目管理工具",
+          "TopicNameList": [
+            "以下不属于软件配置项的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "源代码、目标代码和可执行代码；",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "项目有关的文档和资料，如合同、过程、计划和产品；",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "项目开发时开发人员学习编程参考的书籍",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "相关产品，包括软件工具、库内的可重用软件、外购软件及客户提供的软件等。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：项目开发时开发人员学习编程参考的书籍"
+          ]
+        },
+        {
+          "TopicName": "第7讲作业 - 第2题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第七讲 配置管理工具-2、维护、项目管理工具",
+          "TopicNameList": [
+            "在软件工程中，每一次的维护工作相当于："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "重复整个软件生命周期。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "重复软件生命周期的一个局部。",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "独立于软件生命周期之外的一个过程。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "重复软件生命周期的编码、测试阶段。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：重复软件生命周期的一个局部。"
+          ]
+        },
+        {
+          "TopicName": "第7讲作业 - 第3题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第七讲 配置管理工具-2、维护、项目管理工具",
+          "TopicNameList": [
+            "任务计划安排（WBS）中不包含的信息是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "UML类图",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "计划起、止时间",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "计划工期",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "前置任务",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：UML类图"
+          ]
+        },
+        {
+          "TopicName": "第7讲作业 - 第4题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第七讲 配置管理工具-2、维护、项目管理工具",
+          "TopicNameList": [
+            "微软的 Office Project具有："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "程序测试功能",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "项目进度管理功能",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "进行回归测试的功能",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "画UML图的功能",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：项目进度管理功能"
+          ]
+        },
+        {
+          "TopicName": "第7讲作业 - 第5题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第七讲 配置管理工具-2、维护、项目管理工具",
+          "TopicNameList": [
+            "以下不正确的是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "Git可以便捷地在不同分支之间的切换。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "使用分支可以把当前工作从开发主线上分离开来，以免影响开发主线。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "相比比以往版本控制系统，Git可以更敏捷地创建新分支。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "以往版本控制系统不支持分支。",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：以往版本控制系统不支持分支。"
+          ]
+        },
+        {
+          "TopicName": "第八讲作业 - 第1题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第八讲 专题一、开发框架和中间件 - 1",
+          "TopicNameList": [
+            "SpringBoot框架的优点不包括："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "可以代替程序员根据需求自动生成浏览器端脚本代码",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "配置非常少，几乎是即插即用",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "基于Spring构建，容易学习",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "高度集成各部件，如Web容器等",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：可以代替程序员根据需求自动生成浏览器端脚本代码"
+          ]
+        },
+        {
+          "TopicName": "第八讲作业 - 第2题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第八讲 专题一、开发框架和中间件 - 1",
+          "TopicNameList": [
+            "RESTFUL是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "一种软件开发框架",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "一个程序库",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "一个网络软件",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "一种网络应用程序的设计风格和开发方式",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：一种网络应用程序的设计风格和开发方式"
+          ]
+        },
+        {
+          "TopicName": "第八讲作业 - 第3题【单选题】",
+          "TopicValue1": "0 / 25 分",
+          "TopicValue2": "第八讲 专题一、开发框架和中间件 - 1",
+          "TopicNameList": [
+            "SpringBoot里最基本的组件是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "annotation",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "XML",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "Controller",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "servlet",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：Controller"
+          ]
+        },
+        {
+          "TopicName": "第八讲作业 - 第4题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第八讲 专题一、开发框架和中间件 - 1",
+          "TopicNameList": [
+            "过滤器（Filter） ："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "运行在Spring容器中",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "是一种特殊类型的Controller",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "是一种Web容器",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "可以为Web程序添加新的功能",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：可以为Web程序添加新的功能"
+          ]
+        },
+        {
+          "TopicName": "第九次作业 - 第1题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第九讲 专题一、开发框架和中间件 - 2",
+          "TopicNameList": [
+            "Spring MVC的Controller层的功能是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "具体的业务实施",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "访问数据库",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "业务流程控制",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "创建Java对象",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：业务流程控制"
+          ]
+        },
+        {
+          "TopicName": "第九次作业 - 第2题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第九讲 专题一、开发框架和中间件 - 2",
+          "TopicNameList": [
+            "SpringMVC的主要组件不包括："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "前端控制器（DispatcherServlet）",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "处理器映射器（HandlerMapping）",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "后端操作器（BackendOperator）",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "处理器适配器（HandlerAdapter）",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：后端操作器（BackendOperator）"
+          ]
+        },
+        {
+          "TopicName": "第九次作业 - 第3题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第九讲 专题一、开发框架和中间件 - 2",
+          "TopicNameList": [
+            "SSM框架中不包含："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "MFC框架",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "mybatis框架",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "spring MVC框架",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "spring框架",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：MFC框架"
+          ]
+        },
+        {
+          "TopicName": "第九次作业 - 第4题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第九讲 专题一、开发框架和中间件 - 2",
+          "TopicNameList": [
+            "Spring Cloud是一个"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "微服务框架",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "ORM框架",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "集群调度框架",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "数据库框架",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：微服务框架"
+          ]
+        },
+        {
+          "TopicName": "第九次作业 - 第5题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第九讲 专题一、开发框架和中间件 - 2",
+          "TopicNameList": [
+            "Hibernate是一个"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "Java对象容器",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "Web容器框架",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "对象关系映射框架",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "Spring容器",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：对象关系映射框架"
+          ]
+        },
+        {
+          "TopicName": "第十次作业 - 第1题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十讲 专题一、开发框架和中间件 - 3",
+          "TopicNameList": [
+            "每个请求按时间顺序逐一分配到不同的后端服务器，这种负载均衡策略称为："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "轮询",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "URL散列",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "权重",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "IP散列",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：轮询"
+          ]
+        },
+        {
+          "TopicName": "第十次作业 - 第2题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十讲 专题一、开发框架和中间件 - 3",
+          "TopicNameList": [
+            "消息队列常用于"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "反向代理",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "数据持久化",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "事务处理",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "流量削峰",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：流量削峰"
+          ]
+        },
+        {
+          "TopicName": "第十次作业 - 第3题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十讲 专题一、开发框架和中间件 - 3",
+          "TopicNameList": [
+            "kafka的一个分区"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "只有一个副本",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "是一个有序队列",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "只会保存在内存中",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "可以包含多个topic",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：是一个有序队列"
+          ]
+        },
+        {
+          "TopicName": "第十次作业 - 第4题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十讲 专题一、开发框架和中间件 - 3",
+          "TopicNameList": [
+            "以代理服务器来接受internet上的连接请求，然后将请求转发给内部网络上的服务器，并将从服务器上得到的结果返回给internet上请求连接的客户。这样的代理称为："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "正向代理",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "本地代理",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "远程代理",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "反向代理(Reverse Proxy)",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：反向代理(Reverse Proxy)"
+          ]
+        },
+        {
+          "TopicName": "第十次作业 - 第5题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十讲 专题一、开发框架和中间件 - 3",
+          "TopicNameList": [
+            "Kafka的零拷贝技术"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "只要做很少的数据复制",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "不需要做数据复制",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "复制的数据全部设为0",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "只复制值为0的数据",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：只要做很少的数据复制"
+          ]
+        },
+        {
+          "TopicName": "第十一讲作业 - 第1题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第十一讲 专题一、开发框架和中间件 - 4",
+          "TopicNameList": [
+            "Redis可用于"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "代替搜索引擎",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "代替web服务器",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "代替关系型数据库",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "外置缓存",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：外置缓存"
+          ]
+        },
+        {
+          "TopicName": "第十一讲作业 - 第2题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第十一讲 专题一、开发框架和中间件 - 4",
+          "TopicNameList": [
+            "Redis的zset是一种"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "有序集合",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "散列表",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "无序集合",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "图",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：有序集合"
+          ]
+        },
+        {
+          "TopicName": "第十一讲作业 - 第3题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第十一讲 专题一、开发框架和中间件 - 4",
+          "TopicNameList": [
+            "一个Redis的主从架构集群中有"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "一个主结点和多个从结点",
+              "correct": true
+            },
+            {
+              "label": "B",
+              "text": "多个主结点和一个从结点",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "一个主结点和一个从结点",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "多个主结点和多个从结点",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "A",
+          "TopicValue3": [
+            "解析：一个主结点和多个从结点"
+          ]
+        },
+        {
+          "TopicName": "第十一讲作业 - 第4题【单选题】",
+          "TopicValue1": "25 / 25 分",
+          "TopicValue2": "第十一讲 专题一、开发框架和中间件 - 4",
+          "TopicNameList": [
+            "redis cluster结点间的通信协议为"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "http",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "gossip",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "soap",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "jdbc",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：gossip"
+          ]
+        },
+        {
+          "TopicName": "第12讲作业 - 第1题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十二讲 专题一、开发框架和中间件 - 5",
+          "TopicNameList": [
+            "Redis属于"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "文档型数据库。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "Key/value型数据库。",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "列存储数据库。",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "图(Graph)数据库。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：Key/value型数据库。"
+          ]
+        },
+        {
+          "TopicName": "第12讲作业 - 第2题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十二讲 专题一、开发框架和中间件 - 5",
+          "TopicNameList": [
+            "缓存中大量的key在同一时间失效，导致同一时间数据库访问量激增，这被称为"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "缓存穿透",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "缓存雪崩",
+              "correct": true
+            },
+            {
+              "label": "C",
+              "text": "缓存失效",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "缓存击穿",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "B",
+          "TopicValue3": [
+            "解析：缓存雪崩"
+          ]
+        },
+        {
+          "TopicName": "第12讲作业 - 第3题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十二讲 专题一、开发框架和中间件 - 5",
+          "TopicNameList": [
+            "当缓存中的某个key失效的瞬间，有大量针对这个key的访问，这被称为"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "缓存失效",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "缓存雪崩",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "缓存击穿",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "缓存穿透",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：缓存击穿"
+          ]
+        },
+        {
+          "TopicName": "第12讲作业 - 第4题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十二讲 专题一、开发框架和中间件 - 5",
+          "TopicNameList": [
+            "MongoDB不适用于"
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "大尺寸但低价值的数据的存储。",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "网站数据。",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "高度事务性的系统。",
+              "correct": true
+            },
+            {
+              "label": "D",
+              "text": "数据缓存。",
+              "correct": false
+            }
+          ],
+          "TopicAnswer": "C",
+          "TopicValue3": [
+            "解析：高度事务性的系统。"
+          ]
+        },
+        {
+          "TopicName": "第12讲作业 - 第5题【单选题】",
+          "TopicValue1": "20 / 20 分",
+          "TopicValue2": "第十二讲 专题一、开发框架和中间件 - 5",
+          "TopicNameList": [
+            "NoSQL的意思是："
+          ],
+          "TopicOptions": [
+            {
+              "label": "A",
+              "text": "不要用关系数据库",
+              "correct": false
+            },
+            {
+              "label": "B",
+              "text": "不要用数据库",
+              "correct": false
+            },
+            {
+              "label": "C",
+              "text": "不要用SQL",
+              "correct": false
+            },
+            {
+              "label": "D",
+              "text": "不仅仅是SQL",
+              "correct": true
+            }
+          ],
+          "TopicAnswer": "D",
+          "TopicValue3": [
+            "解析：不仅仅是SQL"
+          ]
+        }
+      ]
+    }
+  ]
+}
