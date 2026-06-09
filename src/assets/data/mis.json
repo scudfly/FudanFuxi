@@ -1,0 +1,22 @@
+{
+    "Name": "信息系统分析与设计",
+    "Content": [
+        {
+        
+            "PartName": "总复习",
+            "filefold": "mis",
+            "filename": "",
+            "fileext": "png",
+            "filemax": 1,
+            "filestart": 1
+        },
+        {
+            "PartName": "作业",
+            "filefold": "mis",
+            "filename": "",
+            "fileext": "png",
+            "filemax": 1,
+            "filestart": 2
+        }
+    ]
+}

@@ -12,8 +12,18 @@ export class AppComponent implements OnInit {
 
   public subjectList: any[] = [
     {
+      name: "信息系统分析与设计",
+      file: "mis",
+      type: "4"
+    },
+    {
       name: "卓越软件开发基础",
       file: "excellent_software_dev",
+      type: "5"
+    },
+    {
+      name: "软件体系结构",
+      file: "software_architecture",
       type: "5"
     },
     {
