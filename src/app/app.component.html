@@ -61,9 +61,42 @@
     </div>
   </div>
   <div *ngIf="currentType == 5">
-    <div class="part-wapper" *ngIf="currentData != null && currentList.length == 0">
+    <div class="part-wapper" *ngIf="currentData != null && currentList.length == 0 && !currentReview">
       <button mat-flat-button color="primary" class="part-button" *ngFor="let part of currentData.Content" (click)="selectPart(part.PartName)">{{part.PartName}}</button>
       <button mat-flat-button color="primary" class="part-button" (click)="backhome()">返回</button>
+    </div>
+    <div class="topic-wapper type5-topic-wapper review-wapper" *ngIf="currentReview">
+      <div class="type2title">{{currentReview.Title}}</div>
+      <mat-card class="topic-card type5-topic-card review-card" *ngFor="let card of currentReview.Cards">
+        <mat-card-header>
+          <mat-card-title>{{card.title}}</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <ng-container *ngFor="let block of card.blocks">
+            <p *ngIf="block.type == 'paragraph'" style="line-height: 26px; white-space: pre-line;">{{block.text}}</p>
+            <ul *ngIf="block.type == 'list'" style="line-height: 26px;">
+              <li *ngFor="let item of block.items">{{item}}</li>
+            </ul>
+            <div *ngIf="block.type == 'table'" style="overflow-x: auto; width: 100%;">
+              <table style="min-width: 360px; border-collapse: collapse; line-height: 24px;">
+                <thead>
+                  <tr>
+                    <th *ngFor="let header of block.headers" style="padding: 8px; border: 1px solid rgba(13, 145, 105, 0.25);">{{header}}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let row of block.rows">
+                    <td *ngFor="let cell of row" style="padding: 8px; border: 1px solid rgba(13, 145, 105, 0.25);">{{cell}}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </ng-container>
+        </mat-card-content>
+      </mat-card>
+      <div class="actionbar">
+        <button mat-flat-button (click)="backhome()">返回</button>
+      </div>
     </div>
     <div class="topic-wapper type5-topic-wapper" *ngIf="currentList.length > 0">
       <mat-card class="topic-card type5-topic-card" *ngFor="let topic of currentOrderedList">

@@ -121,6 +121,7 @@ export class AppComponent implements OnInit {
   public currentOrder: number[] = [];
   public currentIndex: number = 0;
   public currentPart: any;
+  public currentReview: any;
   private backButtonPressed: boolean = false;
 
   constructor(private http: HttpClient, private location: Location) {
@@ -178,6 +179,18 @@ export class AppComponent implements OnInit {
       return element.PartName == partName;
     });
 
+    if (part && part.ReviewFile) {
+      this.http.get(`assets/data/${part.ReviewFile}.json`).subscribe((response:any) => {
+        this.currentReview = response;
+        this.currentList = [];
+        this.currentOrder = [];
+        this.currentIndex = 0;
+      });
+
+      history.pushState({ page: 'part' }, '', location.href);
+      return;
+    }
+
     if (part && part.TopicList) {
       this.currentList = part.TopicList;
       this.currentOrder = this.currentType == 5
@@ -216,6 +229,15 @@ export class AppComponent implements OnInit {
   }
 
   backhome(): void {
+    if (this.currentReview) {
+      this.currentReview = null;
+      if (!this.backButtonPressed) {
+        history.pushState({ page: 'home' }, '', location.href);
+      }
+      this.backButtonPressed = false;
+      return;
+    }
+
     if (this.currentList.length != 0) {
       this.currentList = [];
 
@@ -243,6 +265,7 @@ export class AppComponent implements OnInit {
     this.currentType = 0;
     this.currentData = null;
     this.currentPart = null;
+    this.currentReview = null;
     this.backButtonPressed = false;
   }
 

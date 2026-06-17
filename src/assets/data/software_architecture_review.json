@@ -1,0 +1,2114 @@
+{
+  "Name": "软件体系结构",
+  "PartName": "总复习",
+  "Title": "软件体系结构总复习整理",
+  "Source": "C:\\Users\\Scudfly\\Desktop\\总复习\\软件体系结构\\总复习\\软件体系结构-总复习整理.md",
+  "Cards": [
+    {
+      "title": "资料说明",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "资料来源：当前文件夹下的课程 PPTX、DOCX 和复习课资料。两个旧版 .ppt 文件无法直接抽出有效文字，本整理已按其文件名对应主题补全“创建型/结构型模式讨论”和“行为型模式/JUnit 讨论”的应复习内容。"
+        }
+      ]
+    },
+    {
+      "title": "0. 考试信息与复习范围",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "期末考试为闭卷。复习提纲给出的题型："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "题型",
+            "比例",
+            "常见考法"
+          ],
+          "rows": [
+            [
+              "填空",
+              "10%",
+              "“某场景可采用____模式”“____模式具有某特点”"
+            ],
+            [
+              "是非",
+              "10%",
+              "判断模式适用性、结构、效果、体系结构概念"
+            ],
+            [
+              "简答",
+              "40%",
+              "介绍某模式的结构、作用、适用性、效果，或比较相近模式"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "重点范围："
+        },
+        {
+          "type": "list",
+          "items": [
+            "软件体系结构基本概念、体系结构对质量属性的影响。",
+            "设计模式基本原则、分类、作用。",
+            "创建型、结构型、行为型设计模式，尤其复习提纲列出的模式。",
+            "JUnit 中的设计模式案例。",
+            "Web 宏观架构：HTTP、Cookie/Session、Servlet/JSP、MVC、数据层扩展、SOA、REST、微服务。",
+            "其它架构模式：分布式计算、集群、Hadoop、MapReduce、安全认证与访问控制。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "1. 软件体系结构基础",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "软件体系结构描述软件系统各组成成分之间、以及这些成分与外部环境之间的关系。它不是某个类的设计，而是系统级的组织结构、通信方式、控制方式和演化原则。"
+        },
+        {
+          "type": "paragraph",
+          "text": "IEEE-1471 定义强调：体系结构是系统在组件、组件关系、组件与环境关系以及指导设计和演化的原则中的基本组织。"
+        },
+        {
+          "type": "paragraph",
+          "text": "体系结构设计的输出是体系结构描述。大型系统通常由多个提供相关服务的子系统构成，设计早期需要识别这些子系统，并建立控制和通信框架。"
+        }
+      ]
+    },
+    {
+      "title": "1.1 体系结构对质量属性的影响",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "质量属性",
+            "体系结构策略"
+          ],
+          "rows": [
+            [
+              "性能 performance",
+              "将关键操作局部化到少量子系统，减少通信；可能使用较大粒度部件。"
+            ],
+            [
+              "Security 保密/安全",
+              "常采用分层结构，最内层最关键，并在层间做严格验证。"
+            ],
+            [
+              "Safety 安全/保险",
+              "将 safety 相关操作集中到少数子系统，便于验证和保护。"
+            ],
+            [
+              "可用性 availability",
+              "使用冗余部件，支持不停机替换和更新。"
+            ],
+            [
+              "可维护性 maintainability",
+              "使用细粒度、自包含部件，便于替换和维护。"
+            ],
+            [
+              "可变性",
+              "识别变化可能性大的需求，使变化影响局部化。"
+            ],
+            [
+              "复用性",
+              "需求类似的系统通常有类似体系结构，可支持大规模复用。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "常见权衡：大粒度部件有利于性能，小粒度部件有利于可维护性；高安全性可能增加复杂度和性能开销。"
+        }
+      ]
+    },
+    {
+      "title": "2. 设计模式总论",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "设计模式是以往经验证明效果良好的软件设计，可在类似应用中重复使用。它比体系结构更微观，主要关注类和对象层面的结构、职责和协作。"
+        }
+      ]
+    },
+    {
+      "title": "2.1 模式四要素",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "要素",
+            "含义"
+          ],
+          "rows": [
+            [
+              "模式名称",
+              "用于代表某个特定模式，方便交流。"
+            ],
+            [
+              "问题",
+              "说明在什么条件下应用该模式。"
+            ],
+            [
+              "解决方案",
+              "描述设计元素、职责和协作关系，是可定制模板。"
+            ],
+            [
+              "效果",
+              "说明应用后的优缺点和权衡，如灵活性、扩展性、时间/空间代价。"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2.2 两条核心原则",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "对接口编程，而不是对实现编程："
+        },
+        {
+          "type": "paragraph",
+          "text": "不要把变量声明为某个具体类，而应声明为抽象类或接口。这样对象之间只依赖共同接口，不依赖具体实现，便于替换和扩展。"
+        },
+        {
+          "type": "paragraph",
+          "text": "优先使用对象组合，而不是类继承："
+        },
+        {
+          "type": "paragraph",
+          "text": "继承是静态复用，运行时难改变，超类变化会影响子类；对象组合通过接口协作，运行时可调整组合，更灵活。但组合可能产生更多对象，结构也更难理解，所以应综合使用，优先组合。"
+        }
+      ]
+    },
+    {
+      "title": "2.3 模式分类",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "分类维度",
+            "类型",
+            "说明"
+          ],
+          "rows": [
+            [
+              "按目的",
+              "创建型",
+              "抽象对象实例化过程。"
+            ],
+            [
+              "按目的",
+              "结构型",
+              "处理类或对象的组合。"
+            ],
+            [
+              "按目的",
+              "行为型",
+              "处理对象交互和职责分配。"
+            ],
+            [
+              "按范围",
+              "类模式",
+              "主要靠继承，结构静态。"
+            ],
+            [
+              "按范围",
+              "对象模式",
+              "主要靠对象组合，运行时可变。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "设计模式可帮助解决：寻找合适对象、决定对象粒度、指定接口、描述实现、复用机制、关联运行时结构和编译时结构、让设计支持变化。"
+        }
+      ]
+    },
+    {
+      "title": "2.4 导致重新设计的原因与对应模式",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "问题",
+            "影响",
+            "可用模式"
+          ],
+          "rows": [
+            [
+              "显式指定具体类创建对象",
+              "依赖具体实现",
+              "Abstract Factory, Factory Method, Prototype"
+            ],
+            [
+              "依赖特定操作",
+              "请求响应方式固定",
+              "Chain of Responsibility, Command"
+            ],
+            [
+              "依赖硬件/软件平台",
+              "可移植性降低",
+              "Abstract Factory, Bridge"
+            ],
+            [
+              "依赖对象表示或实现",
+              "表示变化影响设计",
+              "Abstract Factory, Bridge, Memento, Proxy"
+            ],
+            [
+              "依赖算法",
+              "算法变化导致设计变化",
+              "Builder, Iterator, Strategy, Template Method, Visitor"
+            ],
+            [
+              "紧耦合",
+              "难修改、难扩展",
+              "Abstract Factory, Command, Facade, Mediator, Observer, Chain of Responsibility"
+            ],
+            [
+              "通过生成子类扩展功能",
+              "子类爆炸",
+              "Bridge, Composite, Decorator, Observer, Strategy"
+            ],
+            [
+              "不能方便修改类",
+              "无源码或影响太大",
+              "Adapter, Decorator, Visitor"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. 创建型模式",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "创建型模式抽象对象实例化过程，使系统尽可能独立于对象的创建、组合和表示。类创建型模式使用继承改变被实例化的类；对象创建型模式将实例化委托给另一个对象。"
+        }
+      ]
+    },
+    {
+      "title": "3.1 Abstract Factory 抽象工厂",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：提供创建一系列相关或相互依赖对象的接口，但不指定具体类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "结构："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "AbstractFactory",
+              "声明创建一系列产品对象的接口。"
+            ],
+            [
+              "ConcreteFactory",
+              "创建某一具体产品族。"
+            ],
+            [
+              "AbstractProduct",
+              "声明某类产品接口。"
+            ],
+            [
+              "ConcreteProduct",
+              "具体产品实现。"
+            ],
+            [
+              "Client",
+              "只使用 AbstractFactory 和 AbstractProduct 接口。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "系统要独立于部件的创建、组合和表示。",
+            "系统可由多个部件系列之一配置。",
+            "必须保证同一系列部件风格一致。",
+            "部件开发方不希望暴露具体实现。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "效果："
+        },
+        {
+          "type": "paragraph",
+          "text": "优点是客户代码独立于具体产品类，容易更换产品系列，容易保持风格一致，也容易增加新产品系列。缺点是不容易增加新的产品种类，因为要修改 AbstractFactory 接口及所有工厂实现。"
+        },
+        {
+          "type": "paragraph",
+          "text": "辨析：抽象工厂重在创建一族相关产品；Builder 重在按步骤构造复杂对象；Factory Method 重在把一个对象的创建延迟给子类。"
+        }
+      ]
+    },
+    {
+      "title": "3.2 Builder 生成器/建造者",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：让构造复杂对象的过程独立于对象表达，用同一构造过程创建不同表达。"
+        },
+        {
+          "type": "paragraph",
+          "text": "结构："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Director",
+              "定义固定构造过程，按步骤调用 Builder。"
+            ],
+            [
+              "Builder",
+              "声明创建部件的接口。"
+            ],
+            [
+              "ConcreteBuilder",
+              "创建并装配具体部件。"
+            ],
+            [
+              "Product",
+              "被构造的复杂对象。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "特点：Director 中的 construct 方法步骤相同，不同 Builder 决定具体结果。不同 Builder 产生的对象可能差异很大，不一定有公共父类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "与抽象工厂区别：抽象工厂创建各种部件，组合交给 Client；Builder 在客户控制下创建并组合部件，强调构造过程。"
+        }
+      ]
+    },
+    {
+      "title": "3.3 Factory Method 工厂方法",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：定义创建对象的接口，把实例化延迟到子类，让子类决定实例化哪个类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "结构："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Creator",
+              "声明 factoryMethod，通常也定义依赖产品的框架逻辑。"
+            ],
+            [
+              "ConcreteCreator",
+              "重定义 factoryMethod 返回 ConcreteProduct。"
+            ],
+            [
+              "Product",
+              "产品接口。"
+            ],
+            [
+              "ConcreteProduct",
+              "具体产品。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：一个框架只知道需要 Product 接口，不知道具体产品类；或者希望由子类决定创建对象。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：为子类提供挂钩，连接平行的类层次。它是类创建型模式。"
+        }
+      ]
+    },
+    {
+      "title": "3.4 Prototype 原型",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：用原型实例指定创建对象的种类，通过复制原型创建新对象。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "需要避免创建对象时显式指定具体类。",
+            "创建对象代价较高，复制已有对象更方便。",
+            "对象种类可在运行时动态配置。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "注意：浅拷贝只复制引用，深拷贝复制被引用对象；考试若问实现效果，要说明复制深度对对象独立性的影响。"
+        }
+      ]
+    },
+    {
+      "title": "3.5 Singleton 单件",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：确保系统中某类至多只有一个实例，并提供全局访问点。也可推广为至多 n 个实例。"
+        },
+        {
+          "type": "paragraph",
+          "text": "结构："
+        },
+        {
+          "type": "list",
+          "items": [
+            "构造方法不公开。",
+            "类中保存唯一实例。",
+            "定义 Instance/getInstance 静态方法返回唯一实例，必要时负责创建。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：某类只需一个对象，且需全局访问；或需要严格控制实例数量。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果："
+        },
+        {
+          "type": "paragraph",
+          "text": "优点：严格控制访问，缩小命名空间，允许扩展为子类实例，也可控制实例数目。比类静态方法灵活，因为单件仍然是对象。"
+        },
+        {
+          "type": "paragraph",
+          "text": "与全局/静态对象比较：全局对象的唯一性责任容易落到客户程序；静态对象通常程序启动时初始化，可能还没有足够初始化信息，也可能遇到初始化顺序问题。Singleton 可延迟到运行时创建。"
+        }
+      ]
+    },
+    {
+      "title": "4. 结构型模式",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "结构型模式把现有类和对象组合成更大结构。结构型类模式靠继承静态组合；结构型对象模式靠对象组合，运行时更灵活。"
+        }
+      ]
+    },
+    {
+      "title": "4.1 Adapter 适配器",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：将一个类的接口转换成客户希望的另一个接口，使原本接口不兼容的类能一起工作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Target",
+              "客户期望的接口。"
+            ],
+            [
+              "Adaptee",
+              "已存在但接口不匹配的类。"
+            ],
+            [
+              "Adapter",
+              "把 Adaptee 接口转换为 Target 接口。"
+            ],
+            [
+              "Client",
+              "按 Target 接口使用对象。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "类适配器：Adapter 继承 Adaptee 并实现 Target 接口。优点是可重定义 Adaptee 操作；缺点是不能适配 Adaptee 子类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "对象适配器：Adapter 持有 Adaptee 对象，把请求委托给 Adaptee。优点是可适配 Adaptee 及其子类；缺点是不容易重定义 Adaptee 操作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "要点：Adapter 用于“接口不匹配但想复用已有类”。可插入适配器要求先找到最小窄接口。"
+        }
+      ]
+    },
+    {
+      "title": "4.2 Bridge 桥接",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：将抽象部分与实现部分分离，使二者都能独立变化。"
+        },
+        {
+          "type": "paragraph",
+          "text": "结构："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Abstraction",
+              "抽象层接口，持有 Implementor 引用。"
+            ],
+            [
+              "RefinedAbstraction",
+              "扩展抽象层。"
+            ],
+            [
+              "Implementor",
+              "实现层接口。"
+            ],
+            [
+              "ConcreteImplementor",
+              "具体实现。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "典型问题：m 种窗口和 n 个平台，若直接组合会产生 m*n 个类；使用 Bridge 后形成 m 种窗口类 + n 种平台实现类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：分解不同类层次，避免类爆炸，提高扩展性。"
+        }
+      ]
+    },
+    {
+      "title": "4.3 Composite 组合",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：将对象组合成树形结构表示整体/部分关系，使单个基本对象和组合对象具有相同接口。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Component",
+              "定义统一接口。"
+            ],
+            [
+              "Leaf",
+              "基本对象，没有子节点。"
+            ],
+            [
+              "Composite",
+              "维护子部件集合，实现与 Component 相同接口。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "需要表示整体-部分层次结构。",
+            "希望客户忽略组合对象和叶子对象差异。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：形成递归结构，简化客户代码，灵活增删组合对象和基本对象。不要求必须有从子节点到父节点的引用。"
+        }
+      ]
+    },
+    {
+      "title": "4.4 Decorator 装饰",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：动态地给某个对象添加额外职责。它添加的是对象功能，不是类功能，比子类更灵活。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Component",
+              "定义对象接口。"
+            ],
+            [
+              "ConcreteComponent",
+              "原始对象。"
+            ],
+            [
+              "Decorator",
+              "持有 Component 引用，并实现同样接口。"
+            ],
+            [
+              "ConcreteDecorator",
+              "在转发请求前后增加职责。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "要动态、透明地给对象增加功能。",
+            "功能可以动态撤销。",
+            "不适合或无法通过继承扩展。",
+            "需要避免大量扩展子类。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：比继承灵活，可组合附加功能；缺点是可能产生很多小对象。"
+        },
+        {
+          "type": "paragraph",
+          "text": "辨析：Adapter 改接口；Decorator 保持接口并增加功能；Proxy 控制访问，通常不增加业务功能。"
+        }
+      ]
+    },
+    {
+      "title": "4.5 Facade 外观",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：为子系统的一组接口提供一致的高层接口，简化子系统使用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "要为复杂子系统提供简单入口。",
+            "将系统划分为多个子系统以降低复杂性。",
+            "在分层系统中为某层定义入口点，最小化层间依赖。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：屏蔽子系统细节，降低客户与子系统耦合，有助于层次结构和降低编译依赖；但不妨碍高级客户直接使用子系统内部部件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "辨析：Facade 是“对外简化访问子系统”；Mediator 是“封装同一组对象之间的复杂交互”。"
+        }
+      ]
+    },
+    {
+      "title": "4.6 Flyweight 享元",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：通过共享技术有效支持大量细粒度对象，减少存储开销。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：系统使用大量对象导致巨大内存开销；对象大多数状态可外部化，只保留较少内部状态。"
+        },
+        {
+          "type": "paragraph",
+          "text": "关键概念："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "状态",
+            "含义"
+          ],
+          "rows": [
+            [
+              "内部状态 intrinsic",
+              "可共享、与上下文无关，保存在享元对象中。"
+            ],
+            [
+              "外部状态 extrinsic",
+              "不可共享、依赖上下文，由客户传入。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "例子：字符串、字符显示、棋子图标等。核心是对象池和共享。"
+        }
+      ]
+    },
+    {
+      "title": "4.7 Proxy 代理",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：为其他对象提供代理，以控制对该对象的访问。"
+        },
+        {
+          "type": "paragraph",
+          "text": "常见类型："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "类型",
+            "说明"
+          ],
+          "rows": [
+            [
+              "远程代理",
+              "为不同地址空间的对象提供局部代表。"
+            ],
+            [
+              "虚代理",
+              "按需创建开销大的对象，如图片懒加载。"
+            ],
+            [
+              "保护代理",
+              "控制访问权限。"
+            ],
+            [
+              "智能指引",
+              "访问时执行附加操作，如引用计数、锁检查、持久对象装入。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Proxy 与 Decorator 都包装对象，但 Proxy 重在控制访问，Decorator 重在动态增加职责。"
+        }
+      ]
+    },
+    {
+      "title": "5. 行为型模式",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "行为型模式描述对象之间的通信、协作和职责分配。行为类模式用继承分配行为，如 Template Method；行为对象模式通过对象协作实现行为，如 Observer。"
+        }
+      ]
+    },
+    {
+      "title": "5.1 Chain of Responsibility 职责链",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：使多个对象都有机会处理请求，避免请求发送者与接收者耦合。将对象连成链，请求沿链传递，直到有对象处理为止。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Handler",
+              "定义处理请求接口，可维护后继者。"
+            ],
+            [
+              "ConcreteHandler",
+              "能处理则处理，否则转发给后继者。"
+            ],
+            [
+              "Client",
+              "向链上对象提交请求。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：多个对象可处理请求，但每个请求只需一个具体对象处理，且要运行时动态决定。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：降低耦合，增强职责分配灵活性，可运行时修改链；缺点是不保证请求一定被处理。"
+        }
+      ]
+    },
+    {
+      "title": "5.2 Command 命令",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：把一个请求封装为 Command 对象，使客户程序可通过不同命令对象调整功能，也可支持日志、排队、撤销和重做。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Command",
+              "定义执行操作接口，如 execute。"
+            ],
+            [
+              "ConcreteCommand",
+              "绑定 Receiver 和具体操作，在 execute 中调用 Receiver。"
+            ],
+            [
+              "Client",
+              "创建命令并设置 Receiver。"
+            ],
+            [
+              "Invoker",
+              "发出请求，调用 Command。"
+            ],
+            [
+              "Receiver",
+              "真正实现请求对应操作。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：用参数化方式设置对象任务；替代回调函数；命令需要排队、日志、跨进程传递、Undo/Redo。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：触发操作的对象与执行操作的对象松耦合；命令可作为普通对象管理；可用 Composite 组成复合命令；容易增加新命令。"
+        }
+      ]
+    },
+    {
+      "title": "5.3 Interpreter 解释器（资料略过，已补全）",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：给定一种语言，定义其文法表示，并定义解释器解释该语言中的句子。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "AbstractExpression",
+              "声明解释操作。"
+            ],
+            [
+              "TerminalExpression",
+              "解释终结符。"
+            ],
+            [
+              "NonterminalExpression",
+              "解释非终结符，递归组合表达式。"
+            ],
+            [
+              "Context",
+              "保存解释所需全局信息。"
+            ],
+            [
+              "Client",
+              "构建语法树并调用解释。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：文法简单、稳定，且需要频繁解释表达式。例如规则表达式、简单查询语言、配置表达式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：易于改变和扩展文法；每条文法规则可表示为一个类。缺点是复杂文法会导致类数量膨胀，效率也可能较低。"
+        }
+      ]
+    },
+    {
+      "title": "5.4 Iterator 迭代器",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：提供一种顺序访问聚合对象中各元素的方法，而不暴露聚合内部表示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Iterator",
+              "定义访问和遍历接口。"
+            ],
+            [
+              "ConcreteIterator",
+              "实现遍历，记录当前位置。"
+            ],
+            [
+              "Aggregate",
+              "定义创建迭代器的接口。"
+            ],
+            [
+              "ConcreteAggregate",
+              "创建相应具体迭代器。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：访问聚合内容而不暴露内部表示；支持多种遍历；为不同聚合结构提供统一遍历接口。"
+        },
+        {
+          "type": "paragraph",
+          "text": "多态迭代：为所有列表定义公共 AbstractList，为所有迭代器定义 Iterator，由具体列表创建具体迭代器。客户代码不关心列表和迭代器具体类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：支持不同遍历方式；简化聚合接口；一个聚合上可同时存在多个迭代器。"
+        },
+        {
+          "type": "paragraph",
+          "text": "外部迭代：客户一步步推动迭代。内部迭代：迭代器内部自动完成遍历。"
+        }
+      ]
+    },
+    {
+      "title": "5.5 Mediator 中介器",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：用一个中介对象封装一系列对象的交互，使这些对象无需显式互相引用，从而松耦合。改变中介对象即可改变交互方式。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：一组对象交互关系复杂，呈多对多依赖；对象难以复用，因为它引用并依赖许多其他对象。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：减少同事对象间直接引用，集中控制交互；缺点是中介器可能变得复杂，形成“上帝对象”。"
+        },
+        {
+          "type": "paragraph",
+          "text": "与 Facade 区别：Facade 对外包装子系统；Mediator 在同一组对象内部协调协作。"
+        }
+      ]
+    },
+    {
+      "title": "5.6 Memento 备忘录",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：在不破坏封装性的前提下取得对象内部状态，并在对象之外保存，以便以后恢复。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Originator",
+              "创建备忘录并可恢复状态。"
+            ],
+            [
+              "Memento",
+              "保存 Originator 状态。"
+            ],
+            [
+              "Caretaker",
+              "管理备忘录，但不读取其内部。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "要点：备忘录通常有两个接口，Originator 使用宽接口访问完整状态，Caretaker 使用窄接口只负责保存和传递。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：需要快照、撤销、恢复，并且不希望暴露对象内部结构。"
+        }
+      ]
+    },
+    {
+      "title": "5.7 Observer 观察者",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：定义对象间一对多依赖关系，当一个对象状态改变时，所有依赖它的对象都得到通知并自动更新。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Subject",
+              "定义注册、注销、通知观察者的方法。"
+            ],
+            [
+              "ConcreteSubject",
+              "保存状态，状态改变时通知观察者。"
+            ],
+            [
+              "Observer",
+              "定义更新接口。"
+            ],
+            [
+              "ConcreteObserver",
+              "实现更新逻辑。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "抽象模型有两个方面，一个依赖另一个，应封装为独立对象。",
+            "对一个对象的改变需要同时改变其他对象，但不知道其他对象是谁、有多少。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：Subject 和 Observer 通过简单接口抽象耦合；广播通信支持任意数量观察者；缺点是更新可能频繁或产生意外连锁反应。"
+        },
+        {
+          "type": "paragraph",
+          "text": "注意：通常 Subject 状态变化后自动 notify。若连续变化导致频繁更新，可由客户在必要时调用 notify，但会增加客户责任，漏调可能出错。"
+        }
+      ]
+    },
+    {
+      "title": "5.8 State 状态",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：允许对象在内部状态改变时改变其行为，对象看起来像修改了类。"
+        },
+        {
+          "type": "paragraph",
+          "text": "结构：Context 持有 State 接口引用；ConcreteState 实现不同状态下的行为；Context 将状态相关行为委托给当前 State 对象。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：对象行为取决于状态，且运行时状态会改变；代码中有大量依赖状态的条件分支。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：把状态相关行为局部化到状态类中，消除复杂条件语句；状态转换更明确。缺点是增加状态类数量。"
+        }
+      ]
+    },
+    {
+      "title": "5.9 Strategy 策略（资料略过，已补全）",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：定义一系列算法，把每个算法封装起来，并使它们可以相互替换。策略模式让算法独立于使用它的客户变化。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Strategy",
+              "定义算法公共接口。"
+            ],
+            [
+              "ConcreteStrategy",
+              "实现具体算法。"
+            ],
+            [
+              "Context",
+              "持有 Strategy 引用，把算法调用委托给策略对象。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "多个类只在行为算法上不同。",
+            "需要算法的不同变体。",
+            "算法中包含客户不应知道的数据。",
+            "代码中有复杂条件结构选择算法。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：算法可独立变化，减少条件分支，支持运行时替换；缺点是客户可能需要了解不同策略，且增加对象数量。"
+        },
+        {
+          "type": "paragraph",
+          "text": "与 State 区别：Strategy 通常由客户选择算法，强调替换算法；State 通常由对象内部状态转换驱动，强调状态改变引起行为改变。"
+        }
+      ]
+    },
+    {
+      "title": "5.10 Template Method 模板方法",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：在超类中定义算法骨架，将某些步骤延迟到子类。子类可重定义某些步骤而不改变算法结构。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "AbstractClass",
+              "定义基本操作和模板方法。"
+            ],
+            [
+              "ConcreteClass",
+              "实现或覆盖基本操作。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性：一次性实现算法不变部分，把可变步骤留给子类；只允许子类在特定方面扩展。"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：复用算法骨架，控制扩展点。缺点是依赖继承，运行时灵活性不如策略模式。"
+        }
+      ]
+    },
+    {
+      "title": "5.11 Visitor 访问者",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "意图：表示一个作用于某对象结构中各元素的操作，使你可以在不改变元素类的前提下定义新操作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "结构："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "角色",
+            "职责"
+          ],
+          "rows": [
+            [
+              "Visitor",
+              "为每种 ConcreteElement 声明 visit 操作。"
+            ],
+            [
+              "ConcreteVisitor",
+              "实现具体操作，可保存累积状态。"
+            ],
+            [
+              "Element",
+              "声明 accept。"
+            ],
+            [
+              "ConcreteElement",
+              "在 accept 中调用 visitor.visit(this)。"
+            ],
+            [
+              "ObjectStructure",
+              "保存元素集合，可遍历元素。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用性："
+        },
+        {
+          "type": "list",
+          "items": [
+            "对象结构包含多种类型对象，需要执行依赖类型的操作。",
+            "需要对结构定义很多不相关操作，且不希望污染元素类。",
+            "元素类很少变化，但经常增加新操作。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "效果：容易增加新操作；集中相关操作、分离无关操作；可在 Visitor 中累积状态。缺点是增加新元素类困难，会导致 Visitor 层次整体修改；可能破坏元素封装。"
+        },
+        {
+          "type": "paragraph",
+          "text": "双分派：执行操作由 Visitor 的具体类型和 Element 的具体类型共同决定。Element 的 accept 调用具体 Visitor 的处理方法。"
+        }
+      ]
+    },
+    {
+      "title": "6. 设计模式辨析速记",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "容易混淆",
+            "区别"
+          ],
+          "rows": [
+            [
+              "Abstract Factory vs Factory Method",
+              "抽象工厂创建一族产品；工厂方法创建一种产品并延迟给子类。"
+            ],
+            [
+              "Abstract Factory vs Builder",
+              "抽象工厂重在创建产品族；Builder 重在按步骤构造复杂对象。"
+            ],
+            [
+              "Adapter vs Decorator vs Proxy",
+              "Adapter 改接口；Decorator 保接口加职责；Proxy 控制访问。"
+            ],
+            [
+              "Facade vs Mediator",
+              "Facade 对外简化子系统；Mediator 封装对象之间复杂交互。"
+            ],
+            [
+              "Bridge vs Adapter",
+              "Bridge 是设计前期分离抽象与实现；Adapter 多用于后期兼容已有接口。"
+            ],
+            [
+              "Composite vs Decorator",
+              "Composite 组织整体/部分树；Decorator 包装单个对象增加职责。"
+            ],
+            [
+              "Strategy vs State",
+              "Strategy 封装算法，由客户/环境选择；State 封装状态行为，由状态转换驱动。"
+            ],
+            [
+              "Command vs Chain of Responsibility",
+              "Command 把请求对象化；职责链让请求沿处理链寻找处理者。"
+            ],
+            [
+              "Template Method vs Strategy",
+              "Template Method 靠继承固定算法骨架；Strategy 靠组合替换算法。"
+            ],
+            [
+              "Memento vs Command",
+              "Memento 保存状态；Command 保存请求，可结合 Memento 实现撤销。"
+            ],
+            [
+              "Iterator vs Visitor",
+              "Iterator 提供遍历方法；Visitor 在遍历时对不同元素执行类型相关操作。"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7. JUnit 中的设计模式案例",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "课程把 JUnit 作为实例研究。起点是 MVC："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "MVC 角色",
+            "JUnit 对应"
+          ],
+          "rows": [
+            [
+              "Model",
+              "TestCase，即测试用例。"
+            ],
+            [
+              "View",
+              "实现 TestListener 的结果显示。"
+            ],
+            [
+              "Controller",
+              "TestRunner，执行测试程序的框架。"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7.1 Template Method",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "测试过程包含固定顺序："
+        },
+        {
+          "type": "list",
+          "items": [
+            "setUp：测试前状态设置。",
+            "runTest：执行测试。",
+            "tearDown：测试后清理。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "TestCase 中定义模板方法 runBare，按 setUp -> runTest -> tearDown 顺序调用。子类可覆盖 setUp、runTest、tearDown，但不覆盖 runBare。这样确保每次测试执行顺序一致，测试用例相互独立。"
+        }
+      ]
+    },
+    {
+      "title": "7.2 Adapter",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "一个具体 TestCase 内部可以有多个 testXXX 方法，但测试框架每次执行的是统一的 runTest 方法。runTest 起到适配器作用，把不同测试方法适配为统一执行接口。"
+        }
+      ]
+    },
+    {
+      "title": "7.3 Observer",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "测试过程中的 assert 和异常会产生事件，这些信息被 TestResult 收集。视图通过实现 TestListener 并注册到 TestResult 上，观察测试结果变化。这里 Observer 连接 Model 和 View。"
+        }
+      ]
+    },
+    {
+      "title": "7.4 Command",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "测试用例可被包装成对象，由测试框架调用执行。采用 Command 模式衔接 TestRunner 和被测试程序。"
+        }
+      ]
+    },
+    {
+      "title": "7.5 Composite",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "需要同时测试多个 TestCase 时，建立 TestSuite。TestSuite 和 TestCase 都实现 Test 接口，测试框架不区分单个测试和测试集合。"
+        }
+      ]
+    },
+    {
+      "title": "7.6 Decorator",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "当只想给部分 TestCase 增加功能时，用装饰模式比大量子类更合适。装饰类在问题域中不一定有对应物，是由设计模式引入的设计对象。"
+        }
+      ]
+    },
+    {
+      "title": "8.1 Web 工作方式",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Web 基本要素：浏览器、Web 服务器、URL、HTTP、MIME。"
+        },
+        {
+          "type": "paragraph",
+          "text": "浏览器负责根据用户输入向服务器发出请求，接收并解释显示服务器响应。Web 服务器保存 HTML 文件，把请求映射到服务器上的文件或服务，并生成响应。"
+        },
+        {
+          "type": "paragraph",
+          "text": "HTTP 是请求-响应模型：浏览器发出请求，服务器处理请求并返回响应。"
+        }
+      ]
+    },
+    {
+      "title": "8.2 HTTP 无状态与 Cookie/Session",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "标准 HTTP 中两次请求之间不保持状态。用户先后访问两个链接，会发生两次互不相关的请求-响应过程。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cookie 是对 HTTP 的扩展：服务器可通过浏览器把内容写入浏览器本地 Cookie 文件，下次访问同一服务器时浏览器带上对应 Cookie。服务器常用 Cookie 识别以前访问过的客户。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Session 是服务器端状态管理机制，通常通过 Session ID 与客户端关联。Session ID 可通过 Cookie 传递，也可通过 URL 重写等方式传递。"
+        },
+        {
+          "type": "paragraph",
+          "text": "常见范围："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "范围",
+            "说明"
+          ],
+          "rows": [
+            [
+              "request",
+              "一次请求内共享数据。"
+            ],
+            [
+              "session",
+              "同一用户会话内共享数据。"
+            ],
+            [
+              "application/context",
+              "整个 Web 应用内共享数据。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "集群下 Session 数据保持方式："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "方式",
+            "特点"
+          ],
+          "rows": [
+            [
+              "Session Sticky",
+              "同一用户固定到同一服务器，简单但容错差。"
+            ],
+            [
+              "Session Replication",
+              "服务器间复制 Session，可用性较好但有同步开销。"
+            ],
+            [
+              "Session 保存到数据层",
+              "集中保存，便于扩展，但访问数据层有开销。"
+            ],
+            [
+              "Cookie Based",
+              "状态保存在客户端，减轻服务器压力，但安全和大小受限。"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "8.3 Web 服务器、Web 容器、Servlet",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "标准 Web 服务器本身主要支持静态资源和基础 HTTP，不负责复杂业务逻辑、连接数据层等。因此出现 Web 应用服务器和 Web 容器。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Web 容器支持 Servlet/JSP，负责："
+        },
+        {
+          "type": "list",
+          "items": [
+            "管理 Servlet 生命周期。",
+            "将 HTTP 请求封装为请求对象。",
+            "调用 Servlet 接口方法。",
+            "管理配置、安全、会话等运行环境。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Servlet 生命周期："
+        },
+        {
+          "type": "list",
+          "items": [
+            "容器加载并实例化 Servlet。",
+            "调用 init 初始化。",
+            "对每个请求调用 service，再分发到 doGet/doPost 等。",
+            "关闭或卸载时调用 destroy。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Servlet 优点：运行在服务器端，性能和安全性通常优于 CGI；可访问 Java API 和服务器资源；适合作控制器和业务入口。缺点：直接生成 HTML 不方便，表现层代码混杂。"
+        }
+      ]
+    },
+    {
+      "title": "8.4 Servlet 协作与共享",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Servlet 协作方式："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "方式",
+            "用法"
+          ],
+          "rows": [
+            [
+              "RequestDispatcher forward",
+              "把请求转发给另一个 Servlet/JSP，浏览器地址通常不变。"
+            ],
+            [
+              "RequestDispatcher include",
+              "包含另一个资源的输出。"
+            ],
+            [
+              "ServletContext",
+              "在整个应用范围共享数据和访问资源。"
+            ],
+            [
+              "Session/Cookie",
+              "在用户会话或客户端保存状态。"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "8.5 JSP",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "JSP 会被翻译成 Servlet 执行。JSP 适合生成动态页面，常见元素包括脚本、表达式、声明、指令、动作等。JSP 可通过隐式对象访问 request、response、session、application、out 等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺点：大量 Java 脚本混入页面会导致结构混乱。因此更推荐 Servlet 做控制器，JSP 做视图。"
+        }
+      ]
+    },
+    {
+      "title": "8.6 基于 JSP/Servlet 的 MVC",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "典型流程："
+        },
+        {
+          "type": "list",
+          "items": [
+            "浏览器向 Servlet 发出初始请求。",
+            "Servlet 作为 Controller，检查输入和前提条件。",
+            "Controller 找到或创建业务对象，委托它们执行任务。",
+            "Controller 选择响应视图，如 JSP。",
+            "JSP 根据传入数据生成 HTML 返回浏览器。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "扩展后的架构可加入映射层和持久层，使控制逻辑、业务逻辑、表现逻辑和数据访问分离。"
+        },
+        {
+          "type": "paragraph",
+          "text": "控制器职责："
+        },
+        {
+          "type": "list",
+          "items": [
+            "建立对请求响应的控制流。",
+            "检查前提条件和输入数据。",
+            "执行任务或委托业务对象。",
+            "选择响应机制。",
+            "状态管理。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "8.7 数据层扩展",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "table",
+          "headers": [
+            "问题",
+            "架构手段"
+          ],
+          "rows": [
+            [
+              "数据库读压力大",
+              "读写分离、数据库缓存、页面缓存。"
+            ],
+            [
+              "模糊查询压力大",
+              "使用搜索引擎。"
+            ],
+            [
+              "数据库规模大",
+              "垂直拆分、水平拆分。"
+            ],
+            [
+              "业务规模大",
+              "业务拆分，演化为 SOA 或微服务。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "垂直拆分：不同业务数据拆到不同数据库。问题是跨业务事务、跨数据库 join。"
+        },
+        {
+          "type": "paragraph",
+          "text": "水平拆分：同一表数据按规则拆到多个数据库。问题是 SQL 路由、多库综合查询。"
+        }
+      ]
+    },
+    {
+      "title": "9.1 SOA",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "SOA 面向服务，把业务能力封装为可被发现、调用和组合的服务。传统 Web Service 技术包括："
+        },
+        {
+          "type": "table",
+          "headers": [
+            "技术",
+            "作用"
+          ],
+          "rows": [
+            [
+              "WSDL",
+              "描述 Web 服务接口。"
+            ],
+            [
+              "UDDI",
+              "服务注册与发现。"
+            ],
+            [
+              "SOAP",
+              "简单对象访问协议。"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "9.2 REST/RESTful",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "REST 是一组架构约束和原则，符合这些原则的架构称为 RESTful。"
+        },
+        {
+          "type": "paragraph",
+          "text": "REST 主要原则："
+        },
+        {
+          "type": "list",
+          "items": [
+            "网络上的所有事物都抽象为资源。",
+            "每个资源有唯一资源标识符。",
+            "同一资源可有多种表现形式，如 XML、JSON。",
+            "操作是无状态的。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "9.3 微服务",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "微服务没有绝对统一定义，但常见特点："
+        },
+        {
+          "type": "list",
+          "items": [
+            "不开发一个巨大单体应用，而是拆分为小的、互相连接的服务。",
+            "每个服务围绕独立业务能力构建。",
+            "服务之间常通过 RESTful API 通信。",
+            "便于独立开发、部署、扩展，但带来分布式复杂性。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "10.1 分布式计算",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "功能分解式分布式计算：把原来单机中的函数/过程分布到不同计算机，核心问题是远程调用，即 RPC。目标是网络操作透明化，调用对象操作时不关心对象在本地还是远程。"
+        },
+        {
+          "type": "paragraph",
+          "text": "负载分配式分布式计算：将大规模计算任务分配到多个节点。"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "类型",
+            "特点",
+            "示例"
+          ],
+          "rows": [
+            [
+              "松散任务分配",
+              "任务之间关系松散，无严格时序",
+              "SETI@home、密码枚举、DNA 计算"
+            ],
+            [
+              "紧密任务分配",
+              "子任务关系紧密，需要共享信息或时序协调",
+              "集群计算、并行计算"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "集群：多个计算机、存储设备和互连线路组成对用户而言单一、高可用的系统。常用于负载均衡、容错、提升可靠性和可用性。"
+        },
+        {
+          "type": "paragraph",
+          "text": "并行计算：时间上的并行是流水线，空间上的并行是多个处理器并发执行。要求问题可分解为可并行子任务。"
+        }
+      ]
+    },
+    {
+      "title": "10.2 Hadoop 与 MapReduce",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hadoop 是开源分布式框架，包含 HDFS 和 MapReduce 等组件。与早期下载数据到客户端计算不同，Hadoop 更适合数据密集型任务：根据数据部署把代码迁移到数据所在节点，减少大规模数据传输。"
+        },
+        {
+          "type": "paragraph",
+          "text": "HDFS：把文件切成块，复制到多个 DataNode，避免单节点失效影响计算。"
+        },
+        {
+          "type": "paragraph",
+          "text": "MapReduce：并行计算模式，分两步："
+        },
+        {
+          "type": "list",
+          "items": [
+            "Map：处理每个输入 (input_key, input_value)，产生一系列 (intermediate_key, intermediate_value)。",
+            "Reduce：按 intermediate_key 归并并处理，产生 (output_key, output_value)。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Map 结果按 key 分成 R 组交给 R 个 Reduce。常用 hash(key) mod R 划分。Reduce 按 key 排序并输出结果。Map 中间结果保存在本地磁盘，位置通知主控，再由 Reduce 到相应节点读取。"
+        }
+      ]
+    },
+    {
+      "title": "10.3 安全模式",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "身份标识和确认：唯一标识并确认实体，可通过口令、证书、指纹等。"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "方式",
+            "说明"
+          ],
+          "rows": [
+            [
+              "单向认证",
+              "一方验证另一方，如口令。简单口令安全性低，可用一次性口令增强。"
+            ],
+            [
+              "双向认证",
+              "双方共享信息并互相验证，如共享密钥和消息校验码。"
+            ],
+            [
+              "第三方认证",
+              "通过可信第三方认证，如 Kerberos。"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "访问控制：通常通过访问控制表 ACL 实现，可看作主体 S 对客体 O 的权限矩阵。常见扩展是基于角色访问控制 RBAC。"
+        }
+      ]
+    },
+    {
+      "title": "11. 宏观架构演化",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "软件结构随计算机和网络发展而演化："
+        },
+        {
+          "type": "list",
+          "items": [
+            "单机程序：从机器语言、汇编、高级语言到面向对象语言，形成函数、对象、构件等模块结构。",
+            "网络阶段：从以单计算机为中心的终端联机系统，到以通信子网为中心的计算机网络，再到开放式标准化网络。",
+            "客户/服务器：随着共享资源和协同工作需求出现。存在胖客户端/瘦服务器、瘦客户端/胖服务器的权衡。",
+            "Web 架构：浏览器、Web 服务器、HTTP、URL、HTML/MIME。",
+            "三层与多层：表现层、业务层、数据层分离。",
+            "SOA/微服务：业务和数据进一步拆分，通过服务接口协作。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "12.1 介绍某模式的结构和作用",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可按以下顺序答："
+        },
+        {
+          "type": "list",
+          "items": [
+            "意图：该模式要解决什么问题。",
+            "适用场景：什么时候使用。",
+            "参与者：列角色和职责。",
+            "协作：对象之间如何交互。",
+            "效果：优点、缺点、权衡。",
+            "与相近模式比较：如果题目容易混淆，主动辨析。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "12.2 比较两个模式",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "答题结构："
+        },
+        {
+          "type": "list",
+          "items": [
+            "共同点：都解决什么类别的问题。",
+            "核心差异：意图、结构、使用阶段、变化点。",
+            "举例：给一个典型应用场景。",
+            "结论：何时选 A，何时选 B。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "12.3 体系结构题",
+      "level": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "答题结构："
+        },
+        {
+          "type": "list",
+          "items": [
+            "定义相关架构或机制。",
+            "说明组成部分和交互。",
+            "说明它如何影响质量属性。",
+            "说明代价和限制。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "13. 填空/判断高频点",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "对接口编程，而不是对实现编程。",
+            "优先使用对象组合，而不是类继承。",
+            "创建型模式抽象对象实例化过程。",
+            "结构型模式组合现有类和对象。",
+            "行为型模式处理对象交互和职责分配。",
+            "Abstract Factory 创建一系列相关对象，难以增加新产品种类。",
+            "Builder 用同一构造过程创建不同表示。",
+            "Factory Method 把实例化延迟到子类。",
+            "Prototype 通过复制原型创建对象。",
+            "Singleton 控制某类至多一个实例，并提供全局访问点。",
+            "Adapter 解决接口不兼容。",
+            "Bridge 分离抽象和实现，避免 M*N 类爆炸。",
+            "Composite 表示整体/部分树形结构，统一叶子和组合对象接口。",
+            "Decorator 动态给对象增加职责。",
+            "Facade 为子系统提供高层统一接口。",
+            "Flyweight 共享大量细粒度对象以节省空间。",
+            "Proxy 控制对对象的访问。",
+            "Chain of Responsibility 让请求沿链寻找处理者。",
+            "Command 把请求封装为对象，可支持日志、队列、Undo/Redo。",
+            "Iterator 不暴露聚合内部表示而遍历元素。",
+            "Mediator 封装多个对象之间复杂交互。",
+            "Memento 在不破坏封装的前提下保存状态。",
+            "Observer 是一对多依赖，Subject 状态变化通知 Observer。",
+            "State 用状态对象改变 Context 行为。",
+            "Strategy 封装可替换算法，常用于改进复杂条件结构。",
+            "Template Method 在父类定义算法骨架，子类实现可变步骤。",
+            "Visitor 容易增加新操作，不容易增加新元素类型。",
+            "Servlet 生命周期：init、service/doGet/doPost、destroy。",
+            "HTTP 是无状态请求响应协议。",
+            "Cookie 保存在客户端，Session 通常保存在服务器端。",
+            "JSP 会被翻译成 Servlet 执行。",
+            "JSP/Servlet MVC 中 Servlet 常作 Controller，JSP 常作 View。",
+            "RESTful 操作无状态，资源有唯一标识符。",
+            "MapReduce 包含 Map 和 Reduce 两步。"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "14. 已补全与注意事项",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "复习提纲中“解释器模式”标为略，本整理按 GoF 结构补全了意图、角色、适用性和效果。",
+            "复习课中“策略模式”标为略，本整理补全了 Strategy 的结构、适用性、效果，并补充了与 State/Template Method 的区别。",
+            "两个旧版 .ppt 文件无法在当前环境直接抽取文字：创建型和结构型模式讨论_1774620964707.ppt、行为型模式和junit讨论_1777041888533.ppt。本整理已根据文件名对应主题，把创建型、结构型、行为型和 JUnit 案例的讨论重点补入。",
+            "第14周--SA-lesson7-5.pptx 与 第14周--SA-lesson7-5 (1).pptx 内容重复，整理时按一份处理。",
+            "本课程资料中主要参考《设计模式》（Gamma 等著）和课程 PPT/视频；考试以 PPT 与课程视频为准。"
+          ]
+        }
+      ]
+    }
+  ]
+}
