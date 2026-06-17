@@ -78,7 +78,7 @@
               <li *ngFor="let item of block.items">{{item}}</li>
             </ul>
             <div *ngIf="block.type == 'table'" style="overflow-x: auto; width: 100%;">
-              <table style="min-width: 360px; border-collapse: collapse; line-height: 24px;">
+              <table style="min-width: 320px; border-collapse: collapse; line-height: 24px;">
                 <thead>
                   <tr>
                     <th *ngFor="let header of block.headers" style="padding: 8px; border: 1px solid rgba(13, 145, 105, 0.25);">{{header}}</th>
